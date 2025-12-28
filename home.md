@@ -1,5 +1,7 @@
 # The Wild Expanse
 
+![wj-logo-banner.webp](./wj-logo-banner.webp)
+
 ## What is "The Wild Expanse"?
 
 **The Wild Expanse** is my universe of high adventure, ancient magic, and the endless "Astral Sea."
