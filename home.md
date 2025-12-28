@@ -1,6 +1,7 @@
 # The Wild Expanse
 
-![wj-logo-banner.webp](./wj-logo-banner.webp)
+<!-- ![wj-logo-banner.webp](./wj-logo-banner.webp) -->
+![./wildjammer-logo.png](./wildjammer-logo.png)
 
 ## What is "The Wild Expanse"?
 
