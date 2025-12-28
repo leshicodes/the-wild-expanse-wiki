@@ -16,6 +16,9 @@ Every solar system is encased in a supermassive, indestructible shell known as a
 *   **Transit:** Travel between the sphere and the outside is only possible through natural or magical portals that open and close along the surface.
 
 ### The Phlogiston
+
+![phlogiston.png](./phlogiston.png)
+
 Beyond the Crystal Spheres lies the **Phlogiston** (also known as "The Flow" or "The Rainbow Ocean"). It is a chaotic, multi-colored medium that fills the space between Crystal Spheres.
 *   **Analogy:** The deep, open ocean that lies between archipelagos (Crystal Spheres).
 *   **Properties:** The Flow is a thick, luminescent fog that allows for faster-than-light travel between spheres.
@@ -48,6 +51,9 @@ Objects and creatures drag a bubble of air with them when leaving an atmosphere.
 *   **Replenishment:** Entering a larger air envelope (like a planet's atmosphere) instantly refreshes a ship's air.
 
 ## The Astral Sea
+
+![astral-sea.png](./astral-sea.png)
+
 While the Phlogiston connects the worlds of the Material Plane, the **Astral Sea** connects the planes of existence. It is a silvery, timeless void of thought and memory.
 *   **Access:** Ships cannot sail directly from Wildspace or the Phlogiston into the Astral Sea. It requires expensive arcane hull etchings and the *Plane Shift* spell to transition the vessel.
 *   **The Planes:** Massive "continents" of reality floating in the silver void. Access to specific planes depends on the beliefs and connections of the Crystal Sphere you depart from.
