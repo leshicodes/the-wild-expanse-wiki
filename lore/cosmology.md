@@ -37,7 +37,7 @@ Gravity in the Expanse does not function like planetary physics. It is uniform a
 
 ### Air Envelopes
 
-![air-envelope.png](./assets/air-envelope.png)
+![air-envelope.png](./air-envelope.png)
 
 Objects and creatures drag a bubble of air with them when leaving an atmosphere.
 *   **Capacity:** The size of the envelope depends on the size of the object. A ship carries enough air for its crew for months; a single person only for minutes.
