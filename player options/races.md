@@ -14,8 +14,8 @@ Because nothing ages on the Astral Plane, astral elves who inhabit that plane ca
 
 As an Astral Elf, you have the following traits:
 - **Ability Scores**: Choose one of: 
-    - (a) Choose any +2; choose any other +1
-    - (b) Choose three different +1
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Creature Type.** You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
 - **Size.** You are Medium.
 - **Speed.** Your walking speed is 30 feet.
@@ -28,7 +28,7 @@ As an Astral Elf, you have the following traits:
     - Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the [*Player’s Handbook*](https://5e.tools/book.html#phb). You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.
 
 #### Source
-[Astral Adventure's Guide](http://5e.tools/book.html#aag,-1)
+[Astral Adventure's Guide (AAG)](http://5e.tools/book.html#aag,-1)
 
 ---
 
@@ -74,7 +74,7 @@ As an Autognome, you have the following traits:
 - **Specialized Design.** You gain two tool proficiencies of your choice, selected from the [*Player’s Handbook*](https://5e.tools/book.html#phb).
 
 #### Source
-[Astral Adventure's Guide](http://5e.tools/book.html#aag,-1)
+[Astral Adventure's Guide (AAG)](http://5e.tools/book.html#aag,-1)
 
 ---
 
@@ -97,17 +97,21 @@ Skillful. Adventurous. Graceful. These are words that few would use to describe 
 ### Dohwar Traits
 
 As a dohwar, you have the following traits:
+- **Ability Scores:** Intelligence +2; Charisma +1
 - **Age**. Dohwar have lifespans similar to humans.
-- **Alignment**. Dohwar are generally indifferent to moral and ethical concerns, favoring neutrality.
+- **Alignment**. Dohwar are generally indifferent to moral circumstance and lean toward chaotic.
 - **Creature Type**. You are a humanoid.
-- **Recommended ASI**: Charisma +2, Intelligence +1
 - **Size**. Dohwar are short and stocky, reaching an average height of 4ft. Your size is Small.
 - **Speed**. Your base walking speed is 25 feet and you have a swimming speed equal to 50 feet.
 - **Languages**. You can speak, read, and write Common and Dohwar.
-- **Belly Slide**. While prone, you can belly slide instead of crawl. You move as if you were standing and your normal movement speed increases by 10 feet. You can’t move across difficult terrain or take the Dash action while belly sliding. Cold Adaptation. You are naturally adapted to cold climates, as described in [chapter 5 of the DMG](https://5e.tools/book.html#dmg,5,extreme%20cold,0). You also have resistance to cold damage.
-- **Merchant's Senses**. Whenever you perform an Intelligence (History) check or use tools to determine the origin and value of an object, you are considered proficient in the check and can add double your proficiency bonus. When you reach 3rd level, you learn to cast [*Detect Magic*](https://5e.tools/spells/detect-magic-xphb.html) and [*Identify*](https://5e.tools/spells/identify-phb.html) as a ritual.
+- **Belly Slide**. While prone, you can belly slide instead of crawl. You move as if you were standing and your normal movement speed increases by 10 feet. You can’t move across difficult terrain or take the Dash action while belly sliding. 
+- **Cold Adaptation.** You are naturally adapted to cold climates, as described in [chapter 5 of the DMG](https://5e.tools/book.html#dmg,5,extreme%20cold,0). You also have resistance to cold damage.
+- **Merchant's Senses**. Whenever you perform an Intelligence (History) check or use tools to determine the origin and value of an object, you are considered proficient in the check and can add double your proficiency bonus. When you reach 3rd level, you learn to cast [*Detect Magic*](https://5e.tools/spells.html#detect%20magic_phb) and [*Identify*](https://5e.tools/spells/identify-phb.html) as a ritual.
 - **Silent Speech**. You can speak telepathically to any creature within 30 feet of you. They understand you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
-- **Mind Reading**. You can cast the [*Detect Thoughts*](https://5e.tools/spells/detect-thoughts-xphb.html) spell a number of times per day equal to your proficiency bonus without using spell components. When you use this spell, you can only pick up your target’s surface thoughts. If the target is aware that dohwar have this feature, they can make an Intelligence saving throw (DC = 8 + your proficiency bonus + your Intelligence modifier) to resist. While this spell is active, you have advantage on social rolls against the target.
+- **Mind Reading**. You can cast the [*Detect Thoughts*](https://5e.tools/spells.html#detect%20thoughts_phb) spell a number of times per day equal to your proficiency modifier, but you can only pick up surface thoughts. If a creature is aware of the dohwar's telepathy, they can make an Intelligence saving throw to resist the effect. While reading a creature's surface thoughts, you have advantage on social rolls against the target.
+
+#### Source
+[Wildjammer: More Adventures in Space (WJMAiS)](https://5e.tools/book.html#wjmais,-1)
 
 ---
 
