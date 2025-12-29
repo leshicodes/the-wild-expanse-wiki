@@ -13,16 +13,22 @@ Because nothing ages on the Astral Plane, astral elves who inhabit that plane ca
 ### Astral Elf Traits
 
 As an Astral Elf, you have the following traits:
+- **Ability Scores**: Choose one of: 
+    - (a) Choose any +2; choose any other +1
+    - (b) Choose three different +1
 - **Creature Type.** You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
 - **Size.** You are Medium.
 - **Speed.** Your walking speed is 30 feet.
-- **Astral Fire.** You know one of the following cantrips of your choice: dancing lights, light, or sacred 􀂧ame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race).
+- **Astral Fire.** You know one of the following cantrips of your choice: [*dancing lights*](https://5e.tools/spells.html#dancing%20lights_phb), [*light*](https://5e.tools/spells.html#light_phb), or [*sacred flame*](https://5e.tools/spells.html#sacred%20flame_phb). Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race).
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-- **Fey Ancestry.** You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+- **Fey Ancestry.** You have advantage on saving throws you make to avoid or end the [*charmed*](https://5e.tools/conditionsdiseases.html#charmed_phb) condition on yourself.
 - **Keen Senses.** You have proficiency in the Perception skill.
 - **Starlight Step.** As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 - **Astral Trance.** You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.
-    - Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player’s Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.
+    - Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the [*Player’s Handbook*](https://5e.tools/book.html#phb). You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.
+
+#### Source
+[Astral Adventure's Guide](http://5e.tools/book.html#aag,-1)
 
 ---
 
@@ -54,15 +60,21 @@ Like gnomes, autognomes can live for centuries, typically up to 500 years.
 ### Autognome Traits
 
 As an Autognome, you have the following traits:
+- **Ability Scores**: Choose one of: 
+    - (a) Choose any +2; choose any other +1
+    - (b) Choose three different +1
 - **Creature Type.** You are a Construct.
 - **Size.** You are Small.
 - **Speed.** Your walking speed is 30 feet.
 - **Armored Casing.** You are encased in thin metal or some other durable material. While you aren’t wearing armor, your base Armor Class is 13 + your Dexterity modifier.
-- **Built for Success.** You can add a d4 to one attack roll, ability check, or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-- **Healing Machine.** If the mending spell is cast on you, you can spend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point). In addition, your creator designed you to benefit from several spells that preserve life but that normally don’t affect Constructs: *cure wounds*, *healing word*, *mass cure wounds*, *mass healing word*, and *spare the dying*.
-- **Mechanical Nature.** You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don’t need to eat, drink, or breathe.
+- **Built for Success.** You can add a **d4** to one attack roll, ability check, or saving throw you make, and you can do so after seeing the **d20** roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **Healing Machine.** If the [*mending*](https://5e.tools/spells.html#mending_phb) spell is cast on you, you can spend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point). In addition, your creator designed you to benefit from several spells that preserve life but that normally don’t affect Constructs: [*cure wounds*](https://5e.tools/spells.html#cure%20wounds_phb), [*healing word*](https://5e.tools/spells.html#healing%20word_phb), [*mass cure wounds*](https://5e.tools/spells.html#mass%20cure%20wounds_phb), [*mass healing word*](https://5e.tools/spells.html#mass%20healing%20word_phb), and [*spare the dying*](https://5e.tools/spells.html#spare%20the%20dying_phb).
+- **Mechanical Nature.** You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being [*paralyzed*](https://5e.tools/conditionsdiseases.html#paralyzed_phb) or [*poisoned*](https://5e.tools/conditionsdiseases.html#poisoned_phb). You don’t need to eat, drink, or breathe.
 - **Sentry’s Rest.** When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
-- **Specialized Design.** You gain two tool proficiencies of your choice, selected from the Player’s Handbook.
+- **Specialized Design.** You gain two tool proficiencies of your choice, selected from the [*Player’s Handbook*](https://5e.tools/book.html#phb).
+
+#### Source
+[Astral Adventure's Guide](http://5e.tools/book.html#aag,-1)
 
 ---
 
@@ -249,7 +261,7 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
 
 ### Plasmoid Description
 
-Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar shape, but there’s little chance of mistaking a plasmoid for anything else. They consume food by osmosis, the way an amoeba does, and excrete waste through tiny pores. They breathe by absorbing oxygen through another set of pores, and their limbs are strong and 􀂧exible enough to grasp and manipulate weapons and tools. Although most plasmoids are translucent gray, they can alter their color and translucence by absorbing dyes through their pores.
+Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar shape, but there’s little chance of mistaking a plasmoid for anything else. They consume food by osmosis, the way an amoeba does, and excrete waste through tiny pores. They breathe by absorbing oxygen through another set of pores, and their limbs are strong and flexible enough to grasp and manipulate weapons and tools. Although most plasmoids are translucent gray, they can alter their color and translucence by absorbing dyes through their pores.
 
 Plasmoids don’t have internal organs of the usual sort. Their bodies are composed of cells, fibers, plasma-like ooze, and clusters of nerves. These nerves enable a plasmoid to detect light, heat, texture, sound, pain, and vibrations. Plasmoids can stiffen the outer layers of their bodies to maintain a humanlike shape, so they can wear clothing and accessories. They speak by forcing air out of tubular cavities that constrict to produce sound.
 
