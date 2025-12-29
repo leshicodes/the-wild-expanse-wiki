@@ -61,8 +61,8 @@ Like gnomes, autognomes can live for centuries, typically up to 500 years.
 
 As an Autognome, you have the following traits:
 - **Ability Scores**: Choose one of: 
-    a. Choose any +2; choose any other +1
-    b. Choose three different +1
+    A. Choose any +2; choose any other +1
+    B. Choose three different +1
 - **Creature Type.** You are a Construct.
 - **Size.** You are Small.
 - **Speed.** Your walking speed is 30 feet.
