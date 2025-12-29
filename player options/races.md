@@ -97,7 +97,9 @@ Skillful. Adventurous. Graceful. These are words that few would use to describe 
 ### Dohwar Traits
 
 As a dohwar, you have the following traits:
-- **Ability Scores:** Intelligence +2; Charisma +1
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age**. Dohwar have lifespans similar to humans.
 - **Alignment**. Dohwar are generally indifferent to moral circumstance and lean toward chaotic.
 - **Creature Type**. You are a humanoid.
@@ -134,10 +136,12 @@ This instinct isn’t overwhelming to the point that they lack a personal life. 
 ### Dracon Traits
 
 As a dracon, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Dracon have lifespans similar to humans.
 - **Alignment.** Dracon are generally seen as neutral, though they favor good acts and an orderly life.
 - **Creature Type.** You are a humanoid.
-- **Recommended ASI:** Strength +2, Wisdom +1
 - **Size.** Dracon are similar in size to a centaur, just with greater bulk. Your size is Medium.
 - **Speed.** Your base walking speed is 40 feet.
 - **Languages.** You can speak, read, and write Common and Draconic.
@@ -145,7 +149,10 @@ As a dracon, you have the following traits:
 - **Communal.** During a long rest, you visit each of your companions to build camaraderie. Choose up to 6 friendly creatures you are spending the rest with at a campsite, inn, etc. Each of these creatures gains temporary hit points equal to your level on the following day.
 - **Equine Build.** You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
 - **Mount.** Your quadruped anatomy allows you to act as a mount for a creature of Small size or smaller. While mounted, your rider may take their turn simultaneous with yours. If they do, they forego their normal turn this round. A rider can’t move other than to dismount.
-- **Natural Weapon.** Your feet count as natural weapons, which you can use to make unarmed strikes. If you hit with them, you bludgeoning damage equal to 1d6 + your Strength modifier instead of the normal damage for an unarmed strike.
+- **Natural Weapon.** Your feet count as natural weapons, which you can use to make unarmed strikes. If you hit with them, you bludgeoning damage equal to **1d4** + your Strength modifier instead of the normal damage for an unarmed strike.
+
+#### Source
+[Wildjammer: More Adventures in Space (WJMAiS)](https://5e.tools/book.html#wjmais,-1)
 
 ---
 
@@ -172,16 +179,21 @@ Standing upwards of 8 to 9 feet tall, giff (sometimes *‘hippofolk’*) are a l
 ### Gif Traits
 
 As a giff, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Giff have lifespans similar to humans.
 - **Alignment.** Giff are almost always lawful.
 - **Creature Type.** You are a humanoid.
-- **Recommended ASI:** Strength +1, Dexterity +1, Constitution +1.
 - **Size.** Giff stand between 8 and 9 feet tall and weigh 300 pounds or more. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet, and you have a swimming speed equal to your walking speed.
 - **Languages.** You can speak, read, and write Common, Giff, and one other language of your choice.
 - **Gunpowder Training.** You are proficient with and ignore the loading property of gunpowder firearms. Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls with firearms. The backfire score of any ship weapon you use as a Gunner is reduced by 1.
 - **Headfirst Charge.** If you move at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, you may attempt to shove that creature as a bonus action. Once you’ve used this trait, you are discombobulated and you can’t use it again until you complete a short or long rest.
 - **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+#### Source
+[Wildjammer: More Adventures in Space (WJMAiS)](https://5e.tools/book.html#wjmais,-1)
 
 ---
 
@@ -209,17 +221,18 @@ This has lead to a mutually beneficial relationship between elves and hadozee. E
 ### Hadozee Traits
 
 As a hadozee, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Hadozee reach maturity around the age of 20 and live to be upwards of 200 years old.
 - **Alignment.** Hadozee tend toward neutrality.
 - **Creature Type.** You are a humanoid.
-- **Recommended ASI:** Dexterity +2, Wisdom +1
 - **Size.** Hadozee are human sized. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet and you have a climbing speed equal to your walking speed.
-- **Languages.** You can speak, read, and write Common and Hadozee.
-- **Prehensile Feet.** You have prehensile feet capable of working as either feet or hands. On your turn, you can forego half your movement speed to gain an additional object interaction or to wield a weapon with the light property for two-weapon fighting. In addition, so long as two of your hands or feet are free, you can climb.
+- **Languages.** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+- **Prehensile Feet.** As a bonus action, you can use your feet to manipulate an object, open or close a door or container, or pick up or set down a Tiny object.
 - **Monkey Fighting.** When you make a melee weapon attack on your turn while climbing, you can increase the reach of a single attack by 5 feet. In addition, you can take the disengage action as a bonus action while climbing.
-- **Glide.** When you start to fall from 10 feet or higher and you’re not wearing heavy armor, as a reaction you can extend out your arms and begin gliding. When you start gliding, you immediately descend 5 feet and may move up to your movement speed horizontally or down. At the start of each of your turns, you descend another 5 feet. When you take the Move action while gliding, you can move horizontally or down. If you stop gliding, you resume falling, and when you’re no longer able to fall, the glide ends.
-
+- **Glide.** When you fall at least 10 feet above the ground, you can use your reaction to extend your skin membranes to glide horizontally a number of feet equal to your walking speed, and you take 0 damage from the fall. You determine the direction of the glide.
 ---
 
 <!-- ## Mind Flayer Renegade
@@ -274,16 +287,19 @@ When plasmoids sleep, they lose their rigidity and spread out and are thus somet
 ### Plasmoid Traits
 
 You have the following racial traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Creature Type.** You are an Ooze.
 - **Size.** You are Medium or Small. You choose the size when you select this race.
 - **Speed.** Your walking speed is 30 feet.
+- **Languages.** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 - **Amorphous.** You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing ; You have advantage on ability checks you make to initiate or escape a grapple.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 - **Hold Breath.** You can hold your breath for 1 hour.
-- **Natural Resilience.** You have resistance to acid and poison damage, and you have advantage on saving throws against being poisoned.
+- **Natural Resilience.** You have resistance to acid and poison damage, and you have advantage on saving throws against being [*poisoned*](https://5e.tools/conditionsdiseases.html#poisoned_phb).
 - **Shape Self.** As an action, you can reshape your body to give yourself a head, one or two arms, one or two legs, and makeshift hands and feet, or you can revert to a limbless blob. While you have a humanlike shape, you can wear clothing and armor made for a Humanoid of your size.
-
-As a bonus action, you can extrude a pseudopod that is up to 6 inches wide and 10 feet long or reabsorb it into your body. As part of the same bonus action, you can use this pseudopod to manipulate an object, open or close a door or container, or pick up or set down a Tiny object. The pseudopod contains no sensory organs and can’t attack, activate magic items, or lift more than 10 pounds.
+    - As a bonus action, you can extrude a pseudopod that is up to 6 inches wide and 10 feet long or reabsorb it into your body. As part of the same bonus action, you can use this pseudopod to manipulate an object, open or close a door or container, or pick up or set down a Tiny object. The pseudopod contains no sensory organs and can’t attack, activate magic items, or lift more than 10 pounds.
 
 ---
 
@@ -312,16 +328,18 @@ armistice between the two factions. The scro weren’t able to destroy the Elven
 ### Scro Traits
 
 As a Scro, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Scro reach adulthood at age 12 and live to be about 40. Scro may live longer, but most die in combat.
 - **Alignment.** Scro appear as evil to those outside of Scro society and are lawful to the hierarchy's demands.
 - **Creature Type.** You are a Humanoid.
-- **Recommended ASI:** Strength +2, Intelligence +1
 - **Size.** Scro are taller than most orcs and stand upright. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common, Orcish, and Elvish.
 - **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - **Pack Tactics.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
-- **Glory Kill.** Scro warriors are known for digging their teeth into their foes and ripping flesh, bolstering their resolve for battle. As a bonus action, you can make a special melee weapon attack with your teeth. Your are proficient with this attack. If you hit, you deal piercing damage equal to 1d6 + your Strength modifier and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **Glory Kill.** Scro warriors are known for digging their teeth into their foes and ripping flesh, bolstering their resolve for battle. As a bonus action, you can make a special melee weapon attack with your teeth. Your are proficient with this attack. If you hit, you deal piercing damage equal to **1d6** + your Strength modifier and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ---
 
@@ -344,16 +362,18 @@ Xixchil are six-limbed praying mantis-like mantoids. They are a bipedal species 
 ### Xixchil Traits
 
 As a Xixchil, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Xixchil rapidly reach maturity in just their first year. From then on, a xixchil could theoretically live forever through modifications.
 - **Alignment.** Xixchil lean toward chaotic neutral. They always do what is best for themselves.
 - **Creature Type.** You are a humanoid.
-- **Recommended ASI:** Dexterity +2, Wisdom +1
 - **Size.** Xixchil stand about 5 feet. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common, Xixchil, and one other language of your choice.
 - **Expert Artisans.** You have proficiency in the Medicine skill and one artisan tool of your choice.
 - **Natural Armor.** You have a chitinous exoskeleton. Your AC is 12 + your Dexterity modifier. You can’t wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield’s bonus as normal.
-- **Natural Weapon.** Your second set of forelimbs are naturally sharp blades. These are melee weapons that you are proficient with and have the finesse and light property. Your scythes deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+- **Natural Weapon.** Your second set of forelimbs are naturally sharp blades. These are melee weapons that you are proficient with and have the finesse and light property. Your scythes deal slashing damage equal to **1d4** + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 - **Integrated Treasures.** As a part of a long rest, you may destroy a suit of armor and integrate it into your chitin. If an integrated item requires attunement, you must attune to it while integrated. When you integrate armor, your natural armor takes on the properties of the armor. If the armor imposes disadvantage on stealth checks, it loses that property when integrated. This armor can’t be removed from you unwillingly. You can only integrate one suit of armor at a time. If you integrate another suit of armor, the previous suit of armor is destroyed in the process. 
 - **Surgical Enhancements.** As a xixchil, you’re able to make surgical alterations to your body. You choose one enhancement to make now and a second enhancement at 5th level. You can change your selection to another eligible choice at no cost with a week of downtime.
     - **At 1st level, choose one of the following options:**
@@ -380,14 +400,17 @@ Thri-kreen speak by clacking their mandibles and waving their antennae, indicati
 
 ### Thri-Kreen Traits
 As a Thri-Kreen, you have the following racial traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Creature Type.** You are a Monstrosity.
 - **Size.** You are Medium or Small. You choose the size when you select this race.
 - **Speed.** Your walking speed is 30 feet.
 - **Chameleon Carapace.** While you aren't wearing armor, your carapace gives you a base Armor Class of 13 +your Dexterity modifier.
-As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to hide in those surroundings.
+As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to [*hide*](https://5e.tools/actions.html#hide_phb) in those surroundings.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 - **Secondary Arms.** You have two slightly smaller secondary arms below your primary pair of arms. The secondary arms can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property.
 - **Sleepless.** You do not require sleep and can remain conscious during a long rest, though you must still refrain from strenuous activity to gain the benefit of the rest.
-- **Thri-kreen Telepathy.** Without the assistance of magic, you can't speak the non-thri-kreen languages you know. Instead you use telepathy to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).
+- **Thri-kreen Telepathy.** Without the assistance of magic, you can't speak the non-thri-kreen languages you know. Instead you use telepathy to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is [*incapacitated*](https://5e.tools/conditionsdiseases.html#incapacitated_phb), or if either of you mentally breaks the contact (no action required).
 
 ---
