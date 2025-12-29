@@ -407,7 +407,7 @@ As a Thri-Kreen, you have the following racial traits:
 - **Size.** You are Medium or Small. You choose the size when you select this race.
 - **Speed.** Your walking speed is 30 feet.
 - **Chameleon Carapace.** While you aren't wearing armor, your carapace gives you a base Armor Class of 13 +your Dexterity modifier.
-As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to [*hide*](https://5e.tools/actions.html#hide_phb) in those surroundings.
+    - As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to [*hide*](https://5e.tools/actions.html#hide_phb) in those surroundings.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 - **Secondary Arms.** You have two slightly smaller secondary arms below your primary pair of arms. The secondary arms can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property.
 - **Sleepless.** You do not require sleep and can remain conscious during a long rest, though you must still refrain from strenuous activity to gain the benefit of the rest.
