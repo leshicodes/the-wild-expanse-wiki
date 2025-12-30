@@ -27,7 +27,7 @@ Rekindled Spells:
 
 | Sorcerer Level | Spells |
 |---|---|
-| 1st | [*absorb elements*](https://5e.tools/spells.html#absorb%20elements_xge), [*hellish rebuke*](https://5e.tools/spells.html#hellish%20rebuke_phb) |
+| 1st | [*absorb elements*](https://5e.tools/spells.html#absorb%20elements_xge){:target="_blank"}, [*hellish rebuke*](https://5e.tools/spells.html#hellish%20rebuke_phb) |
 | 3rd | [*heat metal*](https://5e.tools/spells.html#heat%20metal_phb), [*hold person*](https://5e.tools/spells.html#hold%20person_phb) |
 | 5th | [*chill fire*](https://5e.tools/spells.html#chill%20fire_wjmais), [*magic circle*](https://5e.tools/spells.html#magic%20circle_phb) |
 | 7th | [*mordenkainen's private sanctum*](https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_phb), [*fire shield*](https://5e.tools/spells.html#fire%20shield_phb) |
