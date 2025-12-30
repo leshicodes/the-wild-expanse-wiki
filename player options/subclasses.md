@@ -23,17 +23,15 @@ You learn additional spells when you reach certain levels in this class, as show
 
 Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an enchantment or evocation spell from the sorcerer, - warlock, or wizard spell list.
 
-<a href="https://5e.tools/spells.html#absorb%20elements_xge" target="_blank"><em>absorb elements</em></a>
-
 Rekindled Spells:
 
 | Sorcerer Level | Spells |
 |---|---|
-| 1st | [*absorb elements*](https://5e.tools/spells.html#absorb%20elements_xge), [*hellish rebuke*](https://5e.tools/spells.html#hellish%20rebuke_phb) |
-| 3rd | [*heat metal*](https://5e.tools/spells.html#heat%20metal_phb), [*hold person*](https://5e.tools/spells.html#hold%20person_phb) |
-| 5th | [*chill fire*](https://5e.tools/spells.html#chill%20fire_wjmais), [*magic circle*](https://5e.tools/spells.html#magic%20circle_phb) |
-| 7th | [*mordenkainen's private sanctum*](https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_phb), [*fire shield*](https://5e.tools/spells.html#fire%20shield_phb) |
-| 9th | [*immolation*](https://5e.tools/spells.html#immolation_xge), [*hold monster*](https://5e.tools/spells.html#hold%20monster_phb) |
+| 1st | <a href="https://5e.tools/spells.html#absorb%20elements_xge" target="_blank"><em>absorb elements</em></a>, <a href="https://5e.tools/spells.html#hellish%20rebuke_phb" target="_blank"><em>hellish rebuke</em></a> |
+| 3rd | <a href="https://5e.tools/spells.html#heat%20metal_phb" target="_blank"><em>heat metal</em></a>, <a href="https://5e.tools/spells.html#hold%20person_phb" target="_blank"><em>hold person</em></a> |
+| 5th | <a href="https://5e.tools/spells.html#chill%20fire_wjmais" target="_blank"><em>chill fire</em></a>, <a href="https://5e.tools/spells.html#magic%20circle_phb" target="_blank"><em>magic circle</em></a> |
+| 7th | <a href="https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_phb" target="_blank"><em>mordenkainen's private sanctum</em></a>, <a href="https://5e.tools/spells.html#fire%20shield_phb" target="_blank"><em>fire shield</em></a> |
+| 9th | <a href="https://5e.tools/spells.html#immolation_xge" target="_blank"><em>immolation</em></a>, <a href="https://5e.tools/spells.html#hold%20monster_phb" target="_blank"><em>hold monster</em></a> |
 
 #### Level 6: Flow Infusion
 Starting at 6th level, you learn how to infuse your fire spells with the incredible potency of the phlogiston. When you cast a spell, you may expend a number of sorcery points equal to that spell's level (1 sorcery point if the spell is a cantrip) to cause that spell to bypass immunity to fire damage. A creature that is immune to fire damage takes damage from the spell as if they were resistant to fire damage. Damage dealt this way can never bypass this damage resistance.
