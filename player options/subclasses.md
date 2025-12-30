@@ -59,6 +59,7 @@ You know that the First Helm is real. You know that the First Helm has had its h
 
 #### Expanded Spell List
 First Helm Expanded Spells:
+
 | Spell Level | Spells |
 |---|---|
 | 1st | [*catapult*](https://5e.tools/spells.html#catapult_xge), [*bane*](https://5e.tools/spells.html#bane_phb) |
