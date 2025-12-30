@@ -24,6 +24,7 @@ You learn additional spells when you reach certain levels in this class, as show
 Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an enchantment or evocation spell from the sorcerer, - warlock, or wizard spell list.
 
 Rekindled Spells:
+
 | Sorcerer Level | Spells |
 |---|---|
 | 1st | [*absorb elements*](https://5e.tools/spells.html#absorb%20elements_xge), [*hellish rebuke*](https://5e.tools/spells.html#hellish%20rebuke_phb) |
