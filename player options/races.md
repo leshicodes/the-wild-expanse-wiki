@@ -294,12 +294,12 @@ You have the following racial traits:
 - **Size.** You are Medium or Small. You choose the size when you select this race.
 - **Speed.** Your walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-- **Amorphous.** You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing ; You have advantage on ability checks you make to initiate or escape a grapple.
+- **Amorphous.** You can squeeze through a space as narrow as 1 inch wide, provided you are not wearing or carrying anything. In addition, you have advantage on ability checks you make to initiate or escape a grapple.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 - **Hold Breath.** You can hold your breath for 1 hour.
 - **Natural Resilience.** You have resistance to acid and poison damage, and you have advantage on saving throws against being [*poisoned*](https://5e.tools/conditionsdiseases.html#poisoned_phb).
-- **Shape Self.** As an action, you can reshape your body to give yourself a head, one or two arms, one or two legs, and makeshift hands and feet, or you can revert to a limbless blob. While you have a humanlike shape, you can wear clothing and armor made for a Humanoid of your size.
-    - As a bonus action, you can extrude a pseudopod that is up to 6 inches wide and 10 feet long or reabsorb it into your body. As part of the same bonus action, you can use this pseudopod to manipulate an object, open or close a door or container, or pick up or set down a Tiny object. The pseudopod contains no sensory organs and can’t attack, activate magic items, or lift more than 10 pounds.
+- **Shape Self.** As an action, you can reshape your body to assume a humanoid form with a head, up to two arms, and up to two legs, or revert to a limbless blob. While in a humanoid form, you can wear clothing and armor made for a Humanoid of your size.
+  - As a bonus action, you can extrude or retract a pseudopod up to 10 feet long and 6 inches wide. You can use this pseudopod to manipulate objects, open or close doors or containers, or pick up or set down a Tiny object. The pseudopod can’t attack, activate magic items, or lift more than 10 pounds.
 
 ---
 
@@ -338,6 +338,7 @@ As a Scro, you have the following traits:
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common, Orcish, and Elvish.
 - **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- **Relentless Endurance.** The battles you need yet to fight are many, and death is not an option. When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. You regain the use of this feature when you finish a Long Rest.
 - **Pack Tactics.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 - **Glory Kill.** Scro warriors are known for digging their teeth into their foes and ripping flesh, bolstering their resolve for battle. As a bonus action, you can make a special melee weapon attack with your teeth. Your are proficient with this attack. If you hit, you deal piercing damage equal to **1d6** + your Strength modifier and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -371,19 +372,22 @@ As a Xixchil, you have the following traits:
 - **Size.** Xixchil stand about 5 feet. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common, Xixchil, and one other language of your choice.
-- **Expert Artisans.** You have proficiency in the Medicine skill and one artisan tool of your choice.
-- **Natural Armor.** You have a chitinous exoskeleton. Your AC is 12 + your Dexterity modifier. You can’t wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield’s bonus as normal.
-- **Natural Weapon.** Your second set of forelimbs are naturally sharp blades. These are melee weapons that you are proficient with and have the finesse and light property. Your scythes deal slashing damage equal to **1d4** + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-- **Integrated Treasures.** As a part of a long rest, you may destroy a suit of armor and integrate it into your chitin. If an integrated item requires attunement, you must attune to it while integrated. When you integrate armor, your natural armor takes on the properties of the armor. If the armor imposes disadvantage on stealth checks, it loses that property when integrated. This armor can’t be removed from you unwillingly. You can only integrate one suit of armor at a time. If you integrate another suit of armor, the previous suit of armor is destroyed in the process. 
-- **Surgical Enhancements.** As a xixchil, you’re able to make surgical alterations to your body. You choose one enhancement to make now and a second enhancement at 5th level. You can change your selection to another eligible choice at no cost with a week of downtime.
-    - **At 1st level, choose one of the following options:**
-        - **Buzzing Wings.** You add a pair of thin wings which give you the ability to fly for a short period of time. You gain a flying speed equal to half your normal movement speed. If you end your turn while flying, you immediately fall.
-        - **Omnivision.** You affix extra eyes to your head, allowing you to see 360 degrees around you. You gain darkvision out to 120 feet and you can’t be surprised while conscious.
-        - **Silk Spinneret.** You add a silk gland to your body, allowing you to fashion ropes, nets, even fine silk clothing during a short or long rest. 
-    - **At 5th level, you further enhance your body, developing a new characteristic. Choose one of the options you didn’t take at 1st level or one of the following options:**
-        - **Enhanced Motor Control.** You enhance your lower forelimbs, allowing you greater control. You can use your natural weapons for twoweapon fighting, even if your upper forelimbs are full.
-        - **Iridescent Carapace.** You thicken your chitin, granting you resistance to radiant damage.
-        - **Venom Gland.** You add a venom gland that you can use to inject poison in your enemies. As a bonus action, you can make a special attack with your mandibles. These mandibles are treated as your natural weapon trait. On a hit, you deal damage as normal and the target becomes poisoned until the end of your next turn. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **Chitinous Frame.** Your hardened exoskeleton provides natural protection. While you aren’t wearing armor, your AC is 13 + your Dexterity modifier
+- **Surgical Artistry.** You gain proficiency in **Medicine** and one artisan’s tool of your choice. 
+   - In addition, during a long rest, you may visibly integrate ornamental materials, plating, or trophies into your body. This has no mechanical effect unless stated otherwise, but integrated items cannot be removed from you unwillingly.
+- **Mantid Blades.** Your lower forelimbs are natural weapons. They are melee weapons with the **finesse** and **light** properties.
+   - On a hit, they deal **1d4** slashing damage + your Strength or Dexterity modifier.
+- **Biological Augmentation.** You have enhanced your body through invasive modification. **Choose one** augmentation below. At **5th** level, your chosen augmentation improves.
+   - **Buzzing Wings**
+      - **1st level:** When you fall and are not incapacitated, you can use your reaction to glide. When you do so, you reduce the falling damage you take by an amount equal to 30 feet, to a minimum of 0 damage, and you can move up to 30 feet horizontally before landing.
+      - **5th level:** As part of your movement on your turn, you can fly up to your walking speed.
+   - **Silk Spinneret**
+      - **1st level:** During a short or long rest, you can create up to 50 feet of silk rope or a net.
+      - **5th level:** You can also create fine silk garments, bindings, or similar items worth up to 30 gp during the same rest.
+   - **Venom Gland**
+      - **1st level:** When you hit a creature with your mantid blades, you can deal an extra **1d4** poison damage once per turn.
+      - **5th level:** A creature damaged this way must succeed on a Constitution saving throw or be poisoned until the start of your next turn. You can trigger this effect a number of times equal to your proficiency bonus per long rest.
+
 ---
 
 ## Thri-Kreen
@@ -392,7 +396,7 @@ As a Xixchil, you have the following traits:
 
 ### Thri-Kreen Description
 
-Thri-kreen have insectile. features and two pairs of arms. Their bodies are encased in protective chitin. They can alter the coloration of this carapace to blend in with their natural surroundings.
+Thri-kreen have insectile features and two pairs of arms. Their bodies are encased in protective chitin. They can alter the coloration of this carapace to blend in with their natural surroundings.
 
 Although thri-kreen don't sleep, they do require periods of inactivity to revitalize themselves. During these periods, they are fully aware of what's happening around them.
 
@@ -407,10 +411,11 @@ As a Thri-Kreen, you have the following racial traits:
 - **Size.** You are Medium or Small. You choose the size when you select this race.
 - **Speed.** Your walking speed is 30 feet.
 - **Chameleon Carapace.** While you aren't wearing armor, your carapace gives you a base Armor Class of 13 + your Dexterity modifier.
-    - As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to [*hide*](https://5e.tools/actions.html#hide_phb) in those surroundings.
+    - In addition, you have advantage on Dexterity (Stealth) checks made to [*hide*](https://5e.tools/actions.html#hide_phb) in natural terrain.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 - **Secondary Arms.** You have two slightly smaller secondary arms below your primary pair of arms. The secondary arms can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property.
-- **Sleepless.** You do not require sleep and can remain conscious during a long rest, though you must still refrain from strenuous activity to gain the benefit of the rest.
-- **Thri-kreen Telepathy.** Without the assistance of magic, you can't speak the non-thri-kreen languages you know. Instead you use telepathy to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is [*incapacitated*](https://5e.tools/conditionsdiseases.html#incapacitated_phb), or if either of you mentally breaks the contact (no action required).
+- **Sleepless.** You do not require sleep and can remain conscious during a long rest, though you must still refrain from strenuous activity to gain the benefit of the rest. You have advantage on saving throws against being magically put to sleep.
+- **Thri-kreen Telepathy.** You cannot speak non-thri-kreen languages verbally. Instead, you can communicate telepathically with willing creatures you can see within 120 feet. The creature must be able to understand at least one language. This telepathic connection requires no action and ends if either of you is [*incapacitated*](https://5e.tools/conditionsdiseases.html#incapacitated_phb), if you move more than 120 feet apart, or if either of you chooses to end it.
+- **Psychic Fortitude.** You have advantage on saving throws against being charmed or frightened by effects that deal psychic damage.
 
 ---
