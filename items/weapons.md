@@ -52,20 +52,5 @@ The DMG provides rules for two Renaissance era firearms, the [*pistol*](https://
 ##### New Weapons Descriptions
 These are just a few of the possible weapons that can be found for the crew of a ship sailing through space. Blunderbuss. The classic blunderbuss is a roughly 3 foot long gun with a barrel that flares out into a bell shape. It is able to deliver shot in a wide arc, devastating whoever is on the receiving end.
 
-- **Boarding Axe.** This axe is a heavier but more compact version of the battleaxe. Due to its smaller size, it can’t be wielded in two hands, but it does allow the wielder to use it to aid them in climbing aboard enemy ships.
-- **Boarding Pike.** Much like a heavier spear, the boarding pike is a favorite among sailors. While it doesn’t have the same throwing range as a spear, it is far better at puncturing armor, carapace, and flesh.
-    - When wielded with two hands, the boarding pike acts much like a glaive or a halberd, just marginally weaker.
-- **Dragon.** A dragon is really nothing more than a shorter blunderbuss. Nevertheless, the shorter barrel results in it being a shorter range weapon that can pack quite the punch.
-- **Flintlock Pistol.** The classic flintlock pistol is a muzzle-loaded gun that can deliver considerable damage at short range.
-- **Harpoon Launcher.** This large two-handed crossbow has a spool of thin but strong rope that can be attached to a crossbow bolt. After firing this weapon, you must use a bonus action to crank the rope back into the spool before making an attack.
-
-When you hit a creature with this weapon, that
-creature is anchored to you, unable to move any
-farther away from you than they were when you hit
-them with the attack. If the creature is larger than you,
-you are anchored to it instead. While a creature is
-anchored to you, you may use your action to attempt to
-pull them close. Make a contested Strength check
-against the anchored target. On a success, they are
-pulled 10 feet closer to you.
-The rope has 10 AC and 2 hit points. It can also be burst with a DC 17 strength check. If the rope reaches 0 hit points or is broken, the remaining rope immediately snaps back to the spool, ready to be attached to a new bolt.
+[Melee weapons descriptions](./melee%20weapons.md)
+[Ranged weapons descriptions](./ranged%20weapons.md)
