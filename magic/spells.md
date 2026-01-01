@@ -60,7 +60,7 @@ This spell shows you the direction and distance to the nearest planet, planetoid
 
 ### 2nd Level
 
-[!contact-home-power.png](./contact-home-power.png)
+![contact-home-power.png](./contact-home-power.png)
 
 ####  Contact Home Power
 *Level 2 Conjuration*
