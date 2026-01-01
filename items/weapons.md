@@ -54,3 +54,13 @@ These are just a few of the possible weapons that can be found for the crew of a
 
 - [[Melee weapons descriptions|Items/Melee Weapons]]
 - [[Ranged weapons descriptions|Items/Ranged Weapons]]
+
+---
+
+### Weapon Properties
+
+Most of the weapons table should be self-explanatory, but there are two properties worth note.
+
+**Climbing.** While you're wielding a weapon with the climbing property, you have advantage to climb surfaces made out of wood or other materials that the weapon could reasonably puncture.
+
+**Scatter.** If you make an attack against a target that is within half of this weapon's normal range, you may roll the scatter damage dice instead of the weapon's usual damage dice.
