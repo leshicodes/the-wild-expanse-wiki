@@ -60,10 +60,24 @@ This spell shows you the direction and distance to the nearest planet, planetoid
 
 ### 2nd Level
 
-![contact-home-power.png](./contact-home-power.png)
+![air-bubble.png](./air-bubble.png)
+#### Air Bubble
+Level 2 Conjuration
 
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** 24 hours
+
+You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.
+
+**Classes:** Artificer, Druid, Druid, Ranger, Ranger, Sorcerer, Sorcerer, Wizard, Wizard
+
+![contact-home-power.png](./contact-home-power.png)
 ####  Contact Home Power
-*Level 2 Conjuration*
+*Level 2 Conjuration (ritual)*
 
 - **Casting Time:** 1 hour or Ritual
 - **Range:** Unlimited
