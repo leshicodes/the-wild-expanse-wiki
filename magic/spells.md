@@ -60,7 +60,7 @@ This spell shows you the direction and distance to the nearest planet, planetoid
 
 ### 2nd Level
 
-![air-bubble.png](./air-bubble.png)
+![air-bubble.png](./air-bubble.webp)
 #### Air Bubble
 Level 2 Conjuration
 
