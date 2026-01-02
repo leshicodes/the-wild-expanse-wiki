@@ -235,7 +235,7 @@ As a hadozee, you have the following traits:
 - **Glide.** When you fall at least 10 feet above the ground, you can use your reaction to extend your skin membranes to glide horizontally a number of feet equal to your walking speed, and you take 0 damage from the fall. You determine the direction of the glide.
 ---
 
-<!-- ## Mind Flayer Renegade
+## Mind Flayer Renegade
 
 ![mind-flayer-renegade.png](./mind-flayer-renegade.png)
 
@@ -270,7 +270,6 @@ You can use this trait a number of times equal to your proficiency bonus, and yo
 - **Devour Brain.** When you devour the brain of an intelligent creature, you can acquire memories that the creature had in life. When you do, you gain proficiency in a skill or tool of your choice that the creature had. When you use this ability again, you can replace this proficiency with another from the new brain. In addition, with DM approval, you can also gather information from the creature's memory, as if casting *Speak With Dead.*
 
 ---
--->
 
 ## Plasmoid
 
