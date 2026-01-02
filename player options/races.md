@@ -156,11 +156,11 @@ As a dracon, you have the following traits:
 
 ---
 
-## Gif
+## Giff
 
-![gif.png](./gif.png)
+![giff.png](./giff.png)
 
-### Gif Description
+### Giff Description
 
 Standing upwards of 8 to 9 feet tall, giff (sometimes *‘hippofolk’*) are a large, bulky, and muscular race of well-dressed and posh humanoid hippopotami. They have a well deserved reputation as mercenaries, boasting strong military efficiency, bravery that some might call suicidal, and loyalty to a fault, so long as the job pays well, doesn’t break their cultural codes, and it pays in their preferred currency: gunpowder.
 
@@ -174,7 +174,7 @@ Standing upwards of 8 to 9 feet tall, giff (sometimes *‘hippofolk’*) are a l
 
 **Loyalty.** Giff are reputed for their loyalty to a contract holder, being willing to handle even the most dangerous jobs so long as they are fittingly paid in gunpowder for it. Nevertheless, there is one major exception.: giff won’t fire upon other giff. If a contract puts two different groups of giff mercenaries in contention, the two sides will simply refuse to fight. The remaining crew of the two sides can still fight, the giff will simply sit it out. Once a winner arises, the giff on the winning ship rescue the giff on the losing ship. Woe be to any captain that tries to stop them.
 
-![gif-2.png](./gif-2.png)
+![giff-2.png](./giff-2.png)
 
 ### Gif Traits
 
@@ -256,10 +256,12 @@ A species they enslaved that would become known as the gith began to plot a revo
 ### Mind Flayer Renegade Traits
 
 As a mind flayer, you have the following traits:
+- **Ability Scores**: Choose one of: 
+   - **(a)** Choose any +2; choose any other +1
+   - **(b)** Choose three different +1
 - **Age.** Mind flayers are created through ceremorphosis fully matured. They live an average of 125 years.
 - **Alignment.** Mind flayers lean toward lawful evil.
 - **Creature Type.** You are an aberration.
-- **Recommended ASI:** Intelligence +2, Wisdom +1
 - **Size.** Mind flayers tend to be thin and as tall as their host. Your size is Medium.
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common, Undercommon, & Deep Speech.
