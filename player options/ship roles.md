@@ -183,6 +183,42 @@ A ship can have as many Gunners as it has weapons. Any character can be a Gunner
 
 As a Gunner, your job is to bring swift death upon anything that dares to threaten your ship.
 
+### Gunner Features
+
+##### Gunner
+*Prerequisite: 1st level*
+While in the Gunner role, you command the crew of a single ship mounted weapon on your wildjammer. During your turn, you can use a bonus action to switch to another weapon that isn't currently being used by another Gunner. You can do this between attacks with the [Open Fire](#open-fire) action.
+
+##### Open Fire
+*Prerequisite: 1st level*
+As an action, you make a Ship Weapon Attack using your ship mounted weapon.
+
+##### Trained Gunner
+*Prerequisite: 1st level, Gunner*
+You can use class features which apply to weapon attacks (such as [Extra Attack](https://5e.tools/classes.html#fighter_phb,state:feature=s4-0)) while taking the Open Fire action. Some class features (like Reckless Attack) don't translate well to ship combat. Consult with your DM about whether a feature is appropriate for use.
+
+In addition, the backfire score of any ship mounted weapon you attack with is reduced by 1.
+
+##### Readied Attack
+*Prerequisites: 1st level, Trained Gunner*
+As an action, you ready the [Open Fire](#open-fire) action. When your readied action criteria is met, you may use your reaction to take the [Open Fire](#open-fire) action.
+
+##### Precise Shot
+*Prerequisites: 5th level, Readied Attack*
+Once per turn when you hit with a ship weapon attack, you add extra mega damage equal to your Strength or Dexterity modifier (your choice).
+
+##### Expert Gunner
+*Prerequisites: 9th level, Precise Shot*
+While in the Gunner role, the crew requirement and backfire score of ship mounted weapons you use is reduced by 1.
+
+##### Distracting Shot
+*Prerequisites: 13th level, Expert Gunner*
+When you hit with a ship weapon attack, you can target a vulnerable point that lower's the target's guard. When you do, add your proficiency bonus to the damage of the attack. The next attack roll made against the target before the end of your next turn has advantage. Once you use this feature, you can't use it again until you complete a short or long rest.
+
+##### Master Gunner
+*Prerequisites: 17th level, Distracting Shot*
+While in the Gunner role, your [Precise Shot](#precise-shot) feature applies to all ship weapon attacks you make.
+
 ##### Gunner
 | Rank | Level Req. | Features          |
 |------|------------|-------------------|
@@ -210,4 +246,51 @@ As the Helmsman, you control how the ship moves around the battlefield. You are 
 | 4    | 9          | Expert Helmsman                      |
 | 5    | 13         | Spell Surge                          |
 | 6    | 17         | Master Helmsman                      |
+
+### Helmsman Features
+
+##### Helmsman
+*Prerequisite: 1st level*
+To occupy the role of Helmsman, you must meet all requirements to attune to the helm installed on the ship and spend 30 minutes to attune. Some helms have a Quick Attunement option to quicken this process. To switch out of this role, you must break attunement. You must spend the same amount of time to safely leave the helm as well, otherwise you may suffer an Unattunement Backlash effect (if any) as described in the helm's description.
+
+While you are in the Helmsman role, you gain control over the wildjammer like it is an extension of your body and can extend your senses to any spot aboard the wildjammer (no action required).
+
+Each wildjammer and mega creatures faces one of 8 directions, corresponding to 45-degree intervals. To give the feeling of momentum to wildjammers, each wildjammer has a maneuverability score that limits them to a cone of movement. This cone extends forward and is as wide as the ship's maneuverability.
+
+##### Move
+*Prerequisite: 1st level*
+As an action, you move your ship up to its speed within its cone of movement. Once you have finished moving, you can turn your ship up to its maneuverability.
+
+##### Match Speed
+*Prerequisite: 1st level*
+As an action, you can attempt to match speed with another ship. Until the start of your next turn, when the target ship would move, you mimic their movements and maintain the same distance as when you took this action. If the other ship moves in a way your ship can't, this effect ends.
+
+##### Jamming
+*Prerequisite: 1st level*
+As a bonus action, you start charging your ship's Helm to accelerate to jamming speed. Charging the Helm takes 1 minute. If you start your turn in the same space as another ship, mega creature, or object at Mega Scale, the charging is paused until your next turn.
+
+##### Evasive Maneuvers
+*Prerequisites: 1st level, Helmsman*
+If your ship is a Frigate (2x2) or smaller, as an action you may focus on evading attacks. Until the start of your next turn, you add your Dexterity modifier to your ship's AC and you have advantage on Dexterity saving throws made on behalf of the ship.
+
+##### Collide
+*Prerequisites: 1st level, Evasive Maneuvers*
+If your ship is Heavy Frigate-sized (3x3) or smaller, as an action you can move up to your speed within your cone of movement and enter the space of a ship or mega creature. If you move at least 1,000 feet, you may make an attack using your spell attack bonus against the target ship or mega creature. You are considered proficient with this attack. On hit, both your ship and the target take 1d10 mega bludgeoning damage. Larger ships deal and take more damage. The damage increases to 2d10 for Sloops (1x1), to 3d10 for Frigates (2x2), and to 4d10 for Heavy Frigates (3x3).
+
+##### Dogfighting
+*Prerequisites: 5th level, Collide*
+If your ship is Frigate-size (2x2) or smaller and a ship of your size or smaller is behind you within 1,000ft, as an action you can perform a complex maneuver. Make a Dexterity (Water Vehicles) check contested by the Helmsman of the other ship. On a success, following several tight turns, you switch places with that ship. The direction that each ship is facing doesn't change after their places are switched.
+
+##### Expert Helmsman
+*Prerequisites: 9th level, Dogfighting*
+You can use the Evasive Maneuvers and Dogfighting actions with Heavy Frigate-size (3x3) ships.
+
+##### Spell Surge
+*Prerequisites: 13th level, Expert Helmsman*
+As an action, you may expend a spell slot of any level up to your proficiency bonus. When you do, you move in a straight line up to the ship's movement speed plus 500 feet per level of the expended spell slot. Once you use this feature, you can't use it again until you complete a short or long rest.
+
+##### Master Helmsman
+*Prerequisites: 17th level, Spell Surge*
+While you are in the Helmsman role, your wildjammer has 500 feet of additional movement.
+
 ---
