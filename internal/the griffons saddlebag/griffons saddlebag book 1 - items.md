@@ -1,0 +1,3532 @@
+# Griffon's Saddlebag Book 1 - Item Descriptions
+
+This document contains the full descriptions for all 363 magic items from The Griffon's Saddlebag, Book 1.
+
+---
+
+## A
+
+#### Abjurer's Glider
+*Wondrous item, Uncommon, (requires attunement by a wizard)*
+
+This golden badge is usually given to wizards who either excel at or who have mastered abjuration magic as a symbol of their accomplishments. While wearing this badge, you always have the *shield* spell prepared if you know it, and it doesn't count against the number of spells you can have prepared. In addition, whenever you cast the *shield* spell, you can take another reaction before the start of your next turn. This second reaction can't be used to cast the *shield* spell again.
+
+---
+
+#### Aegis of Radiance
+*Shield (shield), Rare, (requires attunement by a cleric)*
+
+This shield emits a faint, holy glow when wielded and recognizes your devotion to a higher power. When you attune to this shield, the emblem adorning its face changes to one that represents your chosen deity, allowing you to use the shield as a holy symbol. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC.
+While wielding the shield, you can speak its command word as a bonus action to cause it to shatter into countless fragments of pure light. The pieces of light protect you as if you were wielding the shield, leaving your hands free. The light surrounds you for 1 minute, until you dismiss the effect as a bonus action, or until you fall unconscious or die, at which point the shield rematerializes on the ground at your feet or into your hand if you have one free. If your holy symbol is emblazoned or attached to the shield, it floats prominently amidst the shards of light and continues to function as a spellcasting focus. Undead creatures have disadvantage on attack rolls made against you while you're surrounded by the light in this way. The surrounding shards of light cast bright light in a 20 foot radius and dim light for another 20 feet. Once this property has been used, it can't be used again until the following dawn.
+
+---
+
+#### Amulet of Equilibrium
+*Wondrous item, Uncommon, (requires attunement)*
+
+This spiraling pendant is made of three magic-sensitive panes of colorful crystal. Each piece of crystal is attuned to a different arcane element. If you can cast spells, you can use the amulet as a spellcasting focus while you're attuned to it.
+The amulet has 4 charges and regains 2 expended charges daily at dawn. When you deal cold, fire, or lightning damage to a single creature while wearing the amulet, you can expend any number of its charges to reroll that many of the cold, fire, or lightning damage dice. You must use the new rolls.
+Whenever you take cold, fire, or lightning damage from a hostile creature, the amulet regains 1 charge.
+
+---
+
+#### Arcane Mirror
+*Shield (shield), Very Rare, (requires attunement)*
+
+This mirror-like shield is enchanted with abjuration magic that can reflect spells back at their source. While holding the shield, you can use it as a reaction when hit by an attack to cast the shield spell from it. Once this property has been used, it can't be used again until you finish a short or long rest.
+The shield has 10 charges and regains 1d6 + 4 expended charges each day at dawn. When you succeed on a saving throw to resist the effects of a spell that targets only you or are missed by a spell attack, you can use your reaction to learn the level of the spell. As part of your reaction, you can expend a number of the shield's charges equal to the level of the spell (up to 6th level) to reflect that spell back at its source. You can't reflect a spell of 7th level or higher. When you reflect a spell in this way, the caster of the spell must make a DC 16 Dexterity saving throw. On a failed save, the target takes 1d8 radiant damage for each expended charge as a bolt of reflected arcane energy hits them. On a successful save, the damage is halved. If you reflect a spell in this way that would cause you to take half damage on a successful save, you take no damage instead.
+
+---
+
+#### Arcanist's Bowstaff
+*Very Rare, (requires attunement by a creature with an Intelligence of 17 or higher)*
+
+When you attune to this quarterstaff, it remains solid in your grip but feels pliable within your mind. You can choose to use your Intelligence modifier for the attack and damage rolls made with this weapon instead of Strength. You must use the same modifier for both rolls.
+When you make an attack with this magic weapon, you can choose to make the attack at range. When you do, you use your mind to telekinetically curve the quarterstaff into the form of a **longbow**. The bow is magically strung with an arcane energy that arcs between the rings on either end of the weapon. A glowing, magical arrow is formed whenever the arcing energy is drawn back. The arrow disappears after it hits a target. When you make a ranged attack with the quarterstaff in this way, the weapon is treated as if it were a magical longbow. This longbow can only use the ammunition that it generates and does not have the heavy property. While holding this weapon, you're proficient with this longbow when using it in this way.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+In addition, this quarterstaff has 8 charges and regains 1d6 + 2 expended charges daily at dawn. When you take the Attack action with this weapon, you can expend 1 of its charges to cast the *magic missile* spell from the quarterstaff as a bonus action, instead of its normal casting time. When you do, the missiles are fired from either the bow or the quarterstaff's embossed faces.
+
+---
+
+#### Architect's Disdain
+*Melee Weapon (war pick), Very Rare, (requires attunement)*
+
+This adamantine war pick is specially designed to tear down walls. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Whenever the war pick hits an object or structure, the hit is a critical hit. In addition, if you hit a magically created object or structure, such as a *wall of ice*, with the war pick, you can choose to dispel the wall or object as if by the *dispel magic* spell (6th-level version). The effect fails if the spell or magical effect that created the object or structure was cast using a 7th-level spell slot or higher. Once the war pick has dispelled a structure in this way, this property can't be used again until the next dawn.
+
+---
+
+#### Astral Bracelet
+*Wondrous item, Very Rare*
+
+Multiple variations of this item exist, as listed below:
+
+- **Astral Bracelet of Energy**
+- **Astral Bracelet of Heavens**
+- **Astral Bracelet of Hells**
+- **Astral Bracelet of Knowledge**
+- **Astral Bracelet of Omniscience**
+- **Astral Bracelet of Planebending**
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+
+---
+
+#### Astral Bracelet of Energy
+*Wondrous item, Very Rare, (requires attunement by a sorcerer or wizard)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Energy Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *Tenser's floating disk* |
+| 3 | *dispel magic*, *hypnotic pattern*, *protection from energy* |
+| 4 | *hallucinatory terrain*, *Otiluke's resilient sphere* |
+| 6 | *globe of invulnerability* |
+
+---
+
+#### Astral Bracelet of Heavens
+*Wondrous item, Very Rare, (requires attunement by a cleric or paladin)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Heavens Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *detect evil and good*, *protection from evil and good* |
+| 2 | *warding bond* |
+| 3 | *magic circle*, *spirit guardians* |
+| 4 | *divination* |
+| 5 | *dispel evil and good* |
+
+---
+
+#### Astral Bracelet of Hells
+*Wondrous item, Very Rare, (requires attunement by a cleric, warlock, or wizard)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Hells Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *detect evil and good*, *protection from evil and good*, *hellish rebuke* |
+| 2 | *flaming sphere* |
+| 3 | *magic circle* |
+| 4 | *fire shield* |
+| 5 | *dispel evil and good* |
+
+---
+
+#### Astral Bracelet of Knowledge
+*Wondrous item, Very Rare, (requires attunement by a bard, cleric, druid, ranger, or wizard)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Knowledge Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *comprehend languages*, *detect magic*, *identify* |
+| 2 | *locate object* |
+| 3 | *dispel magic*, *sending* |
+| 4 | *locate creature* |
+| 5 | *legend lore* |
+
+---
+
+#### Astral Bracelet of Omniscience
+*Wondrous item, Very Rare, (requires attunement by a wizard)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Omniscience Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *detect magic* |
+| 2 | *detect thoughts*, *see invisibility* |
+| 3 | *sending* |
+| 4 | *arcane eye* |
+| 5 | *scrying*, *Rary's telepathic bond* |
+
+---
+
+#### Astral Bracelet of Planebending
+*Wondrous item, Very Rare, (requires attunement by a sorcerer, warlock, or wizard)*
+
+An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
+The bracelet has 10 charges and regains 2d4 + 2 expended charges daily at dawn. If you expend the sphere's last charge, its spinning rings magically fold up again into the wearable bracelet. You can fold the rings back into place early using an action.
+
+**Spells.** Each kind of astral bracelet has a different list spells that can be cast from it. If a spell cast in this way normally requires a component worth at least 100 gp, that component is still required when casting the spell. While holding the sphere, you can expend 1 or more of its charges to cast the following spells from it, using your spellcasting ability modifier and spell save DC:
+
+**Astral Bracelet of Planebending Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *find familiar* |
+| 2 | *misty step*, *rope trick* |
+| 3 | *sending* |
+| 4 | *banishment*, *dimension door* |
+| 7 | *plane shift* |
+
+---
+
+#### Astral Sea Piercer
+*Melee Weapon (war pick), Very Rare, (requires attunement)*
+
+This golden war pick was forged in the depths of the Astral Plane and leaves a faint trail of extraplanar energy behind it when swung. You gain a +3 bonus to attack and damage rolls made with this magic weapon, and targets hit by it take an extra 1d4 force damage from the attack. In addition, while you're in the Astral Plane, you always know the direction of the nearest portal to another plane of existence.
+
+**Portal.** This weapon has 4 charges and regains 1d3 + 1 expended charges each day at dawn. As a bonus action, you can expend 1 of its charges to slam the war pick into any flat, solid surface at least 5 feet across in any direction. When you do, you create a small planar rift. The rift fades after 1 minute. If you expend another charge in this way while there's a rift within 300 feet of you, the two rifts tear open to form a portal between them. The portal lasts until the end of your next turn or until you close it early (no action required). When the portal closes, the rifts fade. Medium and smaller creatures and objects can travel or interact freely through the portal while it's open, carrying with them any momentum they had through to the other side.
+Both rifts must be placed on the same plane of existence, and if you create a second rift more than 300 feet away from the first, the first one fades. Rifts can be entered from any direction to travel through a portal. When you enter a rift in this way, you reappear 5 feet in front of the other rift.
+In addition, you can expend 1 of the war pick's charges when you hit a Small or larger creature with it. When you do, that creature takes an extra 1d8 force damage as a rift appears on its body. Rifts that appear on a creature in this way are attached to the creature and move with it until a portal is opened. When a portal opens between two rifts and at least one of the rifts is attached to a creature, the attached creature or creatures must succeed on a DC 17 Charisma saving throw or be immediately shunted through the portal to the other rift's location. Large and larger creatures automatically succeed on this saving throw.
+
+---
+
+#### Aurum and Argentum
+*Melee Weapon (dagger), Rare*
+
+This gold and silver set of daggers seem ordinary when used on their own, but become magical when used together. You gain a +1 bonus to attack and damage rolls made with these daggers while you hold one of them in each hand. When you engage in two-weapon fighting using these daggers, you can add your ability modifier to the damage of the second attack.
+In addition, if you hit the same target with both daggers in the same round, it takes an extra 1d4 piercing damage from the second attack and can't use its reaction until the end of your turn.
+
+---
+
+#### Avian Circlet
+*Wondrous item, Rare*
+
+This ornate silver tiara grants you power over certain flying creatures. You can use an action to cast *animal messenger* or *speak with animals* at will using the circlet. Any creature affected by these spells must be a beast and have a flying speed.
+In addition, you can touch a willing beast with a flying speed. For 1 minute, you can see through the creature's eyes, sharing any of its special visual senses for the duration. You are blinded to your own surroundings while you share its vision in this way. You can end this effect early using an action to return to your normal senses. Once this property has been used, it can't be used again until this next dawn.
+
+---
+
+#### Axe Beak Tomahawk
+*Melee Weapon (handaxe), Uncommon*
+
+This magic handaxe is made from the remains of a slain axe beak. The first time you hit a creature that has a flying speed on each of your turns with this axe, that creature must make a DC 13 Strength saving throw. Each time that a creature fails this saving throw, that creature's flying speed is reduced by 15 feet for 1 minute.
+
+---
+
+## B
+
+#### Bag of Sundrops
+*Wondrous item, Uncommon*
+
+This small, colorful bag is filled with 1d6 + 4 golden, marble-like orbs called sundrops that glow softly when held. As an action, you can throw a sundrop at a point or object you can see within 30 feet. When you do, the orb explodes into a dazzling pillar of light that lasts until the start of your next turn. The pillar is a 5-foot-radius, 40-foot-high cylinder of bright light centered on the point where the sundrop shattered. The light is sunlight.
+A *dispel magic* spell targeting the light ends the effect early.
+
+---
+
+#### Band of Mirrored Essence
+*Ring, Rare, (requires attunement)*
+
+This unassuming platinum ring is polished to a mirror finish. When you reduce a Small or larger hostile creature to 0 hit points while wearing the ring, you can use your reaction to absorb a portion of that creature's essence into the ring. Looking into the ring shows the reflection of the creature whose essence is held inside. As an action, you can release the captured essence and assume either the creature's appearance or one of its features.
+If you take on the appearance of the creature, it must be a creature no more than one size larger or smaller than you. You do not physically change in size or shape, but your body is shrouded in a convincing illusion. Your voice changes to match the creature's, and you can understand any of its known languages but can neither read nor speak any that you don't already know. Another creature can see through the illusion by succeeding on a DC 16 Intelligence (Investigation) check. Physical interaction with this illusory form reveals it to be an illusion, because things can pass through it. The illusion lasts for 8 hours or until you dismiss it as a bonus action or fall unconscious.
+If you assume one of the creature's features, your body or mind temporarily changes to accommodate the new ability. You can choose to gain 1 skill or saving throw proficiency, damage resistance, condition immunity, sense, or language that the creature had. If the creature could breathe underwater, you can choose to gain that feature instead. You retain this feature for 8 hours or until you dismiss it as a bonus action or fall unconscious.
+Once you capture an essence with the ring, you can't do so again for 1d8 hours. You can only have 1 essence at a time. If you capture an essence when you already have one, you replace the original.
+
+---
+
+#### Bands of the Found and Lost
+*Wondrous item, Common*
+
+The compass-like mechanisms on top of these matching leather bracelets remain motionless until each bracelet is worn by a different creature. While they're worn, each compass points in the direction of the other matching band. It doesn't indicate height or depth. The compasses spin wildly if the two bands are worn on different planes of existence.
+
+---
+
+#### Bard-in-a-Box
+*Wondrous item, Common*
+
+This small music box can play songs at the request of the holder. As a bonus action, you can command the box to play a song for which it has music, causing the contraption to emit a slightly tinny rendition of the musical number. The box can know up to 5 songs at a time but can't recreate lyrics or other creature sounds. The box has a knob on its side to adjust its volume: able to be as quiet as a whisper or as loud as a scream.
+Sheet music can be fed into the box through a narrow slot along the bottom of the device. Sheet music must be labeled with a song title, page number, and instrument in order to be replayed. Pages failing to meet the requirements cause the box to make a sad, discordant noise before being spat back out. Once a sheet is successfully fed into the box, it is consumed and can't be retrieved.
+If a new piece of music causes the box to forget an older one, it quickly plays several bars of the now-forgotten number before it slows to a stop.
+
+---
+
+#### Barge Helm
+*Wondrous item, Uncommon*
+
+This flat, rugged helmet lets you run headlong into targets and bowl them over with abandon. If you move at least 20 feet straight toward a target and then shove them on the same turn, the target takes 1d6 bludgeoning damage from being barreled into by the helmet.
+
+---
+
+#### Barricade Shield
+*Shield (shield), Uncommon*
+
+While holding this sturdy iron shield, you can use an action to plant it on the ground and expand its height and width to stretch up to 15 feet across in either direction, potentially becoming a defensive wall or similar platform. The edges of the shield magically conform to fit the shape of an enclosed space, such as the walls of a tunnel or hallway. While holding the expanded shield in place, your speed becomes 0 and you have disadvantage on Dexterity checks and Dexterity saving throws. Regardless of the shield's size, its weight always remains the same.
+The expanded shield is considered a nonmagical structure that has an AC of 14 and 40 hit points. The shield can remain expanded for up to 1 minute before it reverts back to its normal size. The expanded shield reverts early (but is not destroyed) if it reaches 0 hit points or moves. If you're holding the expanded shield, you can choose to revert it early using a bonus action.
+Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Basco's Handy Bangle
+*Wondrous item, Rare*
+
+This shiny platinum bangle is inlaid with arcane runes that seem to be written by different hands. Labels can be read behind each of the adorning runes on the inside of the bangle. As an action, you can touch one of the runes and say the command phrase, "I can do this," to gain proficiency in the rune's associated tool for the next 24 hours. The rune glows with arcane energy while in effect. Once a rune is activated in this way, it can't be activated again until 1d4 days have passed.
+There are 10 runes on the bangle that can be activated in this way: **alchemist's supplies**, **carpenter's tools**, **cook's utensils**, **leatherworker's tools**, **smith's tools**, **tinker's tools**, **musical instrument** (**drum**, **flute**, **lute**, **lyre**), **navigator's tools**, **thieves' tools**, and Mounts and Vehicles; Waterborne Vehicles. If you're already proficient with any of these tools, your proficiency bonus is doubled for any ability check you make that uses the tool while the rune is active.
+
+---
+
+#### Basilisk Dagger
+*Melee Weapon (dagger), Rare*
+
+This magic dagger was made from pieces of a slain basilisk and still retains some of its properties. The dagger deals an extra 1d4 poison damage to any target it hits.
+In addition, when you score a critical hit with this weapon against a Large or smaller creature, that creature must succeed on a DC 13 Constitution saving throw or be restrained until the end of your next turn.
+
+---
+
+#### Bath potion
+*Potion, Common*
+
+This bubbly potion is frothy and smells like lavender. When you drink this potion, any dirt and grime on your body is magically rinsed away. Further, your breath, hair, and nails are suddenly cleaned, looking either polished and pristine or smelling of daisies and honey for the next 24 hours. Bubbles occasionally escape from your mouth while the potion is in effect.
+
+---
+
+#### Baton of Many Sizes
+*Rod, Uncommon*
+
+While holding this segmented, 1-foot-long rod, you can speak its command word as an action to cause it to extend in either direction. The rod can extend up to 50 feet or as far as the surrounding space allows. If the rod touches another creature or surface before reaching its full length, the rod stops moving in that direction. If it stops moving against a solid, unmoving surface, the rod fills the gaps to hold firm against it.
+The rod is unwieldy to hold once it's longer than 10 feet, forcing you to make a Strength (Athletics) check to maintain your grip on it while it's extended beyond that range. The DC for this check is equal to 8 + 1 for every 5 feet beyond 10 that the rod is extended. For example, the DC is 9 while the rod is 15 feet long, but 16 while a full 50 feet. If you lose your grip and drop the rod or use it to make an attack while it's extended more than 10 feet, it immediately retracts back to its shortened length. You can speak the rod's command word again as an action to cause it to retract.
+
+---
+
+#### Battle Tax
+*Melee Weapon (battleaxe), Uncommon, (requires attunement)*
+
+This golden battleaxe is the chosen weapon of many merchants and followers of mercantile deities. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+When you roll a 20 on an attack roll with this weapon against a Small or larger hostile creature, you magically earn a number of gold coins equal to the attack's damage. When you do, the axe glimmers like a sparkling coin, and you can sense the weight and clink of coins magically falling into your purse, pocket, or bag (your choice). If you have no room for the coins or don't want them to be immediately added to your storage, the coins erupt from the wound you inflict on the target instead. Once the axe generates coins in this way, it can't create any more for 12 hours.
+
+---
+
+#### Battlebrew Maul
+*Melee Weapon (maul), Rare*
+
+The head of this maul is an alchemical keg that generates battlebrew liquor, a favorite among dwarves and half-orcs. The keg holds up to 4 gallons of the liquor and creates 1 gallon each day at dawn and again each time you roll for initiative while holding it. A creature can use its action to remove or reattach the handle of the maul to the keg, and another action to pour out or stopper it.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. While held in combat, the hammer heats the liquor inside it. When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 acid damage as the hammer buckles from the impact and releases a spray of the volatile liquor.
+For 1 minute after a target has been sprayed with acid in this way, the next time that target takes fire damage, it takes an extra 2d6 fire damage as the liquor ignites.
+
+---
+
+#### Battlechef Buckler
+*Shield (shield), Uncommon*
+
+This small shield is the repurposed pot lid of a famous adventuring chef. While wielding the shield, you have advantage on saving throws to resist or avoid taking fire damage. In addition, if you place the shield face down over a pot or similar vessel that's holding no more than 2 gallons of a water-based liquid inside, the vessel and its liquid comes to a rolling boil after 10 minutes.
+
+---
+
+#### Battlechef's Splendid Saucepan
+*Wondrous item, Very Rare*
+
+This magic saucepan can be used to turn nearly anything into a delicious and filling meal. You can boil 1 pound of any one or combination of organic, nonmagical materials for 10 minutes or longer to magically transform them into a stew that can nourish up to 4 creatures for 24 hours.
+The saucepan also functions as a **mace**, granting you a +1 bonus to attack and damage rolls made with it. The saucepan deals an extra 1d4 thunder damage to any target it hits that's either wearing metal armor or made of metal or stone.
+If you're not wearing heavy armor, you can use an action to either wear or remove the saucepan as a helmet. While wearing the saucepan in this way, you gain a +1 bonus to your AC.
+
+---
+
+#### Belt of the Raid Leader
+*Wondrous item, Rare, (requires attunement by a half-orc or orc)*
+
+This thick leather belt is reinforced with large rivets and secured with a heavy iron skull buckle. While wearing this belt, you can use an action to let loose a powerful war cry that inspires you and up to 5 friendly creatures within 60 feet of you of your choice that can hear you. An inspired creature has advantage on attack rolls until the start of your next turn. When you use this property of the belt, you can make one weapon attack as a bonus action.
+Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Bird of a Feather
+*Wondrous item, Varies*
+
+Multiple variations of this item exist, as listed below:
+
+- **Bird of a Feather (common)**
+- **Bird of a Feather (uncommon)**
+
+---
+
+#### Bird of a Feather (common)
+*Wondrous item, Common*
+
+This small stuffed roc toy is filled with enchanted down. While holding onto the toy and concentrating, you magically gain a flying speed of 20 feet for up to 1 minute. The stuffed toy's weak magic can carry up to 200 pounds.
+If you take any damage while flying in this way, you lose concentration on the toy and immediately start falling.
+The common variant of this item is single-use, becoming mundane once the magic has been expended.
+
+---
+
+#### Bird of a Feather (uncommon)
+*Wondrous item, Uncommon*
+
+This small stuffed roc toy is filled with enchanted down. While holding onto the toy and concentrating, you magically gain a flying speed of 20 feet for up to 1 minute. The stuffed toy's weak magic can carry up to 200 pounds.
+If you take any damage while flying in this way, you lose concentration on the toy and immediately start falling.
+This item cannot be used again for 1d4 hours. It gives a happy little chirp when its magic can be used again.
+
+---
+
+#### Blizzard Sphere
+*Wondrous item, Rare*
+
+This glass sphere contains a raging blizzard inside. It's cold to the touch and vibrates with the gusts of wind trapped within. As an action, you can throw the orb at a point or object you can see within 30 feet, shattering it on impact. When the orb shatters, the blizzard erupts from the glass in a 20-foot-radius sphere of swirling ice and snow centered on the point of impact. When a creature enters the area for the first time on a turn or starts its turn there, it must make a DC 15 Constitution saving throw. On a failed save, a creature takes 4d8 cold damage and its speed is halved until the start of its next turn. On a successful save, a creature takes half as much cold damage and its speed is unaffected.
+The blizzard remains for 1d4 rounds or until targeted by a *dispel magic* spell (DC 15 or cast at 5th level or higher). Any surface within the area is covered in a slick sheet of ice and sleet, turning the ground within the sphere into difficult terrain that remains for the effect's duration. While the blizzard persists, the area is heavily obscured.
+
+---
+
+#### Blood Pact Pendants
+*Wondrous item, Very Rare*
+
+These iron pendants come in pairs and are connected by a powerful bond of self-sacrifice. In order to create this bond, you and a friendly creature with whom you are close perform a brief, 1-minute ritual to connect your destinies and forge a blood pact. When you create this blood pact, you must each agree on a number of hit points to permanently sacrifice and reduce your total maximum hit points by (minimum 1). Once a pact has been forged, trickles of the bound creatures' blood are absorbed into the normally clear gems adorning the faces of these pendants. While the gem is filled in this way, it seems to gently swirl and pulse in time with your heartbeat.
+While the bound creatures are wearing their respective pendants and are on the same plane of existence, they're protected by this pact so long as one creature is still conscious. When a bound creature dies, it's immediately revived with 2d10 hit points plus twice the number of hit points it had sacrificed. When a creature is revived in this way, the other bound creature immediately falls to 0 hit points and is knocked unconscious, ending the blood pact and restoring both creatures' hit point maximums to normal. This property ignores any effect that would normally prevent a creature from falling to 0 hit points. Once the pact is ended in this way, the gems and pendants crack and are no longer magical.
+While the bound creatures are wearing their respective pendants and are on the same plane of existence, they're protected by this pact so long as one creature is still conscious. When a bound creature dies, it's immediately revived with 2d10 hit points plus twice the number of hit points it had sacrificed. When a creature is revived in this way, the other bound creature immediately falls to 0 hit points and is knocked unconscious, ending the blood pact and restoring both creatures' hit point maximums to normal. This property ignores any effect that would normally prevent a creature from falling to 0 hit points. Once the pact is ended in this way, the gems and pendants crack and are no longer magical.
+
+---
+
+#### Bloodmage Dagger
+*Melee Weapon (dagger), Very Rare, (requires attunement by a spellcaster)*
+
+This roughly hewn obsidian dagger is razor sharp and can be used as a spellcasting focus. Its handle is covered in small holes that drink in whatever blood runs down the blade. There's a small reservoir for blood at the dagger's pommel that seems to never completely fill. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+The dagger has 5 charges and regains 1d3 + 2 expended charges daily at dusk. While holding the dagger, you can expend 1 of its charges as an action to make a melee spell attack using your spell attack bonus against a living creature you can see within 5 feet of you. When you do, an illusory crimson dagger sweeps out towards the creature. A creature hit by this attack takes necrotic damage equal to 3d6 + your spellcasting ability modifier, and you regain hit points equal to the necrotic damage dealt. If the target is a construct, plant, or undead creature, you don't regain any hit points in this way.
+Alternatively, while holding the dagger, you can expend 1 or more of its charges when you cast a spell using a 1st, 2nd, or 3rd-level spell slot. The spell must target either a single creature or yourself. The spell slot you use to cast this spell counts as one level higher for each charge you expend in this way. You can't increase a spell slot level beyond 5th level in this way. When you use this property of the dagger, you also expend 1 Hit Die for each charge you expend in this way. Roll a number of Hit Dice equal to the number of expended charges and take necrotic damage equal to the total you roll. This damage ignores resistance and immunity. If expending charges in this way causes you to fall to 0 hit points, the spell fails and you fall unconscious.
+
+---
+
+#### Bloodscryer Oculus
+*Wondrous item, Legendary, (requires attunement by a ranger)*
+
+These red goggles have a second set of lenses that magically adjust their distance from your eyes to magnify and focus on targets. While you're attuned to these goggles, you are unaffected by visual obscurity such as fog or smoke and can see up to 60 feet in magical and nonmagical darkness. If you already have darkvision, wearing the goggles increases its range by 60 feet. Additionally, you gain advantage on Wisdom (Perception) checks that rely on sight.
+These lenses are also imbued with several innate spells. While wearing the goggles, you can cast the following spells from them, using your spell save DC, but can only target creatures whose blood you can see: *hunter's mark* (3rd-level version), *locate creature*, or *scrying*. Casting a spell in this way does not require you to concentrate on the spell in order to maintain it. Once the oculus casts a spell in this way, it can't be used to cast that spell again until the next dawn.
+
+---
+
+#### Bolt
+*Ranged Weapon (heavy crossbow), Very Rare, (requires attunement)*
+
+This heavy crossbow is made of metal and fires small bolts of electricity instead of normal ammunition. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you pull the string back to load the crossbow, the string crackles with energy and loads a small bolt of lightning ammunition instead. Attacks made with this crossbow deal 1d12 lightning damage instead of 1d10 piercing. In addition, whenever you make a ranged attack with this weapon against a metal target or a creature wearing metal armor, you make the attack with advantage.
+This crossbow acts as a small lightning rod. If another creature within 10 feet of you takes lightning damage while you're holding the crossbow, you take 1d6 lightning damage for every 10 lightning damage the other creature took.
+
+---
+
+#### Boots of Dendallen
+*Wondrous item, Very Rare, (requires attunement)*
+
+These dark, fleshy boots grant marvelous powers and enhance your normal movement. While wearing these boots, you gain a flying speed equal to your walking speed and can hover. You can hover up to 20 feet off the ground in this way, leaving behind a thin trail of shadow when you do. In addition, when you take the Dash action while wearing the boots, you can move an extra 10 feet.
+The boots have 4 charges and regain 1d3 + 1 expended charges daily at dusk. While wearing the boots, you can use a bonus action to expend 1 of their charges to cast either the *expeditious retreat* or *misty step* spell from them. When you cast *misty step* in this way, the normally silver mist that surrounds you is dark and ominous.
+
+**Curse.** When you pull these boots over your feet for the first time, make a DC 16 Wisdom saving throw. On a success, you are aware of the curse's effects and can immediately remove the boots before they extend it to you. On a failure, the boots' muscly sinews dig into your legs and feet, interlocking with your own flesh. You immediately take 4d8 necrotic damage as the tainted muscles and flesh latch onto you, and you can't remove the boots unless you're targeted by the *remove curse* spell or similar magic. While you wear the boots, your feet sometimes move in unexpected ways. You make Dexterity (Acrobatics) checks and Dexterity saving throws with disadvantage, and it costs you an extra 10 feet of movement to stand up after you fall prone.
+If you fail the saving throw to resist the curse and later remove the boots, you take another 4d8 necrotic damage as they painfully tear themselves from your body.
+
+---
+
+#### Boots of the Cloud Jumper
+*Wondrous item, Uncommon, (requires attunement)*
+
+While wearing these boots, you can jump while in the air as if you'd leapt from solid ground. You can't jump farther than your remaining movement would allow, and you treat all jumps made in this way as they were standing jumps. When you make a mid-air jump, faint clouds fly out from under your feet. The boots allow you to jump in this way once before they need to make contact with a solid surface again. Jumping in this way while falling before landing on solid ground prevents up to 20 feet of fall damage.
+
+---
+
+#### Borboss' Joyous Wand of Color
+*Wondrous Item, Common*
+
+This crystalline, prismatic wand can channel the illustrative intent of its wielder. While holding the wand, you can magically create a stroke of color in the air, allowing you to draw in midair or on any surface the wand touches. The effect is illusory, visibly magical, radiates dim light out to 5 feet, and dissipates after 1 hour.
+If you attempt to draw on an object held or worn by a hostile creature, that creature must succeed on a DC 10 Dexterity saving throw in order to avoid it.
+
+---
+
+#### Boreal Pendant
+*Wondrous item, Rare, (requires attunement)*
+
+This enlarged, floating snowflake is magically held in place and changes its shape as temperatures fluctuate. While attuned to the pendant you have resistance to cold damage and give off an aura of cheeriness. The snowflake has 8 charges and regains 1d6 + 2 expended charges each day at dawn. While wearing it, you can expend 1 or more of its charges to cast the following spells using a spell save DC of 15:
+
+**Boreal Pendant Spells**
+
+| Charges | Spells |
+| --- | --- |
+| 1 | *charm person*, *color spray*, *detect magic* |
+| 3 | *hypnotic pattern* |
+| 4 | *ice storm* |
+If you expend the pendant's last charge, roll a d20. On a 1, the snowflake melts into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that hold it in place.
+
+---
+
+#### Bottled Abyss
+*Potion, Very Rare*
+
+This small vial has a single dose of a fuming, pitch-black poison inside of it. When a creature eats or drinks the poison, it takes 4d6 psychic damage and must make a DC 18 Constitution saving throw. On a failed save, the creature becomes blinded and unable to sleep. When an affected creature attempts to rest, their dreams are plagued with terrible nightmares, preventing them from benefiting from a long rest. The creature can reattempt the saving throw once every 24 hours.
+The poison lasts until the affected creature succeeds on a saving throw or is cured by the *greater restoration*, *heal*, or *wish* spell.
+
+---
+
+#### Bounty Hunter Enforcer
+*Melee Weapon (spear), Uncommon*
+
+This spear has a hollow metal head filled with a spring-loaded **net**. Attacks made with this weapon deal bludgeoning damage instead of piercing. When you hit a target with a melee attack using the weapon, you can press a button on the handle as a bonus action to deploy the spring-loaded net. When you do, the target of the attack is restrained if it's Large or smaller. Once the net is deployed, you can retract and reset it as an action. When you do, anything held by the net is released. Attacks with the spear are made with disadvantage while the net is deployed. If something is retrained by the net, you can't use the spear to make weapon attacks.
+You can use a bonus action to prime the net to trigger upon impact, allowing it to deploy when the spear hits a target the next time it's thrown or swung as part of an attack.
+This net follows the net's normal rules but cannot be detached from the spear without destroying the net. You can replace the net with a new one by spending 1 minute reattaching it to the spear.
+
+---
+
+#### Bow of Mind Thievery
+*Ranged Weapon (shortbow), Rare, (requires attunement)*
+
+Arrows fired from this magic bow deal an extra 1d4 psychic damage to any creature that they hit.
+When you hit a humanoid with an arrow in this way, you can force that creature to make a DC 15 Wisdom saving throw after the attack. On a failed save, that creature falls under the effects of the *dominate person* spell for up to 1 minute as if cast by you. This effect does not require concentration. In addition, you can use a bonus action to see through that creature's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deafened and blinded with regard to your own senses. Once this property of the bow has been used, it can't be used again until the next dawn.
+
+---
+
+#### Braided Quarterstaff
+*Uncommon*
+
+This magical quarterstaff is made of a tightly knit length of braided rope. As a bonus action, you can speak the weapon's command word to release its knotted form and loosen it into a 50-foot length of **hempen rope (50 feet)**. Speaking the command word again causes the rope to tighten back up into the quarterstaff. If a creature is restrained by the rope when you speak its command word, the rope tightens around the creature but does not crush it. Once tightened in this way, the restrained creature or an adjacent ally can use an action to escape following a successful DC 15 Strength or Dexterity check (their choice).
+Tying an object no larger than six inches on a side to the end the rope does not prevent it from reforming into the quarterstaff. The rope can only be broken by magical means. If broken, the rope cannot be transformed back into a quarterstaff.
+
+---
+
+#### Brambleheart Quiver
+*Wondrous item, Very Rare, (requires attunement by a ranger)*
+
+This wooden quiver can carry your arrows as well as provide some of its own. The quiver has 4 grown arrows and regrows 1d3 + 1 picked arrows daily at dawn. The grown arrows are thorned and remain attached to the quiver until picked for use (no action required). While you're attuned to the quiver, you gain a +2 bonus to attack and damage rolls made with these magic arrows. A grown arrow is no longer magical after 1 minute has passed since it was first picked from the quiver.
+When you fire and hit a target or point with one of these magic arrows, you can use a bonus action on that same turn to speak the quiver's command word. When you do, that arrow transforms into a thick field of thorns to recreate the effects of the *spike growth* spell, centered on its location. This effect does not require concentration and lasts until the start of your next turn. If the arrow was lodged in a target when you use this property, that target also takes 2d4 piercing damage.
+
+---
+
+#### Breastplate of the Morning Light
+*breastplate, Rare, (requires attunement by a cleric or paladin)*
+
+You have a +1 bonus to your AC. You can use an action on your turn to channel the armor's magic to cause it to emit a flash of blinding, radiant light. When you do, all other creatures within 30 feet of you are forced to make a DC 15 Constitution saving throw. On a failure, a creature is blinded until the end of its next turn. Undead creatures have disadvantage on the saving throw and take 2d8 radiant damage on a failure, or half as much on a success. Once this property of the armor has been used, it can't be used again until the following dawn.
+
+---
+
+#### Brooch of Many Sizes
+*Wondrous item, Rare*
+
+This metal brooch features a rotatable dial and can be used to secure a cape or adorn a piece of clothing. While wearing the brooch, you can use an action to cast the *enlarge/reduce* spell, targeting only yourself, by turning the dial toward either the larger or smaller figure adorning the sides of the brooch. Once this property of the brooch has been used, it can't be used again until the following dawn.
+While under the effects of this spell, you can use a bonus action to overload the brooch by forcibly twisting the dial beyond its normal limits. When you do, your size changes by an additional category: growing either a second size larger if you had cast the *enlarge* spell or a second size smaller if you had cast the *reduce* spell. Your size can't be larger than Huge or smaller than Tiny by overloading the brooch, and your damage and weight are increased or decreased as if you were affected by a second instance of the *enlarge/reduce* spell.
+When you return to your original size after overloading the brooch, you can't move or take actions until after your next turn. Once the brooch has been overloaded, it can't be used again until 7 days have passed.
+
+---
+
+#### Bug Smashers
+*Wondrous item, Uncommon*
+
+This grotesque pair of gloves are made using the barbed exoskeleton and harvested remains of a giant centipede. When you roll a 20 on an unarmed attack roll using these knuckles, the target takes an extra 2d6 poison damage and must succeed on a DC 13 Constitution saving throw or be poisoned until the start of your next turn. Unarmed attacks with these gloves deal either bludgeoning or piercing damage (your choice).
+
+---
+
+## C
+
+#### Cactus Mace
+*Melee Weapon (mace), Uncommon*
+
+This magical weapon's head is an enchanted cactus that rapidly regrows its missing needles. The first target hit by this weapon on each of your turns takes an extra 1d4 piercing damage from the attack.
+
+---
+
+#### Candle of Anti-Light
+*Wondrous item, Uncommon*
+
+While burning, this dark candle sheds magical darkness in a 10-foot radius. It can be lit for up to 1 hour before it's consumed and can be snuffed or relit like a normal candle. Completely covering the candle with something opaque contains the darkness. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
+
+---
+
+#### Catnip Amulet
+*Wondrous item, Common*
+
+This gold and jade amulet seems to draw domestic cats to it. While wearing the necklace, you have advantage on ability checks made to find or call Tiny domestic cats (if there are any) and on Wisdom (Animal Handling) checks you make to interact with them.
+
+---
+
+#### Celestial Circlet
+*Wondrous item, Very Rare, (requires attunement by a cleric of good alignment)*
+
+This golden circlet radiates holy energy. A thin halo hovers above your head while you wear it, emitting bright light in a 20-foot radius and dim light for another 20 feet. Small motes of holy light swirl around the apex of the circlet.
+While you wear the circlet, you are always under the effects of the *protection from evil and good* spell. This effect only applies to one creature type: you can choose a new creature type (other than celestials) to be protected against daily at dawn.
+The circlet has 7 charges. As an action while wearing the circlet, you can expend 1 or more of its charges to cast either *cure wounds* (1 charge per spell level, up to 4th) or *spirit guardians* (3 charges) from it, using your spell save DC and spellcasting ability modifier. Immediately before or after you cast a spell from the circlet in this way, you can use your bonus action to fly up to 10 feet without provoking opportunity attacks. When you do, you are carried away on a pair of angelic wings.
+The circlet regains 1d4 + 3 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the halo vanishes and the circlet becomes mundane and nonmagical.
+
+---
+
+#### Ceratopper
+*Wondrous item, Very Rare, (requires attunement)*
+
+This adamantine helm is fashioned in the likeness of a triceratops and decorated with painted designs. You have a +1 bonus to AC while you wear this helmet. If you move at least 20 feet toward a target and then attack it with a melee weapon attack on the same turn, you can choose to make a special attack using the helmet instead of the weapon. On a hit, the target takes piercing damage equal to 3d4 + your Strength modifier. You're proficient with this attack and use your Strength modifier for its attack rolls. If you hit and the target is no more than one size larger than you, it must also succeed on a DC 13 Strength saving throw or be knocked prone.
+In addition, while wearing the helmet, you can use an action to cast the *polymorph* spell from it, transforming yourself into a triceratops. Once this property has been used, it can't be used again until 2 days have passed.
+
+---
+
+#### Charlatan's Wardrobe
+*Wondrous item, Uncommon*
+
+This set of plain clothes is exceptionally comfortable and easy to wear. They are always clean and smell freshly washed and lightly perfumed. You can change the appearance of the outfit as an action by twirling in place and speaking the clothes' command word. The outfit's appearance is illusory. Physical interaction with the clothes reveals their appearance to be an illusion, because things can pass through it. A creature that uses its action to examine the clothes can determine that it is an illusion with a successful DC 13 Intelligence (Investigation) check. Regardless of their appearance, the clothes offer no additional protection from the elements, and can only appear to be clothes.
+
+---
+
+#### Chillspike
+*Melee Weapon (pike), Legendary, (requires attunement)*
+
+This cold steel weapon from the Everglacier is topped with a menacing ice spike that never melts. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The pike deals an extra 1d10 cold damage to any target it hits. In addition, attacks with this weapon and its properties ignore resistance to cold damage.
+When you reduce a Large or smaller creature to 0 hit points using this weapon, you can choose to encase that creature in ice. An encased creature is prevented from falling prone and is held in place by a shell of ice for 1 minute. If the creature is unconscious, it does not make death saving throws while it's encased in the ice. The ice has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to fire damage. If the encased creature is healed or the ice is destroyed, the ice crumbles and releases the creature.
+
+**Everglacier's Fury.** As an action, you can plunge the pike into the ground at your feet. When you do, the blade of the pike magically vanishes into the earth and summons up to three icy spikes from the ground nearby. Choose up to 3 different targets on the ground you can see within 20 feet of you. An affected target must succeed on a DC 16 Dexterity saving throw or take 2d8 cold damage as a frozen spike erupts from the ground beneath it. The spikes immediately recede into the ground after the effect, and the icy blade of the pike reappears.
+
+---
+
+#### Chromacloth
+*Ranged Weapon (sling), Uncommon*
+
+This silken cloth is enchanted using a unique blend of abjuration and evocation magic, allowing it to be used for a number of purposes. At any one time it can be one of four colors: red, yellow, green, or blue. You can change the chromacloth's color to another one as an action.
+You can wear the chromacloth as a headband or wrap to gain resistance to the damage type associated with the cloth's color. Once the cloth reduces damage taken in this way, it can't do so again until the following dawn.
+Alternatively, the cloth can be fashioned to be an effective sling. Ammunition fired from the sling deals damage of a type matching the cloth's color instead of bludgeoning. Refer to the table below for a reference of the chromacloth's associated colors and damage types:
+
+**Chromacloth Sling Damage**
+
+| Color | Damage Type |
+| --- | --- |
+| Red | Fire |
+| Yellow | Lightning |
+| Green | Poison |
+| Blue | Cold |
+
+---
+
+#### Cinnabar Rapier
+*Melee Weapon (rapier), Rare*
+
+This magic rapier's blade is alchemically coated in a thin but toxic layer of cinnabar. The weapon has 10 charges and regains 1d8 + 2 expended charges each day at dawn. When you hit a creature with this weapon, you can expend 1 or more of its charges. The blade's poison leeches into the blood of the creature you struck to deal an extra 1d4 poison damage for each charge expended in this way.
+
+---
+
+#### Circlet of the Huntsman's Third Eye
+*Wondrous item, Very Rare, (requires attunement)*
+
+This barbed metal circlet features a grotesque yet ornately preserved eye hanging from its center. The eye rests on the forehead of the creature wearing it. While wearing the circlet, its latent cunning guides your hand, giving you advantage on Wisdom (Survival) checks.
+The circlet has 5 charges and regains all expended charges daily at dusk. While wearing the circlet, you can use a bonus action to expend 1 of its charges to cast the *hunter's mark* spell from it. You have advantage on Constitution saving throws made to maintain concentration on this spell. In addition, you can expend a 2nd charge when casting *hunter's mark* in this way, or 1 charge as a bonus action on another turn, to gain truesight out to a range of 120 feet for 1 minute.
+
+**Curse.** Attuning to the circlet curses you until you are targeted by the remove curse spell or similar magic. Removing the circlet fails to end the curse. While cursed, whenever you roll a 1 on an attack roll or ability check, you take 1d6 psychic damage as the eye's intense frustration and scorn pierce your psyche.
+
+---
+
+#### Cloak of the Boundless Spirit
+*Wondrous item, Rare, (requires attunement)*
+
+This swirling, translucent cloak bolsters the fighting spirits of friendly nearby creatures. The cloak has 3 charges and regains all expended charges each day at dawn. When an ally you can see within 15 feet of you takes damage, you can use your reaction to expend 1 charge and reduce that damage by 2d6.
+In addition, friendly creatures within 15 feet of you regain consciousness on a roll of 19 or 20 on death saving throws. When a creature within range regains consciousness in this way, you can use a reaction to expend 1 charge to grant them 2d6 temporary hit points. Once a creature regains consciousness by rolling a 19 or 20 on a death saving throw in this way, it can't do so again until it finishes a long rest.
+
+---
+
+#### Clockwork Faefly
+*Wondrous item, Uncommon*
+
+This brass clockwork mechanism is 2 inches long and whirs with the hum of tiny gears inside. You can tap the head of the faefly twice as a bonus action. When you do, the mechanism begins to flutter 5 feet in the air. The faefly has AC 10 and 10 hit points and flies in this way until a creature grasps it or it falls to 0 hit points. If you move more than 60 feet from the hovering faefly, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the faefly sinks gently to the ground and becomes inactive, and its light fades out. While it's flying, you can use a bonus action to speak its command word to cause it to move up to 20 feet.
+If you are within 60 feet of the faefly, you can speak another command word as an action to cause it to emit the *light* spell or cast *faerie fire* (save DC 13), affecting a 20-foot cube originating from itself. *Faerie fire* does not require concentration when cast in this way, but ends early if the faefly falls to 0 hit points. Once the faefly casts the *faerie fire* spell, it can't cast it again until the next dawn.
+The faefly is considered a magical object and is not a creature. If the *mending* spell is cast on it while it has at least 1 hit point, it regains 2d6 hit points. If the faefly falls to 0 hit points, it can't be used again until 2 days have passed, at which point it regains all its hit points.
+
+---
+
+#### Clockwork Healerbee
+*Wondrous item, Rare, (requires attunement)*
+
+This pill-shaped magical mechanism is 2 inches long and made of brass and glass. It has a pair of tiny wings that silently keep it aloft. It hovers up to 5 feet above the ground and does its best to stay at your side within your space. The bee can enter and pass through another creature's space and does not provoke opportunity attacks.
+The bee has 8 charges and regains 1d6 + 2 expended charges daily at dawn. While the bee is within your space, you can speak its command word as a bonus action and expend up to 3 of its charges to command the bee to heal a creature that you can see within 20 feet of you. The bee flies to the creature's space and touches its stinger to the creature, causing the creature to regain 1d6 hit points for each expended charge and emitting a bright light that fills the space. After healing the creature, the bee returns to your space.
+The bee is considered a magical object and is not a creature. It has AC 15, 10 hit points, and has resistance to all damage. If the *mending* spell is cast on the bee while it has at least 1 hit point, it regains 2d6 hit points. If the bee drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
+
+---
+
+#### Clockwork Inkbeetle
+*Wondrous item, Uncommon*
+
+This minuscule, mechanical beetle is 1 inch long and quietly whirs with a mix of magical and mechanical forces. Placing the beetle on a piece of parchment you hold or carry causes it to spring to life and begin tracking your travels. As you move, so does the beetle: leaving behind a small line of ink. The ink immediately dries and doesn't dissolve in water. In addition, the beetle's small frame allows it to move even while enclosed in a book or similar enclosure without losing its sense of movement or direction.
+The beetle mirrors your movement to create a to-scale map of your journey, drawing 1 inch of ink in your choice of the following scales: 20 feet/inch, 200 feet/inch, 2 miles/ inch, or 20 miles/inch. You can rotate the dial on the beetle's underside to change the scale as an action. The beetle is immune to magical effects that would otherwise alter its sense of direction.
+The beetle always knows which direction is north. When placed on a piece of parchment for the first time, it crouches down to stamp a small compass rose on the sheet before it begins to move. If the beetle runs out of space on the parchment to travel, it stops moving in that direction and emits a clicking sound that can be heard by creatures within 5 feet of it.
+Attaching one **Bands of the Found and Lost** to the beetle while you wear the other allows the beetle to move and trace your movements in this way from afar so long as you are both on the same plane of existence.
+
+---
+
+#### Coil Crook
+*Uncommon*
+
+This smooth red staff is actually made from a rigid length of rope. You can speak the staff's command word as a bonus action to cause it to magically loosen and turn into a 10-foot length of decorative **silk rope (50 feet)**. You can speak the staff's command word again as a bonus action to cause the rope to untangle itself and become the solid staff form once more. It can be used as a spellcasting focus in either of these forms.
+While holding the staff, you can use an action to cast the *rope trick* spell from it, using it as the rope required for the spell. Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Coldsnap
+*Melee Weapon (whip), Rare, (requires attunement)*
+
+This icy whip deals an extra 1d4 cold damage to any target it hits. In addition, you have a +1 bonus to attack and damage rolls made with this magic weapon.
+The whip has 3 charges and regains all of them each day at dawn. When you hit a creature that is not immune to cold damage with this weapon, you can expend 1 of its charges to force the creature to make a DC 15 Constitution saving throw. On a failure, its speed becomes 0 until the start of your next turn. On a success, its speed is halved instead.
+Once you attune to this weapon, its normally frigid handle feels warm to the touch.
+
+---
+
+#### Companion's Band
+*Wondrous item, Common, (requires attunement)*
+
+This woven band can be worn as a necklace or bracelet by resizing its strap. While wearing the band, you can use an action to summon a spectral companion that appears in a space within 5 feet of you. The companion can be a dog, cat, bird, or similar Small or smaller beast. The form is translucent and immaterial, but feels warm to the touch. It emits dim light in a 5-foot radius. The companion remains until dismissed (no action required) or until you remove the band. It is not considered to be a creature, does not occupy space, and does not require food, water, or air to exist. It is friendly toward you and other creatures you choose. It stays within 30 feet of you at all times and moves through objects as necessary in order to do so. If it's unable to reach you, it disappears until summoned again. The companion wears a spectral copy of the band on its neck or limb when you summon it (your choice).
+The companion understands the emotion and intent of your commands, but cannot speak or understand language. Attempting to target the companion with a *detect thoughts* spell only reveals an overwhelming sense of love and affection for you.
+Once the same spectral companion has remained or has been summoned at least once a day for 7 consecutive days, the band and companion become permanently linked to you. When this happens, the band no longer requires you be attuned to it in order to use it, and no other creature can attune to it. Once the band is linked to you in this way, you can summon your linked companion using a bonus action instead of an action. In addition, once the band is linked to you, the companion becomes partially physical, allowing you and creatures you choose to be able to gently pet and hold its otherwise spectral form.
+If you die, the band can be attuned to by a different creature. The linked companion follows you to whatever afterlife awaits you or reappears if you're resurrected and summon it once again.
+
+---
+
+#### Container of Heat and Frost
+*Wondrous item, Common*
+
+This heavy iron container is adorned with 3 arcane symbols along the edge of its removable lid. The container can hold up to 1 gallon of liquid. As an action, you can press 1 of the container's arcane glyphs to heat the liquid inside to a boil (212 degrees Fahrenheit), chill it (33 degrees Fahrenheit), or maintain its current temperature (keeping it between 33 and 212 degrees Fahrenheit). Once pressed, the selected glyph glows either red, blue, or yellow, respectively.
+It takes 1 minute to boil or chill a liquid. Pressing the glyph again as an action ends the heating or cooling process early. After boiling or chilling the liquid, the container maintains its hot or cool temperature, respectively.
+
+---
+
+#### Coralshield Golem
+*Shield (shield), Uncommon, (requires attunement)*
+
+This crablike golem is made of a light but resilient magical coral. While wearing it on your back, you can use a bonus action to command it to move along your arm and don itself. You can command the golem to return to your back using another bonus action.
+If you don't have a free hand or refuse to drop what you're holding when the golem attempts to don itself, it returns and reattaches to your back.
+
+---
+
+#### Couatl Herald's Guard
+*Shield (shield), Uncommon, (requires attunement by a creature of good alignment)*
+
+This magic shield is made from yew and covered in durable couatl feathers. When a creature you can see within 10 feet of you takes damage, you can use your reaction to magically take that damage instead of the creature taking it. When you do so, the damage type changes to force. Once this property has been used, it can't be used again until you finish a short or long rest.
+
+**Flight of the Couatls.** While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
+
+---
+
+#### Couatl Herald's Lash
+*Melee Weapon (whip), Rare, (requires attunement by a creature of good alignment)*
+
+This slender whip's grip is feathered and comfortable to wield. Its weight has been magically reduced and it gently sways on its own. This weapon has the light property. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Once on each of your turns when you take the Attack action and use this whip to make an attack against a Medium or smaller creature, you can choose to forgo the attack and force the target to make a DC 15 Dexterity saving throw instead. On a failure, the target is grappled by the whip and takes 1d4 bludgeoning damage as it's constricted. If you replace another attack with the whip in this way against a target who's already grappled by it, that target becomes restrained by the whip instead upon failing the saving throw. A target grappled or restrained by the whip can use an action to make a DC 15 Strength or Dexterity check (target's choice). On a success, it is no longer grappled or restrained by the whip.
+Until this grapple or restraint ends, you can't use the whip against a different target. Moving more than 10 feet away from the target or dropping the whip ends the grapple or restraint.
+
+**Flight of the Couatls.** While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
+
+---
+
+#### Couatl Herald's Mantle
+*Wondrous item, Uncommon, (requires attunement by a creature of good alignment)*
+
+This magic cloak is given to those deemed kind-hearted and responsible by a celestial. While wearing the mantle, you have advantage on saving throws to resist becoming poisoned or diseased. In addition, you are immune to any effect that would sense your emotions.
+
+**Flight of the Couatls.** While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
+
+---
+
+#### Couatl Herald's Radiance
+*Rare, (requires attunement by a spellcaster of good alignment)*
+
+This magic wooden staff was enchanted by a powerful couatl. The staff has 5 charges. While holding the staff, you can expend 1 of its charges to cast one of the following spells, using your spellcasting ability modifier and spell save DC: *create food and water*, *cure wounds* (2nd-level version), *lesser restoration*, *protection from poison*, *sanctuary*, or *shield*.
+The staff regains 1d3 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
+
+**Flight of the Couatls.** While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
+
+---
+
+#### Couatl Herald's Scales
+*scale mail, Rare, (requires attunement by a creature of good alignment)*
+
+This enchanted armor is made from couatl scales that were collected by a generous celestial. You gain a +1 bonus to AC while you wear this armor. This armor does not impose disadvantage on Dexterity (Stealth) checks.
+
+**Tooth and Scale.** When you take damage from a creature within 10 feet of you, you can use your reaction to channel the good spirit within the armor and cause a bright, spectral couatl to appear above you. The spectral form strikes at the creature who damaged you, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature takes 4d10 radiant damage, or half as much damage on a success. Once this property has been used, it can't be used again until the next dawn.
+
+**Flight of the Couatls.** While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
+
+---
+
+#### Cratering Quarterstaff
+*Very Rare, (requires attunement by a creature with a Strength score of 17 or higher)*
+
+This thick, stony quarterstaff requires a Strength score of 17 or higher in order to wield. Despite glowing with embers, it feels comfortably warm to the touch. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+This quarterstaff has 5 charges and regains 1d4 + 1 expended charges daily at dawn. Once on each of your turns immediately after you make an attack with the quarterstaff, you can expend 1 of its charges (no action required) to slam the weapon into the ground and create a 10-foot cone of intense tremors and flame in the direction of the original attack's target. Any creature caught in the cone must make a DC 16 Dexterity saving throw. The original attack's target has disadvantage on the saving throw. On a failed save, a creature takes 1d8 bludgeoning damage and 1d8 fire damage, or half as much damage on a successful one.
+
+---
+
+#### Crosier of Divine Power
+*Very Rare, (requires attunement by a cleric or paladin)*
+
+This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
+This staff is enchanted with powerful holy magic that manifests as radiant motes of power during times of need. At the start of each of your turns in combat, roll a d6. On a 6, a mote of power appears above the head of the staff. When you hit a target with the staff or heal a creature with a spell or magical effect while holding it, you can expend 1 of these motes to add 2d6 to the total damage dealt or hit points healed. The extra damage is radiant.
+Each mote lasts for 1 minute or until it's expended. When you roll initiative against a hostile creature, the staff creates 2 motes.
+
+---
+
+#### Crown of Deep Winter
+*Wondrous item, Uncommon, (requires attunement)*
+
+This icy crown is made using ice from the Everglacier. While wearing the crown, you have resistance to cold damage. In addition, you can use an action to cast the *fire shield* spell from it, making only a chill shield when you do. Once the crown has cast this spell, it can't cast it again until the next dawn.
+
+**Frozen Burst.** While wearing this crown, you can use your reaction when a creature within 5 feet of you that you can see hits you with an attack to cause the area around you to explode in a burst of razor-sharp icicles. When you do, all creatures within 5 feet of you must make a DC 16 Dexterity saving throw. On a failure, a creature takes 2d8 cold damage, or half as much on a success. This property of the crown can't be used again until you finish a short or long rest.
+
+---
+
+#### Crypt Keeper Glaive
+*Melee Weapon (glaive), Legendary, (requires attunement)*
+
+You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+When you use the glaive to reduce a Small or larger creature that is hostile toward you to 0 hit points, roll a d10. You gain temporary hit points equal to the number you roll.
+In addition, the glaive's blade begins to glow with a sickly green haze whenever you gain temporary hit points in this way. While glowing, the first successful melee attack you make with the glaive deals extra necrotic damage equal to the number of temporary hit points you gained. Once you deal this bonus damage, the haze fades.
+The haze and any remaining temporary hit points are lost after 1 minute.
+Undead creatures killed by this weapon cannot be raised from the dead again.
+
+**6 Feet Under.** The first time on your turn that you land a successful melee attack with this weapon against a creature that is prone, the weapon's damage die is maximized.
+
+---
+
+## D
+
+#### Dagger of the Ogre Mage
+*Melee Weapon (shortsword), Uncommon, (requires attunement)*
+
+This blade was once used as a dagger by an ogre, but is nevertheless large enough to be a shortsword. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+This blade's hilt is hollow and can hold up to 3 cantrip spell scrolls. Cantrip scrolls left within the compartment for 1 minute activate one of the three clear gems adorning its grip. Once activated, you can cast these cantrips at will using your spellcasting modifier. If you don't have a spellcasting modifier, use your Intelligence modifier instead. You have proficiency with these cantrips. Cantrips cast from the blade use the weapon as an arcane focus and allow you to perform any somatic components with the weapon instead of requiring a free hand. Scrolls contained within the sword are not destroyed after using them in this way.
+When you cast a cantrip using the sword that deals damage, the sword's damage type changes to match the cantrip's for 1 minute or until you end it early (no action required).
+
+---
+
+#### Dark Fathom Armor
+*studded leather armor, Very Rare*
+
+This dark, sea-soaked suit of armor smells of brine and is covered in eldritch runes. You have a +1 bonus to AC and can breathe normally underwater while wearing this armor.
+In addition, while wearing this armor, you can use an action to cast the *Evard's black tentacles* spell (save DC 15) from it. When cast in this way, the spell targets a 15-foot square centered on your location that does not follow you when you move. In addition, you do not need to concentrate on the spell and are immune to its effects when cast in this way. Once this property has been used, it can't be used again until the next dusk.
+
+---
+
+#### Dead Ringer
+*Wondrous item, Rare, (requires attunement)*
+
+This bronze mask lets out a deep, sonorous ring when struck. When you're reduced to 0 hit points or fail a death saving throw while wearing the mask, the 3 enemy creatures nearest to you within 30 feet must succeed on a DC 15 Wisdom saving throw or take 2d12 necrotic damage. This property has no effect on creatures who aren't missing any hit points or are deafened. If you're healed or stabilized after falling to 0 hit points, the mask can't be used again in this way until the following dusk.
+
+---
+
+#### Death Knell
+*Melee Weapon (halberd), Rare*
+
+This dark metal weapon is grimly ornate. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Once per turn when you reduce a Small or larger creature to 0 hit points with this weapon, a foreboding, gong-like sound emanates from the blade. When this happens, any hostile creature within 15 feet of the target that's missing any of its hit points must make a DC 15 Wisdom saving throw. On a failed save, a creature takes 1d8 psychic damage, or half as much damage on a successful one.
+
+---
+
+#### Devil's Detail Eyepatch
+*Wondrous item, Uncommon*
+
+This well-worn leather eyepatch is enchanted with the illusion of an embroidered eye on the front. While wearing this eyepatch over an eye, whether you're missing one or not, you can magically see from the patch as if it were a working eye. The embroidered eye adorning the front of the patch swivels and moves as you look around while wearing it.
+In addition, while wearing the eyepatch over an eye, you can speak its command word as a bonus action to gain darkvision out to a range of 60 feet for 1 hour. If you already have darkvision, this effect increases its range by 60 feet. While this property is in effect, you can see through magical darkness as if it were nonmagical darkness. Once this property of the eyepatch has been used, it can't be used again until the next dawn.
+
+---
+
+#### Direstone Dwarven Pick
+*Melee Weapon (war pick), Rare, (requires attunement by a dwarf)*
+
+This old, weathered war pick is able to effortlessly break and mold stone. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Creatures and objects made of stone that are hit by the war pick take an extra 1d8 piercing damage from the attack. In addition, the weapon has 3 charges and regains 1d3 expended charges daily at dawn. As an action, you can expend 1 of its charges to cast the *meld into stone* or *stone shape* spell using the weapon.
+
+---
+
+#### Discordant Thunderstave
+*Uncommon, (requires attunement)*
+
+This thin, hollow quarterstaff has the finesse property and reverberates when it strikes a target. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a target with this weapon and roll the maximum amount of bludgeoning damage on the weapon's damage die, the hollow staff shudders and emits a deep, thunderous sound. When that happens, roll the weapon's damage die again and add it to the total damage of the attack. This extra damage is thunder damage.
+
+---
+
+#### Doodle Ring
+*Ring, Uncommon*
+
+This magic wooden ring is always covered in splotches of charcoal, ink, or paint, regardless of how well or often it's cleaned. While wearing the ring on a finger, you can touch that finger to a solid surface and begin to draw. The drawing uses your finger to make marks as if it were a piece of charcoal, ink quill, or paintbrush (your choice). The marks you make can be in any color. Any drawing made by the ring can be easily smudged or washed away without leaving any marks behind. The ring can have up to a total of 5 square feet covered with drawings in this way at any time. Drawing more than that begins to erase the previous marks, and any mark left after 24 hours of being made is magically erased.
+
+---
+
+#### Doomsday Cookie
+*Wondrous item, Uncommon*
+
+This black sugarpaste cookie is made using a grim recipe passed down through generations of clerics devoted to gods of death. Inside this hollow cookie is a blank strip of enchanted paper whose writing only appears when you break open the cookie. The paper's writing vaguely predicts the manner in which you'll die. When you open this cookie, roll a d20 and use the table below to determine the paper's prediction.
+Once a creature's fortune has been predicted in this way, all future doomsday cookie papers will predict the same outcome for them. If a creature dies in a way foretold by the cookie (at your GM's discretion) the cookie's paper transforms into a scroll of *revivify*. This scroll can only be used on the creature whose passing it foretold. If the scroll is unused within 1 minute, it crumbles into flour.
+Regardless of its grim foretellings, the cookie itself is a delicious snack that is sweet, salty, and smoky.
+
+**Doomsday Cookie Predictions**
+
+| d20 | Prediction |
+| --- | --- |
+| 1 | Your fiery passions burn too hot. |
+| 2 | The light of the full moon casts the deepest shadows. |
+| 3 | Vainglorious you stumble, entranced by your own reflection. |
+| 4 | Great heights bring low all who reach them. |
+| 5 | Betrayal strikes deeper than any blade. |
+| 6 | Hasty hands make for quick lives. |
+| 7 | Look behind you. |
+| 8 | Getting ahead of yourself may separate you both. |
+| 9 | What a fine meal. |
+| 10 | Nature knows no morality. |
+| 11 | The crushing weight of the world is too much. |
+| 12 | Your demise is met with revelry, gnashing jaws, and gluttony. |
+| 13 | Beware the viridian, in color and emotion. |
+| 14 | Mortality is shed as quickly as skin or clothing. |
+| 15 | Hold onto each breath. Savor it as your last. |
+| 16 | 70 percent of accidents happen in the home. |
+| 17 | Stars die as new ones rise. |
+| 18 | Cold. So cold. |
+| 19 | The stench of failure burns your nostrils. |
+| 20 | Rocks fall. You die. |
+
+---
+
+#### Dragon Edge Weapon (Generic)
+*Varies*
+
+Multiple variations of this item exist, as listed below:
+
+- **Dragon Edge Weapon**
+- **Dragon Edge Weapon +1**
+- **Dragon Edge Weapon +2**
+
+---
+
+#### Dragon Tamer Lance
+*Melee Weapon (lance), Legendary, (requires attunement)*
+
+This slender, iridescent lance is covered in an enchanted finish that resembles the hardened scales of many dragons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can, understand and speak Draconic.
+This lance has 8 charges and regains 1d4 + 4 expended charges each day at dawn. When you hit a target with the lance, you can expend 1 of its charges to deal an extra 3d6 acid, cold, fire, lightning, or poison damage (your choice) to the target. If you expend a charge in this way when you hit a dragon, it must also succeed on a DC 17 Wisdom saving throw or become frightened of you until the beginning of your next turn. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
+Whenever you expend a charge in this way to deal extra damage, you can choose to expend a 2nd charge and deal an additional 1d6 damage of the same type to the target and prevent it from using its reaction until the start of its next turn.
+
+**Wyrmling Steed.** In addition, while holding the lance, you can use an action to cast the *find steed* spell from it. Once this property has been used, it can't be used again until the next dawn. When you use the lance to cast this spell, you can choose to summon a dragon wyrmling instead of a normal mount by expending a number of charges equal to its challenge rating (maximum 2). You determine the kind of dragon summoned, although its alignment towards good or evil must be the same as your own. If your alignment is neutral, you can summon a wyrmling of either alignment. The wyrmling counts as one size larger when used as a mount and cannot use its breath weapons.
+
+**Forceful Impact.** If you move at least 20 feet straight toward a Medium or smaller target and then make a melee attack with the lance against it while within 5 feet of the target, you make the attack with advantage instead of disadvantage. If you hit, you can immediately roll to attack another target 5 feet directly behind the first, without advantage, as part of the initial attack.
+
+**Special.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+
+---
+
+#### Dragon Turtle Shield
+*Shield (shield), Rare*
+
+This shield is made from a piece of reclaimed dragon turtle shell. The brass dragon turtle head sculpture adorning its front magically creates and heats a small reservoir of water that replenishes daily at dawn. When you take fire damage while holding this shield, you can use a reaction to speak the shield's command word. When you do, the water inside it is superheated, reducing the fire damage you take by half. The superheated water is released as a dense cloud of steam that's centered on your space, heavily obscuring the area in a 45-foot sphere that spreads around corners. The cloud does not move with you and lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+Once this property has been used, the shield's reservoir is empty and can't be used again in this way until the next dawn when it replenishes or until it's submerged in nonmagical salt water for 1 hour.
+
+---
+
+#### Dragon-Kindled Edge
+*Melee Weapon (longsword), Legendary, (requires attunement)*
+
+This magnificent blade is crafted from the remains of an ancient dragon. You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a dragon with this weapon, the dragon takes an extra 2d6 damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns. In addition, while you're attuned to this weapon, you can read and understand draconic.
+
+**Kindled Cleave.** When you're affected by a hostile dragon's breath attack, you can use your reaction to hold the blade in front of you. When you do, the sword splits the breath attack and leaves you and any creature in a 30-foot cone behind you unaffected by the attack. Once this features has been used, it can't be used again until the following dawn.
+When you use this feature to split a breath attack in this way, the sword gives off an elemental haze like that of the split breath attack. The haze lasts for up to 1 minute and sheds bright light in a 10-foot radius and dim light for another 10 feet. The first creature hit by an attack from the sword while it has this haze takes an extra 6d6 damage from the attack of the breath attack's damage type. This extra damage ignores resistances and immunity.
+
+**Lesser Draconic Resistance.** If you fail a saving throw by 4 or less, you can choose to succeed on it instead. Once this feature of the sword's been used, it can't be used again until the following dawn.
+
+---
+
+#### Dragon's Call
+*Wondrous item, Uncommon*
+
+This ear cuff imparts a deeper understanding of draconic history and language upon its wearer. While wearing the ear cuff, you can understand and speak Draconic. In addition, you gain a +1 bonus to any Charisma, Intelligence, or Wisdom ability check you make that involves dragon-related lore.
+
+---
+
+#### Dragonkin Weapon
+*Varies*
+
+Multiple variations of this item exist, as listed below:
+
+- **Dragonkin Weapon +1**
+- **Dragonkin Weapon +2**
+- **Dragonkin Weapon +3**
+
+---
+
+#### Dream Mantle
+*Wondrous item, Very Rare, (requires attunement)*
+
+This short purple cape is vaguely iridescent and is difficult to look at from afar. The cape creates illusions of faraway places that are visible only to creatures 30 or more feet away. While wearing this cloak, creatures more than 30 feet away from you have disadvantage on Wisdom (Perception) checks to detect you based on sight and make ranged attacks against you with disadvantage. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+In addition, you can cast the *dream* spell (save DC 16) using the mantle, using yourself as the messenger within the dream. Once this property of the mantle has been used, it can't be used again until 7 days have passed.
+
+---
+
+#### Druidic Throwing Club
+*Melee Weapon (club), Rare, (requires attunement by a druid or ranger)*
+
+This magic wooden club has the thrown property with a normal range of 20 feet and a long range of 60 feet. You gain a +1 bonus to attack and damage rolls made with this magic weapon While attuned to the club, you know the *shillelagh* cantrip if you don't already know it. If shillelagh is cast on the club, the spell doesn't end when the weapon is thrown. The club flies back to your hand immediately after making a ranged attack with it.
+
+---
+
+#### Dryadleaf
+*Wondrous item, Common*
+
+This magic plant only grows at the base of trees that are often stepped through by dryad. Its leaves continuously shift as if by a breeze. Touching the plant, even gently, causes its leaves to stop their gentle swaying for 1 minute.
+Dryadleaf plants only grow up to 4 leaves at a time and are found in the wild with 1d4 matured leaves. Leaves are fully matured once they have a thin yellow rim. You can use an action to eat a mature leaf. When you do, you can speak to beasts and plants for 1 minute as if you shared a language. Once it's been picked, a leaf retains this property for 7 days before it wilts.
+You can move the plant to a pot over the course of 1 minute. When you do, make a DC 15 Intelligence (Nature) or Wisdom (Survival) check. On a success, the delicate plant survives the transfer to a new pot. On a failure, the plant is irreversibly damaged and dies.
+The plant can survive with surprisingly little air, allowing it to survive in an extradimensional space such as a **bag of holding** or **portable hole**. So long as it's watered lightly each day and given a moderate amount of sunlight (weather and environment permitting), the plant grows 1d4 missing mature leaves every 7 days.
+
+---
+
+## E
+
+#### Eaglereign
+*Wondrous item, Uncommon, (requires attunement)*
+
+This thick glove is ornamented with eagle feathers and fitted with an enchanted silk lining. You can use the glove to cast the *find familiar* spell as an action instead of its normal casting time. When you do, the familiar takes the form of an eagle. The familiar disappears if you are no longer attuned to the glove. Once this property has been used, it can't be used again until the following dawn.
+You can focus on the glove for 1 hour to summon a giant eagle that magically appears in an empty space within 30 feet of you. The giant eagle is considered to be a fey creature and disappears after 12 hours, when it drops to 0 hit points, or if you dismiss it as an action. Once the eagle disappears, it can't be summoned again until 2 days have passed.
+The giant eagle is friendly to you and your companions. Roll initiative for the giant eagle, which has its own turns. It obeys any verbal commands that you issue (no action required). If you don't issue any commands, it defends itself from hostile creatures, but otherwise takes no action.
+The giant eagle has a carrying capacity of 480 pounds and can fly at up to 8 miles an hour. It must rest 1 hour for every 3 hours it flies, and it can't fly for more than 9 hours.
+
+---
+
+#### Ear Cuff of the Vampire Bat
+*Wondrous item, Uncommon, (requires attunement)*
+
+While wearing this ceramic bat ear cuff, you can mentally command the cuff (no action required) to enhance your hearing when you make a Wisdom (Perception) check to listen. When you do, the bat's eyes flash with a red glow as its ceramic fangs bite down on your ear. You take 1d4 + 1 necrotic damage from the bite and immediately gain a bonus to your listening Wisdom (Perception) check equal to the amount of necrotic damage you took in this way. This damage ignores resistance and immunity. You can decide to use this ability after you roll the d20, but before the GM determines the outcome.
+
+---
+
+#### Edible Book of Recipes
+*Wondrous item, Very Rare*
+
+This tome of cooking recipes is enchanted to turn sheets of fine paper into delectable meals. You can write a simple recipe on 1 of the book's pages over the course of 1 minute. As you do, the paper becomes aromatic, smelling like the cuisine you're writing. You can eat the sheet of paper as an action and find that it has the taste, texture, and smell of the food described on its page. The sheet of paper takes the place of a meal.
+If you add a more complex recipe to the book that takes at least 10 minutes to write—potentially using sensory language, descriptions of fine ingredients, or illustrations of the dish—eating the delicious sheet of paper provides enough nourishment to sustain a creature for 1 day. A creature that eats from the book using one of these complex recipes gains and has their hit point maximum increase by 1d10 + their proficiency bonus until they finish a long rest. In addition, if the creature is diseased or poisoned, it can reattempt the saving throw to end it. A creature can only gain the benefits of a complex recipe once every 24 hours.
+In addition, you can use this book as a spellcasting focus when casting the *create food and water* spell, should you know it. When you do, the food and drink you create can be aromatic and flavorful: recreating recipes from the book of your choice.
+The book can hold up to 50 pages. A book found as treasure usually has 3d10 + 10 blank pages as well as 1d10 filled pages containing complex recipes.
+When all the pages are removed from the book or you attempt to rebind it early, roll a d20. On a 1, the tome bursts into flame and leaves the air in a 60-foot radius smelling like wine and fine cooking. The smell remains for 30 days. After 1 minute, the book's tattered remains transform into a bountiful meal, conjuring a *heroes' feast* as if cast by the spell. The book is then destroyed. On any roll other than a 1, the book can be rebound using fine paper costing no less than 5 gp per page.
+
+---
+
+#### Eldritch Scarf
+*Wondrous item, Rare*
+
+This dark scarf moves slowly on its own and is always wrinkled. The scarf hides an extradimensional space within its folds that can only be reached while you wear it. The space holds 60 pounds of material, not exceeding a volume of 6 cubic feet. The scarf always weighs 1 pound, regardless of its contents. When you place an object in this space (no action required), your hand vanishes into the scarf's loose folds.
+You can't retrieve items placed within the scarf with your hands. Instead, you can use a bonus action to mentally control the scarf, causing its frayed, hand-like ends to reach within the space and retrieve a stored item. The hands can carry up to 10 pounds and drop any object weighing more than that on the ground at your feet.
+Ironing or otherwise flattening the scarf causes the items stored inside to be squeezed out, spilling forth unharmed from the ends of the scarf. If the scarf is destroyed, its contents are lost forever. A living creature can't be placed inside the scarf.
+In addition, while wearing the scarf, you can use an action to mentally control it, using the scarf's frayed hands instead of your own to manipulate a simple object, such as open an unlocked door, stow or retrieve an item from an open container, or pour the contents out of a vial within 5 feet of you. The hands can't attack or activate magic items.
+Placing the scarf inside an extradimensional space created by a **bag of holding**, **portable hole**, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
+---
+
+#### Enchantment Breaker
+*Ring, Rare*
+
+This ring's tiny chains rotate slowly around your finger while worn. Whenever you are affected by a spell that restores hit points such as *cure wounds* or *healing word*, you can use your reaction to reattempt the saving throw against an enchantment spell that's currently affecting you.
+
+**Shatter Enchantment.** When you're targeted by an enemy enchantment spell or fail a saving throw against one, you can use your reaction to weaken the enchantment's grip on you and other allies within 10 feet of you: allowing you and nearby allies to roll the enchantment's saving throw with advantage. Once you use this feature, it can't be used again until 1d4 days have passed.
+
+---
+
+#### Essence of Rage
+*Potion, Rare*
+
+This swirling potion tastes like iron and bitter raisins. When you drink this potion, you enter a rage that lasts for 1 minute or until you're knocked unconscious. This rage grants you the same effects as the barbarian's class feature at 1st level with the following additional properties:
+
+- If you end your turn without having attacked a hostile creature or taken damage since your last turn, your rage does not end, but you take 1d4 psychic damage instead.
+- You can enter this rage even if you're wearing heavy armor.
+In addition, when you use your action to drink this potion, you can make one weapon attack as a bonus action.
+
+---
+
+#### Ether Spear
+*Melee Weapon (spear), Very Rare, (requires attunement)*
+
+This spear can slip through the Ethereal Plane to reach its destination. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of piercing. When you take the Attack action with the spear, you can choose a point you can see within 20 feet of you. The tip of the spear vanishes and reappears at that point, allowing you to make melee attacks with the spear against a creature in or adjacent to that space until the end of your turn. You ignore half cover with these attacks and treat three-quarters cover as if it were half cover.
+You can use a bonus action to see 60 feet into the Ethereal Plane for 1 minute. Once this property of the spear has been used, it can't be used again until the following dawn.
+
+---
+
+#### Everice Box
+*Wondrous item, Uncommon*
+
+This large wooden box weighs 25 pounds and is 3 feet long and both 2 feet deep and tall. It has rugged ropes on its left and right sides as well as on the top of its lid. The left and right sides of the box are covered by enchanted slabs of stone that magically keep the contents on the inside of the box at a consistent 40 degrees Fahrenheit. The box can hold up to 10 gallons of liquid, 24 rations, or a Small or smaller creature. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach from the box on a success.
+While the box's lid is closed and its latch is shut, you can use an action to speak the box's command word to shrink it and its contents down to a more portable size. The weight of the box and its contents is halved while it's reduced in this way and measures a mere 1 foot long by 8 inches deep and tall. You can speak the box's command word again to return it to its normal size. Opening the latch, whether by choice or by force from the inside, immediately returns the box and its contents to its full size and weight. A living creature can't be reduced in size in this way and forces the lid and latch to open if the box becomes too small for it.
+
+---
+
+#### Everlasting Sugarbomb
+*Wondrous item, Common*
+
+This large sugarbomb is roughly two inches in diameter. Its flavors are a mix of bitter, salty, savory, spicy, sour, and sweet, but also refreshes you as it's slowly eaten. The sugarbomb is solid and slowly dissolves in your mouth, changing in flavor each time you reach a new layer. An everlasting sugarbomb provides enough nourishment to sustain a creature for 1 day after 1 minute of letting it dissolve in your mouth. The sugarbomb fully dissolves after 30 uses. You can bite through to the center of the everlasting sugarbomb following a successful DC 25 Strength or Constitution check (your choice). If you succeed, make a DC 16 Constitution saving throw. On a failure, you're poisoned for 1 minute and suffer from painful nausea.
+
+---
+
+#### Eye of Dendallen
+*Wondrous item, Rare, (requires attunement)*
+
+While you're attuned to this item, you can cast the *see invisibility* spell at will.
+
+**Curse.** When you attune to the eye of Dendallen, you're suddenly overcome with the urge to see what it sees. Make a DC 20 Wisdom saving throw. On a success, you resist the curse and are aware of its effects but are no longer attuned to the item. On a failure, you forcefully tear out one of your own eyes, taking 4d10 necrotic damage, and allow the eye of Dendallen to crawl into its now vacant socket. If you're already missing an eye, you simply let the eye crawl into the socket without taking the necrotic damage.
+You can see normally through the eye of Dendallen while it's in your socket. In addition, you have darkvision out to a range of 60 feet. If you already had darkvision, the eye increases its range by 30 feet. As a bonus action, you can concentrate on looking through the eye to peer through magical darkness in this way for 1 minute. Once this property of the eye has been used, it can't be used again until the following dusk.
+
+**Dendallen Familiar.** The eye also doubles as a gruesome familiar. As an action, you can command the eye to crawl out of your eye socket and move independently of you. Use the abilities described in the *find familiar* spell when commanding the eye of Dendallen. The eye is undead, has 5 hit points, an AC of 12, a walking and climbing speed of 20 feet, does not require air to breathe, has darkvision out to a range of 60 feet, and has a +6 bonus to Dexterity (Stealth) checks. If the eye is slain or you dismiss it, it reappears inside your open eye socket with a sickly sound. The eyeball appears pitch black if it's slain and loses this feature as well as its benefits to your vision until the following dusk.
+Unattuning to the eye or targeting it with the *remove curse* spell causes it to pull itself out of the socket and try to escape. Slaying the eye while it is unattuned to a creature destroys the item.
+
+---
+
+#### Eye of the Bookwurm
+*Wondrous item, Uncommon*
+
+This small, glass sphere is enchanted with weak divination magics to help you find specific words or phrases in writing. It has a stylized iris etched into the glass.
+You can use a bonus action to speak the eye's command word aloud, followed by the word or phrase you're searching for. The word or phrase magically appears and floats within the sphere. By holding the eye in a free hand, your vision becomes magically enhanced to subconsciously highlight the word or phrase you searched for in a green light wherever you see it. Once you've used the eye's ability for the first time, you can change the word or phrase as many times as you like for the next hour, after which the item can't be used again until the following dawn.
+
+---
+
+## F
+
+#### Fable's End
+*Melee Weapon (mace), Very Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whenever you roll a 20 on an attack roll with fable's end against a Large or smaller creature, it must succeed on a DC 15 Charisma saving throw or be banished to its native or other plane of existence. At the end of its next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. You banish and score a critical hit against fey creatures on a roll of 19 or 20 with this weapon. Fey creatures have disadvantage on the saving throw. When a creature is banished in this way, the weapon's center emits a brilliant magenta flash of light.
+
+---
+
+#### Ferryman's Take
+*Wondrous item, Rare*
+
+These tarnished copper coins are always found in pairs and bear the portrait of a horned man on one side (heads) and a rowboat on the other (tails).
+You can place the coins over the eyes of a dead, unconscious, or willing humanoid creature as an action. When you do, the coins create an effect based on which side is facing up. You can remove one or both of them from the creature's eyes as an action to end their effects early. If the coins aren't facing the same direction, they have no effect on the creature they're placed on.
+
+**Heads.** While the coins are heads up over the eyes of an unconscious creature, that creature is stable. If placed over the eyes of a conscious creature, it enters a physical and mental state indistinguishable from death and gains immunity to psychic damage while doing so. The creature remains in that state for 1 hour or until the coins are removed. Once a living creature leaves this state, it can't enter it again in this way for 24 hours.
+
+**Tails.** While the coins are tails up over the eyes of a dead creature, that creature is under the effects of the *gentle repose* spell. Its body can't be detected through magical means, and the soul of the creature can't be contacted.
+
+---
+
+#### Festerwood Buckler
+*Shield (shield), Uncommon*
+
+This festerwood shield is riddled with amber pustules that glow with a low, yellow light. While holding this magic shield, the pustules emit bright light in a 5-foot radius and dim light for another 5 feet. In addition, while you're holding the shield, you can use your reaction when a creature that you can see within 5 feet of you misses you with an attack to bash that creature with the shield. When you do, that creature must succeed on a 13 Dexterity saving throw or take 1d4 + 1 acid damage.
+
+---
+
+#### Festerwood Claymore
+*Melee Weapon (greatsword), Rare*
+
+This heavy, dark wood is incredibly strong and forms part of the symbiotic relationship it shares with destructive beetles that live inside. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you roll a 20 on an attack roll made with this weapon against a creature, some of the sword's beetles leave the weapon and latch onto the target. The beetles bite and hinder the creature for its next 1d4 turns. While affected by the beetles in this way, the creature takes 1d6 piercing damage at the start of each of its turns and its movement speed is halved. A creature can use an action to swat away and remove the beetles to end the effect early. If the target is a plant creature or magical plant, this property deals the maximum damage to it on each of its turns and lasts for 4 turns unless ended early by a creature.
+
+---
+
+#### Festerwood Fungal Stave
+*Very Rare, (requires attunement by a cleric, druid, or sorcerer)*
+
+This fungal staff has 25 charges and regains 1d10 + 15 expended charges daily at dusk. While holding the staff, you can use an action to expend 1 or more of its charges to cause clusters of noxious mushrooms to magically appear in a number of unoccupied spaces equal to the number of charges you expend. The spaces must be on solid ground within 60 feet of you. Each space becomes difficult terrain for the duration of the effect. When a creature moves into or within a space or area covered by these mushrooms, that creature takes 2d4 poison damage for every 5 feet it travels. The mushrooms live for 1 minute or until you dismiss them as a bonus action.
+In addition, while holding the staff, you can use a bonus action to expend 1 or more of its charges to cast one of the following spells from it, regardless of the spell's normal casting time, using your spell save DC: *cloudkill* (5 charges), *fog cloud* (1 charge), *insect plague* (5 charges), or *stinking cloud* (3 charges). A spell cast in this way ends at the end of your next turn and must target a point adjacent to a space occupied by your mushrooms. When cast from the staff, these spells do not require concentration.
+If you expend the last charge from the staff, roll a d20. On a 1, the staff begins to overgrow, destroying the staff and forcing you to drop it in an unoccupied space adjacent to you. A hostile violet fungus grows in its place.
+
+---
+
+#### Festerwood Logger
+*Melee Weapon (handaxe), Uncommon*
+
+This magic axe is a favorite among lumberjacks. The axe is made entirely of the magically hardened festerwood and sharpened to a menacing edge. The weapon's glimmering yellow pustules leech acid with each attack, causing any target hit by it to take an extra 1d4 acid damage. This acid damage is maximized if the target is a plant creature, a nonmagical plant, or an object made of wood.
+
+---
+
+#### Festerwood Vizard
+*Wondrous item, Rare, (requires attunement)*
+
+This dark wooden mask is strangely insect-like and magically conforms to fit your face. While wearing the mask, you gain blindsight out to a range of 10 feet. You can put on and remove the mask using an action.
+In addition, you can summon a swarm of insects (beetles) that fly out of the mask's mouth and obey your verbal commands as an action. You can command the swarm to move and make an attack as part of the action to summon them and then again on each of your following turns as a bonus action. If the swarm goes 10 minutes without attacking a creature, they dissipate harmlessly to seek food elsewhere. Once this property has been used, it can't be used again until the next dusk.
+
+---
+
+#### Festerwood's Light
+*Melee Weapon (rapier), Legendary, (requires attunement)*
+
+This festerwood rapier's blade is inlaid with scrapings from the Lightspore, the radiant mushroom growing at the center of the Festerwood. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you're attuned to this rapier, you have advantage on ability checks made to find locations within the Festerwood and are immune to disease. While holding the sword, the blade sheds bright light in a 10-foot radius and dim light for another 10 feet.
+You can use an action to raise the blade overhead and speak its command word. When you do, all creatures other than you within 30 feet of you are dusted with a sudden wave of magical spores. A friendly creature affected by the spores is suddenly invigorated, allowing it to immediately use its reaction to either make one weapon attack or move up to half its speed without provoking opportunity attacks. A hostile creature affected by the spores must succeed on a DC 17 Constitution saving throw or be incapacitated until the end of your next turn. Once this property has been used, it can't be used again until the next dusk.
+The rapier has 5 charges for the following properties. The weapon regains 1d3 + 2 expended charges daily at dusk.
+
+**Spore Cleansing.** As an action, you can touch a willing creature with the rapier and expend 1 of its charges to remove 1 Spore Counter from that creature. (See risen sporehusk)
+
+**Spells.** While holding this rapier, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 17, spell attack bonus +9): *charm person* (4th-level version), *compulsion*, *confusion*, *contagion*, *faerie fire*, *locate animals or plants*, or *moonbeam* (4th-level version). In addition, you can use an action to cast the *dancing lights* spell at will while holding the rapier.
+
+---
+
+#### Fife of Dragonsong
+*Ranged Weapon (blowgun), Rare, (requires attunement by a bard)*
+
+This magical fife can be played as an instrument or wielded as a deadly weapon. You are proficient with the fife of dragonsong as both an instrument and blowgun while you're attuned to it. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and any target hit by it takes an extra 1d6 thunder damage from the attack.
+
+**Dragonsong.** As an action, you can expend one of your uses of bardic inspiration to play a powerful note that repels foes and empowers allies. The note is audible out to 100 feet. Hostile creatures within a 15-foot cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage and isn't pushed.
+An ally within the cone that can hear the note is bolstered by it instead. A friendly creature affected by the note has its speed increased by 10 feet until the end of its next turn and gains 2d6 temporary hit points that last for 10 minutes.
+
+---
+
+#### Fire Dervish Cloak
+*Wondrous item, Rare, (requires attunement)*
+
+This breathable cloak sounds like a crackling fire as it billows behind you and can create a small, fiery cyclone around you as you twirl in it. The cloak has 5 charges and regains all expended charges daily at dawn. Once on your turn, you can expend 1, 2, or 3 charges from the cloak by forfeiting 10, 20, or 30 feet of your movement speed for that turn, respectively, in order to spin in place instead. When you do, each creature within 5 feet of you must succeed on a DC 15 Dexterity saving throw or take 1d8 fire damage for each charge you expend in this way.
+If a creature takes fire damage from the cloak, that creature can't make opportunity attacks against you until the end of your turn.
+
+---
+
+#### Fire Fire!
+*Ranged Weapon (light crossbow), Rare*
+
+This hollow metal crossbow was created by a team of kobold and contains an enchanted ember at its core. The crossbow has 3 charges. While the crossbow has at least 1 charge, the inner ember burns brightly when you hold the weapon. While it burns, the crossbow emits bright light in a 20-foot radius and dim light for an additional 20 feet, and any nonmagical bolt fired from the crossbow catches fire and deals an extra 1d6 fire damage to any target it hits.
+You can expend 1 of the crossbow's charges as an action to cause the ember to spew forth devastating flames, sending out a wave of fire in a 30-foot cone. Each creature within the cone must make a DC 15 Dexterity saving throw. A creature takes 4d6 fire damage on a failed save, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
+The crossbow regains 1d3 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the magical ember inside the crossbow dies, and the weapon becomes a nonmagical crossbow.
+
+---
+
+#### Fire Wand of the Unbroken Circle
+*Wondrous Item, Rare, (requires attunement by a druid)*
+
+This wooden wand is carved out of ash and is always faintly warm to the touch. Whenever you grip the wand's handle and later look at your palm, it's strangely covered in a fine layer of charcoal. This wand has 7 charges. While holding the wand, you can expend 1 or more of its charges to cast either the *flame blade* spell (2 charges) or *produce flame* cantrip (no charges, or 1 charge to cast at 5th level) from it, using a spell attack bonus of +5. When you cast the *flame blade spell* using this wand, the sword's fiery blade appears above the wand's haft instead of in a free hand.
+Whenever you would fail a Constitution saving throw to maintain concentration on a *flame blade* spell cast in this way, you can expend 1 charge as a reaction in order to succeed on the saving throw instead. You can only use your reaction in this way if you're holding the wand.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+
+---
+
+#### Firecracker Crystals
+*Wondrous item, Common*
+
+These multicolored crystals are usually purchased in small bags at festivals and holiday events. As an action, you can throw 1 of these 1-inch crystals against a solid surface within 20 feet of you to crack it apart. When a crystal breaks, it releases the magic inside. The magic ends at the end of your turn and is entirely sensory.
+A bag of the small crystals comes with 10 (1d4 + 8) crystals inside. Roll a number of d8s equal to the number of crystals in the bag and record each number rolled. Use these numbers to determine the kinds of crystals found in the bag using the table below:
+
+**Firecracker Crystal Colors**
+
+| d8 | Color | Result |
+| --- | --- | --- |
+| 1 | Red | Releases a harmless 5-foot tall flame. |
+| 2 | Orange | Releases a small flash of bright light in a 5-foot radius and dim light for another 5 feet, followed by the smell of spices and citrus. |
+| 3 | Yellow | Releases small spiraling motes of energy that fizz and fly about in a 5-foot radius. |
+| 4 | Green | Releases a cloud of bright, verdant smoke that fills a 5-foot sphere and smells both foul and sickly sweet. |
+| 5 | Blue | Releases a series of comically large bubbles that float outward from the point of impact in a 5-foot radius. |
+| 6 | Purple | Releases the sound of music. The song is random, and plays only enough to make it recognizable as music. |
+| 7 | White | Releases a dazzling display of sparkling glitter in a 5-foot radius from the point of impact. |
+| 8 | Black | Releases a mystery effect. Roll on the table again when using this crystal to determine its effect. If you roll an 8, roll the d8 again. |
+
+---
+
+#### Fireweaver Gloves
+*Wondrous item, Uncommon, (requires attunement)*
+
+While wearing these fine golden gloves, you can use an action to cast the *produce flame* cantrip (spell attack bonus +5) from it. You can hold this and other small nonmagical flames (such as a torch or candle) as if they were tangible objects, and can sculpt them like clay. Once sculpted, a flame retains its form for 1 minute before returning to normal. A nonmagical flame carried in this way burns for 1 hour before dying. If you drop or throw a nonmagical flame, it immediately burns out.
+When you cast *produce flame* using the gloves, the spell's duration is 1 hour, instead of 10 minutes, and it casts bright light in a 20-foot radius and dim light for an additional 20 feet. In addition, you can place the spell's conjured flame on the ground at your feet (no action required). When you do, the flame continues to burn harmlessly for up to 1 minute before going out. While you're within 5 feet of the placed flame, you can use an action to pick it back up.
+In addition, when you take fire damage while wearing these gloves, you can use your reaction to reduce the damage by 1d8 + 2, provided that you have a free hand.
+
+---
+
+#### Flesh of Dendallen
+*Wondrous item, Very Rare, (requires attunement)*
+
+This patchwork shirt is made of enchanted pieces of stitched-together flesh. This shirt has 6 charges and regains 1d4 + 2 expended charges daily at dusk. While wearing this shirt, you can use a bonus action to expend 1 of its charges to cast *false life*, regardless of its usual casting time. In addition, while you have less than half your hit points left, you regain hit points equal to 1d4 + your Constitution modifier (minimum of 1) at the beginning of each of your turns. You do not regain health if you are unconscious or have taken fire or radiant damage since the beginning of your last turn.
+
+**Curse.** When you attune to the shirt and wear it, you're forced to make a DC 20 Strength saving throw as the fleshy fabric begins to bubble and hiss as it fuses to your skin. On a success, you're able to safely remove the clothing before you attune to the item, but are aware of the curse's effects. On a failure, the shirt attaches to your flesh and destroys any nonmagical clothing covered by it. Magical items worn beneath it rise to the surface as the fleshy shirt seeps through them to attach to your skin. While wearing it, you are considered to be undead in addition to any other creature type you already are and are vulnerable to radiant damage.
+Once you are attuned to the shirt, you cannot remove it unless you are targeted by the *remove curse* spell or similar magic. When you remove it, you take 4d10 necrotic damage as the shirt is peeled from your skin.
+
+---
+
+#### Force Gauntlet
+*Wondrous item, Rare, (requires attunement)*
+
+This jeweled gauntlet has 5 charges and regains 1d4 + 1 expended charges daily at dawn. When you make a melee attack with a hand that's wearing this gauntlet, you can choose to expend 1 of its charges as part of the attack. If it hits, the target takes an extra 2d6 force damage from the attack and must make a DC 15 Strength saving throw. On a failure, the target is pushed 10 feet away from you. On a success, you're pushed 10 feet away from it instead. Targets two or more sizes larger than you automatically succeed on the saving throw.
+
+---
+
+#### Fortune's Fivepence
+*Wondrous item, Uncommon, (requires attunement)*
+
+This electrum coin has a smiling human woman's face on one side (heads) and a scowling fiendish woman's face on the other (tails). While you're within 30 feet of the coin, you can summon it to either your hand or pocket by speaking its command word as a bonus action. Despite its unique appearance, this coin can be spent like a normal coin.
+
+**Fate Flip.** This coin has 2 charges. You can attempt to regain expended charges once every 24 hours by flipping a coin. The coin regains all expended charges if it's heads, or 0 if it's tails. When the coin is on your person and your total for an attack roll, ability check, or saving throw is 10 or lower, you can expend 1 of the coin's charges to channel its magic and forge your own luck. When you do, flip a coin. If it's heads, roll a d10 and add it to the total of your roll. If it's tails, you subtract 1d10 from the total instead. The coin loses this property if using it in this way reduces the total of your roll to 0 or lower.
+
+---
+
+#### Fourarm Bracers
+*Wondrous item, Very Rare, (requires attunement)*
+
+These bracers can summon another pair of spectral arms below your existing ones. These arms can be summoned as an action and last for up to 1 minute before disappearing. While active, you can use the arms to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. Each arm can carry up to 10 pounds. The arms stay attached to your torso at all times and cannot be moved to other parts of your body, but can be turned around to face the opposite direction.
+In addition, the gems adorning the bracers can amplify the arms' strength for short bursts. The gems have a total of 5 charges and recharge 1d4 + 1 expended charges each day at dawn. By uttering the bracers' command word using a bonus action and expending 1 charge, you can empower the arms to immediately make two unarmed melee attacks. The arms have a +3 bonus to attack and damage rolls and use your proficiency bonus when making the attacks. Each strike does 1d4 magical bludgeoning damage upon a successful hit.
+Alternatively, you can expend 1 charge to double the arms' carrying capacity and increase their duration to 5 minutes instead.
+
+---
+
+#### Fragment of Elder Starlight
+*Wondrous item, Very Rare*
+
+This smooth, egg-shaped crystal is about 6 inches tall, weighs 3 pounds, and sheds bright light out to 20 feet and dim light for an additional 20 feet. The light is sunlight. You can touch the crystal and mentally control its brightness as a bonus action to enlarge, reduce, or snuff out the light's reach up to its maximum range.
+While holding the crystal, you can speak its command word as an action to cause it to release a wave of bright light. The wave of light washes over creatures not behind total cover within a 60-foot radius from the crystal. Undead creatures and fiends affected by the wave of bright light must make a DC 16 Constitution saving throw. On a failed save, a creature takes 8d6 radiant damage and is blinded until the end of your next turn. On a success, it takes half as much damage and is not blinded. Friendly living creatures of your choice within the wave of bright light regain 4d6 hit points.
+Once this property of the crystal has been used, its light dims and can't be used again until the next dawn. While its light is dimmed in this way, it sheds bright light out to a maximum of 10 feet and dim light for an additional 10 feet.
+
+---
+
+#### Frefil's Jolly Oozebean Sugarbombs
+*Wondrous item, Uncommon*
+
+A pack of oozebeans comes with 4 inside it. When you open a pack, roll 4d8 and record each number. Use these numbers to determine the kinds of oozebeans found in the bag using the table below. You can eat an oozebean using a bonus action. Each color has an effect that lasts for 1 minute.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+**Oozebean Colors**
+
+| d8 | Color | Result |
+| --- | --- | --- |
+| 1 | Red | You gain 1d8 + 4 temporary hit points. |
+| 2 | Yellow | You have resistance against lightning damage and immunity against damage from the *magic missile* spell. |
+| 3 | Green | You have resistance to poison damage and advantage on ability checks to escape grapples or restraints. |
+| 4 | Blue | Grappling or being grappled deals 1d8 acid damage to the other creature. |
+| 5 | Gold | You gain a climbing speed equal to your movement speed. |
+| 6 | White | You can breathe underwater. |
+| 7 | Black | You have resistance to acid damage and can safely eat otherwise inedible and nonpoisonous organic materials. |
+| 8 | Gray | You have advantage on saving throws against being charmed or frightened. |
+
+---
+
+#### Frefil's Tiny Tasty Tongue Twisty Sugarbombs
+*Wondrous item, Very Rare*
+
+This small bag of marble-sized gumballs contains 12 enchanted candies. While the color and flavor of each gumball is different, each one's effect is the same. As an action, you can start to chew one of these gumballs to release its magic. For the next 5 minutes while you chew the candy, you understand the literal meaning of any spoken language that you hear. If you speak while chewing the gumball, your accent changes to sound like the creature to whom you're listening: allowing you to sound like a local with minimal effort. The candy's magic and flavor fade 5 minutes after you first start to chew it.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+---
+
+#### Frost Giant Fork
+*Melee Weapon (trident), Rare, (requires attunement)*
+
+This massive utensil comes from the table of a frost giant. Latent jotun magic flows through this makeshift trident and drives your hunger to nearly aggressive levels. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature with a melee attack using the trident, you can immediately make a bite attack against that same creature as a bonus action. Your jaws and teeth are fortified to have the strength of a giant, allowing this bite attack to deal 1d6 piercing damage. You are proficient with this bite attack and use Strength as your ability modifier for it.
+
+**Curse.** While you're attuned to this weapon, your hunger is almost insatiable. You're overwhelmingly compelled to eat twice the amount of food you normally would, and incur 1 level of exhaustion if you go a day without eating enough.
+
+---
+
+#### Frostbitten Buckler
+*Shield (shield), Uncommon, (requires attunement)*
+
+This icy shield has 3 charges and regains all of them each day at dawn. When a creature you can see hits you with a melee attack, you can expend 1 of the shield's charges as a reaction to deal 2d4 cold damage to the attacking creature. After the attack, you gain that same amount of cold damage as temporary hit points that last for up to 1 minute.
+
+---
+
+#### Frozen Dagger
+*Melee Weapon (dagger), Uncommon, (requires attunement)*
+
+Attacks made with this dagger deal cold damage instead of piercing. If you roll a 20 on an attack roll made with this magic weapon, the target must succeed on a DC 12 Constitution saving throw or be paralyzed until the end of its next turn, frozen in place and unable to move. If it succeeds, its movement speed is halved until the end of its next turn instead.
+
+---
+
+#### Funeral Marchers
+*Wondrous item, Uncommon*
+
+While wearing these black leather boots, you can choose to not fall prone when you're reduced to 0 hit points. While you're unconscious and standing in this way, you can walk up to 10 feet on your turn after rolling a death saving throw.
+
+---
+
+## G
+
+#### Galea of the Soulfire Phoenix
+*Wondrous item, Artifact, (requires attunement)*
+
+This magical helmet once belonged to the Soulfire Phoenix Fara, a paragon to the citizens of the Elemental Plane of Fire who led her people to victory during the Savrayan Wars. While some believe that her ferocity and heroism were a result of phoenix blood running through her veins, others claim that a hero will always rise from the ashes when the time is right.
+A spark of this heroism resides within the helmet, imparting its passion and phoenix-like properties to you. While wearing the helmet, you have resistance to fire damage, and while you're in combat, magical flames erupt from it. The fire is harmless and casts bright light in a 20-foot radius and dim light for an additional 20 feet.
+
+**Fiery Spirit.** While wearing the helmet, you and friendly creatures standing within its bright light have advantage on saving throws against becoming charmed or frightened. In addition, you and friendly creatures within the bright light regain 1 hit point on a roll of 19 or 20 on death saving throws.
+
+**Ignite.** While wearing the helmet, you can use a bonus action to cast the *fire shield* spell (warm shield only) from it, requiring only verbal components. When you do, you also sprout a pair of flaming wings that last for the duration of the spell and give you a flying speed of 30 feet. Once this property has been used, it can't be used again until the next dawn.
+
+**Call of the Phoenix.** This helm has 7 charges and regains 1d4 + 3 expended charges daily at dawn. While wearing the helmet, you can expend 1 or more of its charges to cast the following spells from it, requiring only verbal components to do so (save DC 18): *death ward* (3 charges), *flame strike* (4 charges), or *healing word* (2nd-level version, 1 charge; +5 spellcasting ability modifier).
+
+**From the Ashes.** If you are reduced to 0 hit points and not killed outright while wearing the helmet, you can use your reaction to call upon the spark of heroism that resides within the galea to drop to 1 hit point instead. When you do, you immediately regain 14 hit points, and each creature within 10 feet of you must make a DC 18 Dexterity saving throw. On a failed save, a creature takes 4d10 fire damage, or half as much damage on a successful one. In addition, two flaming wings unfurl from your back and carry you to an unoccupied space of your choice up to 60 feet away from you, without provoking opportunity attacks. Once this property has been used, it can't be used again until 2 days have passed. If you die while attuned to this helmet, it vanishes in a cloud of embers and smoke and reappears somewhere in the Elemental Plane of Fire.
+
+**Random Properties.** The Galea of the Soulfire Phoenix has the following random properties:
+
+- 1 Artifact Properties; Major Beneficial Properties
+- 2 Artifact Properties; Minor Detrimental Properties
+- 1 Artifact Properties; Major Detrimental Properties
+
+**Destroying the Helmet.** The only way to destroy the helmet is to feed it to an ancient phoenix. The phoenix dies and is immediately reborn as a result of the intense magic stored within the artifact. When it's reborn, the phoenix has a pronounced crown of golden feathers upon its head. Regardless of how many times it's reborn, the phoenix retains this crown of feathers.
+
+---
+
+#### Galvanic Steelsnare
+*Ranged Weapon (net), Rare*
+
+This magic net is made with fine steel chains and has the heavy property. Magic, leaden weights line the edge of the net and send shocking pulses throughout the metal. The net is resistant to slashing damage and has immunity to all other damage types. Regardless of a creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn while it's restrained by the net.
+
+**Special.** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+
+---
+
+#### Gibberbox
+*Wondrous item, Rare*
+
+This magic box is made of enamel and bits of bone that stick together with the gummy, red remains of a gibbering mouther. The box weighs 7 pounds and is 1 foot long and 6 inches wide and tall. You can open the box's wooden lid as an action. When you do, the red paste inside the box swirls and forms a toothy mouth that starts incessantly babbling nonsense. Every creature that starts its turn within 20 feet of the box that can hear it must succeed on a DC 10 Wisdom saving throw. On a failed save, a creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack. A creature takes 1d6 piercing damage if it touches the red paste and toothy mouth while the box is opened and blathering in this way.
+This effect lasts for 1 minute or until the box's lid is closed again using an action. Once this property of the box has been used, it can't be used again for 24 hours. Opening the lid again while this property is inactive results in a droning, gurgling sound that turns silent after 1 minute of the box being open. The paste is extremely elastic and can't be removed or separated from the box.
+
+---
+
+#### Give and Take
+*Melee Weapon (scimitar), Very Rare, (requires attunement)*
+
+This pair of mithral *(Give)* and obsidian *(Take)* scimitars are connected by a sturdy chain. When you engage in two-weapon fighting using both scimitars, you can add your ability modifier to the damage of the second attack.
+The scimitars have a collective 10 charges and regain 1d6 + 4 expended charges daily at midday. When you hit a creature with one of these magic weapons, you can expend 1 of their charges to create an effect based on the blade used in the attack:
+
+**Give.** When you hit a creature with *Give* and expend 1 charge, you and all other creatures within 5 feet of the target (other than the target) gain 2d6 temporary hit points that last for 1 minute.
+
+**Take.** When you hit a creature with *Take* and expend 1 charge, that creature takes 2d6 necrotic damage, and you and all other creatures within 5 feet of the target take half as much necrotic damage.
+
+---
+
+#### Glove of the Aegis
+*Wondrous item, Rare, (requires attunement)*
+
+This glove holds 5 charges and regains 1d3 + 2 expended charges each day at dawn. When a target that you can see hits you with an attack, you can use your reaction to expend any number of the glove's charges. You add +2 to your AC for the attack for each charge expended in this way, potentially causing it to miss. You can use this ability after the attack has been made but before any damage has been calculated.
+The glove's power cannot be used if you are already wielding a shield.
+
+---
+
+#### Glove of the Grim Fandango
+*Wondrous item, Rare, (requires attunement by a bard)*
+
+You are proficient with all musical instruments while you wear this glove on your dominant hand. In addition, spectral musicians appear behind you to accompany your playing when you play an instrument for at least 1 minute. The musicians are obviously illusory and vanish after you stop playing for 1 minute. While accompanied by the spectral musicians, you have advantage on any Charisma (Performance) check you make.
+In addition, your spell save DC for enchantment spells you cast while performing with the spectral musicians increases by 2 when the affected creature or creatures are listening to your performance.
+
+---
+
+#### Grass Carpet
+*Wondrous item, Common*
+
+This soft roll of turf is magically fertile. Its soil is 1 inch thick and allows plants of all kinds to grow well within it. Each roll of turf is 5 feet wide and 10 feet long. Its grass and soil are self-containing and will not grow beyond the size of the carpet. The carpet is so fertile that plants growing in its soil require only half the normal amount of sunlight and water they would normally need in order to grow.
+For every 1 inch of the soil's depth, the carpet provides the same amount of nutrition as normal soil does with 1 foot, allowing plants whose roots are normally 1 foot long to grow with only 1 inch of soil. Folding the carpet over for added depth, or layering multiple carpets on top of one another, increases the soil depth to allow for larger plants to grow on the carpet.
+The carpet weighs 30 pounds and takes 1 minute to roll up or out. While rolled up, it has a 1-foot diameter. The carpet can be cut into smaller plots using a magical blade, with each plot measuring at least 1 foot long and wide.
+
+---
+
+#### Grass Whistle Blade
+*Melee Weapon (dagger), Very Rare, (requires attunement)*
+
+This dagger's blade is actually a large, enchanted blade of grass. As wind passes over the blade, it creates a soft, sweet note that magically begins to lull creatures to sleep. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+This blade has 4 charges and regains 1d4 expended charges daily at dawn. When you hit a creature with a melee attack using this dagger, you can choose to expend 1 of its charges and forgo the attack's damage to attempt to put the creature to sleep. When you do, you swing the blade in a pattern around the creature that creates a magical lullaby. Roll 10d8; the total is how many hit points of the creature this can affect. If the total number of hit points you roll is greater than the target's remaining hit points, that creature falls unconscious for 1 minute or until it takes damage or another creature uses an action to shake or slap that creature awake. If the target is not put to sleep, it takes 3d8 psychic damage instead.
+Undead and creatures immune to being charmed can't be put to sleep by this effect.
+
+---
+
+#### Gravity Goblet
+*Wondrous item, Common*
+
+This glass and silver goblet is enchanted with a harmless, strange magic. A liquid poured in the cup bends gravity in comical ways, often to the surprise and endrenchment of its drinker. When the cup is tilted, as if to drink, the liquid flows in the opposite direction of gravity—sliding up the cup instead of down it. Once the liquid reaches the edge of the cup, it immediately pours down as normal. Swirling the liquid causes it to flow in the opposite direction in which it's rotated. Any solid object other than ice that floats in the liquid is not affected by the cup's magic.
+
+---
+
+#### Greaves of Dendallen
+*Wondrous item, Rare, (requires attunement)*
+
+While wearing these skeletal greaves, you gain a climbing speed equal to your walking speed and can stand on and move across any liquid surface as if it were solid ground. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
+
+**Curse.** When you first wear the greaves of Dendallen, you feel your legs suddenly ache. Make a DC 20 Constitution saving throw. On a success, you're able to safely remove the greaves but are aware of the curse's effects. On a failure, you take 6d8 necrotic damage as your legs fracture. This damage ignores resistance and immunity. Your legs stay broken but don't hinder your movement so long as you continue to wear the greaves.
+You can't remove the greaves until they're targeted by the *remove curse* spell. When you remove the greaves, your walking speed becomes 0. For every 24 hours that pass after removing the greaves, your walking speed increases by 5 feet, up to your normal maximum amount.
+
+---
+
+#### Grip of Dendallen
+*Wondrous item, Very Rare, (requires attunement)*
+
+These black leather and bone chain gloves spread sickness and decay to anything they touch. While wearing the gloves, your unarmed strikes deal necrotic damage, and you can roll a d6 in place of the normal damage of your unarmed strikes. This damage is maximized if you hit a plant or plant creature with the attack.
+In addition, while wearing the gloves, you can use an action to cast one of the following spells from them (save DC 16, spell attack bonus +8): *blight*, *contagion*, or *vampiric touch*. Casting *blight* in this way uses a range of touch, instead of its normal range. Once the gloves have been used to cast a spell, they can't be used to cast that spell again until the next dusk.
+
+**Curse.** When you pull these gloves over your hands for the first time, make a DC 16 Wisdom saving throw. On a success, you are aware of the curse's effects and can immediately remove the gloves before they extend it to you. On a failure, the gloves' bone chains pierce your skin and latch onto the bone in your arms. You take 4d6 piercing damage and can't remove the gloves unless you're targeted by the *remove curse* spell or similar magic. While you wear the gloves, the flesh on your hands slowly rots. The stench can't be contained or masked through magical or nonmagical means. While your hands rot in this way, you make Charisma checks with disadvantage and take 1d6 necrotic damage whenever you finish a long rest.
+If you fail the saving throw when first donning the gloves and later remove them, it takes 1d4 days for the effects of the rotting flesh to fade.
+
+---
+
+## H
+
+#### Halberd of the Peacock
+*Melee Weapon (halberd), Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This halberd has been polished to a mirror finish and is adorned with five ornate gemstones dangling beneath its blade that glow with arcane energy. This weapon contains 5 charges, each stored within one of the gems, and regains 1d4 + 1 expended charges each day at dawn. You can expend 1 charge to cast *disguise self* or 2 charges to cast either *alter self*, *mirror image*, or *shatter* (save DC 15). The hanging gems lose their glow once their charge has been spent in this way.
+
+**Curse.** This halberd is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. Whenever you reduce a creature to 0 hit points using this weapon, you must succeed on a DC 12 Wisdom saving throw or be compelled to admire yourself in the mirror until the start of your next turn: sacrificing any remaining movement, action, bonus action, or reactions you may have had. In addition, you automatically fail any Dexterity saving throw you make while admiring yourself in the mirror in this way.
+
+---
+
+#### Hand of the Master
+*Wondrous item, Uncommon, (requires attunement)*
+
+This satin glove has no visible seams and can be easily flipped inside-out to wear on either a left or right hand. While attuned to the glove, you can fit it over a hand that is either missing fingers or missing entirely and have it function as a normal body part.
+In addition, you can cast the *mage hand* cantrip at will using the glove. When you do, the spectral hand originates within the glove instead of at a point of your choosing. The glove covers the spectral hand as it carries out your commands, leaving your hand or limb uncovered while it does so. Casting *mage hand* using the glove doesn't require any verbal components and doubles both the duration and carrying capacity of the hand.
+
+---
+
+#### Harp of Valor
+*Ranged Weapon (shortbow), Very Rare, (requires attunement by a bard)*
+
+This elegant bow has 10 strings and can also be used as both a harp and spellcasting focus. You are proficient with this harp while attuned to the weapon, and Charisma (Performance) checks made using the harp are made with advantage. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, arrows fired from the bow deal thunder damage instead of piercing.
+The bow has 10 charges and regains 1d6 + 4 expended charges daily at dawn. While holding the bow, you can expend 1 to 5 of its charges as an action to cast either the thunderwave or magic missile spell from it at a spell level equal to the number of expended charges, using your spellcasting modifier and spell save DC.
+
+---
+
+#### Hasty Sugarbomb
+*Wondrous item, Uncommon*
+
+This enchanted sweet can be eaten using an action to increase your movement speed by 5 feet for 1 hour.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+---
+
+#### Hat Trick
+*Wondrous item, Uncommon*
+
+This gaudy purple hat allows the wearer to perform some minor magical feats. The hat has 3 charges and regains 1 expended charge daily at dawn. While holding the hat, you can expend 1 of its charges as an action to cast the *find familiar* spell from it, pulling the familiar from the hat. The summoned familiar must take the form of either a rabbit or dove, using the statistics for a weasel or owl, respectively. The familiar remains for up to 1 minute, instead of its normal duration, and cannot be used to deliver spells.
+In addition, while wearing the hat, you can use an action to cast the *prestidigitation* spell from it. When cast in this way, the spell can only be used to create harmless, illusory effects.
+
+---
+
+#### Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
+*Melee Weapon (flail), Very Rare, (requires attunement)*
+
+This flail has the two-handed, heavy, and reach properties. Attacks made with the flail deal an extra 1d8 bludgeoning damage, or 2d8 if the target is a structure. When you roll a 20 on an attack roll made with this magic weapon against a Huge or smaller creature, that creature must succeed on a DC 16 Strength saving throw or be knocked prone.
+The rope and boulder that make this weapon are magically attached and can't be separated. The boulder weighs 200 pounds but is effortless for you to lift once you attune to the weapon.
+
+---
+
+#### Heart of the Sleeveless
+*Wondrous item, Common*
+
+This vest is made from a luxurious, silky material that seems to always make the wearer appear more fit. The clothing gently hugs the wearer, redistributing weight and muscle to flatter and accentuate their physique. It seems to deflate sadly once taken off.
+While worn, the fabric's color changes with the wearer's mood or flash of emotion. Refer to the table below for the vest's colors when under different emotions. While unworn, the fabric's color becomes a muted blue.
+
+**Heart of the Sleeveless Colors**
+
+| Emotion | Color |
+| --- | --- |
+| Anger | Red |
+| Anticipation | Orange |
+| Joy | Yellow |
+| Love | Lime Green |
+| Fear | Green |
+| Sadness | Navy Blue |
+| Disappointment | Indigo |
+| Disgust | Violet |
+| Jealousy | Black |
+| Surprise | White |
+
+---
+
+#### Hellfire Pitchfork
+*Melee Weapon (trident), Very Rare, (requires attunement)*
+
+This menacing, black iron trident is warm to the touch, weighs 10 pounds, and has the heavy property. As a result of its weight, this trident has a normal throwing range of 15 feet and a long range of 45 feet. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra 1d8 radiant damage to any target it hits. While the trident is within 60 feet of you, you can speak its command word as a bonus action to cause it to disappear in a puff of smoke and reappear in one of your open hands. If you speak the trident's command word immediately after making a ranged attack with it, it erupts in a 5-foot-high pillar of flame, instead of smoke, before it reappears in your hand. Any creature within the same space as the trident when it erupts in this way must succeed on a DC 16 Dexterity saving throw or take 1d8 fire damage.
+
+---
+
+#### Helm of Heroes
+*Wondrous item, Rare, (requires attunement)*
+
+You gain a +1 bonus to AC if you're wearing no armor while wearing this helmet. You can still use a shield and gain this benefit. In addition, while wearing no armor, the helm becomes suffused with glory and glimmers for 1 minute whenever you roll a 20 on an attack roll. While the helm is glimmering in this way, you gain temporary hit points at the start of each of your turns equal to half your level, and friendly creatures within 10 feet of you can't be frightened.
+
+---
+
+#### Helmsman's Shelter
+*Shield (shield), Rare, (requires attunement)*
+
+This magic shield offers a degree of control over the seas. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC. While attuned to the shield, you're proficient with water vehicles.
+This shield has 5 charges and regains all expended charges daily at dawn. While holding the shield, you can expend 3 of its charges to cast the *control water* spell (save DC 15) from it. Alternatively, you can use an action to expend 1 of its charges to magically take control of a water vehicle you can see within 300 feet of you that has a rudder. When you do, if that water vehicle has a creature currently controlling its rudder, you must make a Strength (Athletics) check contested by the other creature's Strength (Athletics) check. If you win the contest, you wrestle control away from the creature and can alter the direction of the vehicle by up to 90 degrees. If there is no creature controlling the direction of the water vehicle, you automatically succeed on this contest. You maintain control of this vehicle until the start of your next turn.
+
+---
+
+#### Hexaxe
+*Melee Weapon (handaxe), Uncommon, (requires attunement by a warlock)*
+
+This handaxe amplifies curses bestowed on its enemies. The weapon has 3 charges and regains all expended charges daily at dusk. While you're holding the axe and are forced to make a Constitution saving throw to maintain concentration on a warlock spell, you can use your reaction to expend 1 of the axe's charges to add your Charisma modifier to the total of the saving throw.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon against creatures under the effects of a warlock spell you cast that requires concentration.
+
+---
+
+#### Hurricane Lance
+*Melee Weapon (lance), Very Rare, (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+The lance has 4 charges and regains 1d4 expended charges each day at dawn. You can expend 1 charge as an action to surround yourself with a flurry of wind that lasts for 1 minute. While surrounded by this wind, you can take the Disengage action using a bonus action. You can expend a second charge of the weapon (no action required) while surrounded by the wind to extend the effect to any mount you're currently riding. If you dismount or are forced off your mount, the effect fades from it. The effect ends early if you fall unconscious or are no longer wielding the lance.
+In addition, you can use the lance to cast the *thunderwave* spell at 3rd level (save DC 16). Once this property of the lance has been used, it can't be used again until the following dawn.
+
+**Special.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+
+---
+
+## I
+
+#### Ice Sickle
+*Melee Weapon (sickle), Uncommon*
+
+This magic sickle from the Everglacier is perpetually covered in tiny, needle-like icicles along its edge that reform almost as soon as they're gone. The first target hit by this weapon on each of your turns takes an extra 1d6 cold damage from the attack.
+
+---
+
+#### Immovable Button
+*Wondrous item, Common*
+
+As a bonus action, you can press this iron shirt button against a piece of fabric and speak its command word, "hold". When you do, the button magically attaches to the cloth, fixing itself in place even if it is defying gravity. The button must be attached to a piece of fabric that is either unworn or worn by a willing creature. It can hold up to 500 pounds of weight and magically prevents the cloth from tearing due to tension. More weight causes the button to deactivate and fall.
+A creature can use an action to make a DC 20 Strength check, moving the fixed button up to 10 feet on a success. A creature can make a DC 10 Intelligence (Investigation) check to determine that this button is magical, and if already activated, knows that the fabric around the button can be cut away. The button remains fixed in place for 1 minute before falling. The button's magic is lost once it's been used in this way.
+
+---
+
+#### Infernal Aegis
+*Shield (shield), Very Rare, (requires attunement)*
+
+While holding this shield, you can speak its command word as a bonus action to cause it to become wreathed in harmless, magical flames. The flames cast bright light in a 20-foot radius and dim light for another 20 feet. The flames last until you speak its command word again as a bonus action or until you drop or doff the shield.
+While holding the shield, you have a +1 bonus to AC as well as resistance to fire damage. This bonus is in addition to the shield's normal bonus to AC. In addition, the shield has 4 charges and regains 1d4 expended charges daily at dawn. While the shield is ablaze, you can expend 1 or more of its charges to cast the *fire shield* (2 charges, warm shield only) or *hellish rebuke* (1 charge, save DC 16) spell from it.
+
+---
+
+#### Inferno Rope
+*Wondrous item, Uncommon*
+
+This 10-foot long rope smells of sulfur and crackles with embers when moved. As an action, you can lay the rope down in a line next to you on solid ground and speak its command word to magically set it ablaze. When you do, the rope becomes a 15-foot tall wall of fire along its length. The flames are visible, but not opaque, and are 1 inch thick. Creatures within 5 feet of the flames when it's ignited must succeed on a DC 13 Dexterity saving throw or take 2d4 fire damage. A creature setting the rope ablaze automatically succeeds on this saving throw. The flames burn for 1 minute and cast bright light in a 15-foot radius and dim light for another 15 feet. A creature must make a DC 13 Dexterity saving throw when it crosses the line of fire for the first time on its turn or ends its turn there. On a failure, the creature takes 2d4 fire damage.
+The rope rematerializes at the base of the flames after 1 minute. Once the rope has been lit, it can't be used again in this way until the next dawn. The rope can only be cut by magical means and becomes a nonmagical length of rope once cut.
+
+---
+
+#### Ionbreaker, the Tempest's Reach
+*Ranged Weapon (longbow), Artifact, (requires attunement)*
+
+This bow was crafted by a powerful djinni in the Stormheart: a perpetual maelstrom of wind and electricity in the Elemental Plane of Air. Lost to time, it has remained in the storm for untold centuries absorbing the volatile magic that runs rampant there. You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+
+**A Storm is Coming.** While the bow is on your person, you add a d10 to your initiative at the start of every combat.
+
+**Fast as Lightning.** When you take the Attack action, you can make one attack with the bow as a bonus action.
+
+**Discharge.** A target and any creature within 5 feet of it takes 1d8 lightning damage the first time that target is hit by a ranged attack with the bow on your turn. A creature can only take lighting damage from this property once each round.
+
+**Chained Conduits.** When you hit a target with a ranged attack with the bow, that target becomes a conduit for electricity for 1 minute. You can speak the bow's command word as a bonus action to cause all conduits within 60 feet of you to electrify. When you do, 5-foot-wide lines of electricity arc between all electrified conduits that are within 30 feet of each other. Each conduit takes 2d8 lightning damage, and all other creatures within the lines of electricity must make a DC 18 Dexterity saving throw. On a failed save, a creature takes 2d8 lightning damage, or half as much damage on a successful one. Once a conduit has been electrified in this way, it is no longer a conduit. A creature or object can only take lightning damage from this property once each round.
+
+**Maelstrom Marksman.** Once on each of your turns when you miss a target with a ranged attack with the bow, you can reroll the attack against a different target you can see within 30 feet of the first one. You have disadvantage on this attack.
+
+**Zephyr Step.** While holding the bow, you gain a flying speed equal to your walking speed and can hover up to 20 feet off the ground.
+
+**Embrace the Storm.** While you're attuned to the bow, you're subjected to the chaotic magic of the Stormheart whenever you take lightning damage. When you do, roll a d8 and use the table below to determine the resulting effect.
+
+**Stormheart Effects**
+
+| d8 | result |
+| --- | --- |
+| 1 | You are vulnerable to lightning damage until the end of your next turn. |
+| 2 | You are thrown 20 feet in a random direction and knocked prone. |
+| 3 | You are deafened for 1 hour. |
+| 4 | You can't take reactions for 1 minute. |
+| 5 | You cast *fog cloud*, centered on a point within 5 feet of you, without requiring concentration that remains for 1d4 rounds. |
+| 6 | Up to three random creatures within 10 feet of you take 1d8 lightning damage. |
+| 7 | Your speed is doubled until the end of your next turn. |
+| 8 | You are immune to lightning damage until the end of your next turn. |
+
+**Random Properties.** Ionbreaker, the Tempest's Reach has the following random properties:
+
+- 1 Artifact Properties; Minor Beneficial Properties
+- 1 Artifact Properties; Major Beneficial Properties
+- 1 Artifact Properties; Minor Detrimental Properties
+- 1 Artifact Properties; Major Detrimental Properties
+
+**Destroying the Bow.** The bow can be destroyed if it's struck by lightning in the Stormheart at the same time as it's hit by a hammer of pure adamantine against a similarly adamantine anvil by a creature attuned to the bow. Once destroyed, all creatures within 60 feet of the bow take 10d10 lightning damage and 10d10 force damage. If a creature is reduced to 0 hit points by this damage, it's immediately turned to ash and can only be revived by a *wish* spell.
+
+---
+
+#### Ironleaf Maul of Entanglement
+*Melee Weapon (maul), Rare, (requires attunement)*
+
+Despite the head of this maul being made from vines, it seems impossibly solid and carries with it a formidable heft. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The maul has 3 charges and regains 1d3 expended charges each day at dawn. When you hit a Medium or smaller target with the maul, you can expend a charge to force it to make a Strength saving throw. On a failure, it takes 1d6 piercing damage and is restrained by thorny vines until the end of its next turn. The DC for this property is equal to 8 + your proficiency bonus + your Strength modifier.
+
+---
+
+#### Ironleaf Oaken Shield
+*Shield (shield), Very Rare, (requires attunement by a druid)*
+
+This reinforced wooden shield is covered with ironleaf vines that grant you extra protection. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC. In addition, the wooden shield reforms itself to fit you whenever you transform into a beast while holding it. When you do, the ironleaf vines and wooden shield latch onto your bestial form, granting you a +1 bonus to your AC while transformed in this way.
+
+---
+
+#### Ironleaf Plate
+*plate armor, Very Rare, (requires attunement)*
+
+This set of armor gives you a +1 bonus to your AC and is lined with ironleaf vines. While wearing this armor, the vines seem to support and quiet its normally loud movements, allowing you to make Dexterity (Stealth) checks without disadvantage. In addition, the vines dampen the impact you receive from blunt force, granting you resistance to bludgeoning damage.
+If you take fire damage, the leaves wither for 1 minute. While the leaves are withered, you gain none of their benefits.
+
+**Mantle of the Wild.** While wearing this armor, you can use an action to cast the *pass without trace* spell from it. Once used, this property can't be used again until the following dawn.
+
+---
+
+#### Ironshod Trotters
+*Wondrous item, Uncommon, (requires attunement)*
+
+These boots have iron horseshoes embedded in their soles. When you take the Dash action to run while wearing the boots, you can move an extra 10 feet.
+As an action, you can click the boots together to cast the *polymorph* spell on yourself to transform into a riding horse. The horse has a carrying capacity of 480 pounds and a walking speed of 60 feet. Your game statistics are replaced by the riding horse's statistics, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. Your gear melds into the new form. You can't activate, use, wield, or otherwise benefit from any of your equipment while transformed. Any bags you were carrying do not meld into your new form, and are magically draped over your torso as saddlebags.
+You remain in this form for up to 8 hours or until you end it as an action. Taking any damage while transformed causes you to revert to your normal form early and take the damage as normal. Once this property of the boots has been used, it can't be used again until the next dawn.
+
+---
+
+## J
+
+#### Jotun's Jodhpurs
+*Wondrous item, Uncommon*
+
+While wearing these pants, you count as one size smaller when riding a nonhumanoid creature as a mount if you aren't wearing heavy armor.
+
+---
+
+## K
+
+#### Killskull Longbow of Dread
+*Ranged Weapon (longbow), Rare, (requires attunement)*
+
+This magic longbow is adorned with a bear skull and claws. The bow holds up to 4 charges and gains 1 charge whenever you reduce a Small or larger creature to 0 hit points with it. For each charge the bow has, a small, etched line appears on the bear skull adorning the weapon. An etched line vanishes from the skull when its charge is expended.
+When you hit a creature with a ranged attack using this weapon, you can expend 1 of its charges to cause that creature to take an extra 1d8 psychic damage and make a DC 15 Wisdom saving throw. On a failure, the creature is frightened of you for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+---
+
+#### Kindle Egg Sugarbomb
+*Wondrous item, Uncommon*
+
+When you eat this spicy chocolate sweet as an action, you gain resistance to fire damage and can tolerate cold temperatures as low as 0 degrees Fahrenheit without any additional protection for 1 hour.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+---
+
+#### Knight's Standard of Valor
+*Melee Weapon (halberd), Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this halberd, you radiate fervor and valor. You and other friendly creatures within 10 feet of you are considered proficient in saving throws made to resist becoming frightened. In addition, when an allied creature other than you starts its turn within 10 feet of you, that creatures gains a 5-foot bonus to their movement speed until the end of their turn.
+You can concentrate on the weapon's flag over the course of 1 hour to change its design and color.
+
+---
+
+#### Knight's Standard of Vigor
+*Melee Weapon (pike), Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this brass pike, you radiate health and vitality. You and other friendly creatures within 10 feet of you are considered proficient in saving throws made to resist becoming poisoned. In addition, when an affected creature other than you regains hit points while in combat from a spell or potion, you can use your reaction to cause that ally to regain an extra 1d6 + 2 hit points.
+You can concentrate on the weapon's flag over the course of a short rest to change its design and color.
+
+---
+
+#### Knight's Standard of Virtue
+*Melee Weapon (glaive), Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this decorated glaive, you radiate righteousness. You and other friendly creatures within 10 feet of you are considered proficient in saving throws made to resist becoming charmed. In addition, when a friendly creature you can see within 10 feet of you takes damage, you can use your reaction to magically reduce the damage they take by up to 5. When you do, you take force damage equal to the amount of damage you reduced in this way.
+You can concentrate on the weapon's flag over the course of a short rest to change its design and color.
+
+---
+
+#### Knocking Boots
+*Wondrous item, Uncommon*
+
+These steel-toed boots of dwarven make are adorned with an embossed key on the toe. As an action, you can kick an object that contains a mundane or magical means of preventing access to cast the *knock* spell on it using the boots. Once this property of the boots has been used, they can't be used again in this way until the following dawn.
+
+---
+
+#### Kraken's Whip
+*Melee Weapon (whip), Uncommon*
+
+This whip is made using the shrunken tentacle of a great sea creature. It still writhes slightly on its own.
+As an action, you can force a creature you can see within 10 feet of you to make a DC 13 Strength or Dexterity saving throw (their choice). On a failure, the creature is grappled by the whip's tentacle and takes 1d4 + 2 bludgeoning damage. The affected target or another creature can use an action to reattempt the saving throw, escaping the grapple upon a success. While grappled, the creature takes 1d4 + 2 bludgeoning damage at the end of each of its subsequent turns.
+You can't use the whip to attack while grappling a creature with it in this way. While holding the whip, you can end the grapple at any time (no action required), and your movement speed is halved when you move more than 10 feet away from the grappled creature as you drag it along behind you.
+
+---
+
+## L
+
+#### Lance of the Hungering Dead
+*Melee Weapon (lance), Very Rare, (requires attunement)*
+
+This magical, gruesome lance can drain the life force from another creature. The first time on your turn when you hit a hostile living creature with a melee weapon attack using the lance, you deal an extra 1d12 necrotic damage. You gain temporary hit points equal to half the necrotic damage dealt, rounded up. Temporary hit points gained from this attack fade after one hour.
+
+**Special.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+
+---
+
+#### Leeching Quarterstaff
+*Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This quarterstaff has 6 charges and regains 1d6 expended charges daily at dawn. When you hit a target with this weapon, you can expend 1 of its charges to siphon away some of the target's life force to deal an extra 1d6 necrotic damage with the attack. You regain health equal the amount of necrotic damage dealt in this way. This property has no effect on undead creatures or constructs.
+
+---
+
+#### Liar's Lyre
+*Instrument, Uncommon, (requires attunement by a bard)*
+
+This magical lyre's strings reverberate with enchantment magic when you tell lies, allowing you to deceive other creatures more easily. You have advantage on Charisma (Deception) checks you make when you spend at least 1 minute attempting to convince a creature of a lie. In addition, if you cast the *vicious mockery* cantrip while holding the lyre, the spell save DC is increased by 1. You are proficient with this lyre while you're attuned to it.
+
+---
+
+#### Lightning Pylons
+*Rod, Rare*
+
+These 3-foot-long rods are made using a blend of magic and science and normally come in sets of three. The pylons are tipped with a fragment of a blue dragon's horn. A lightning pylon can extend electricity to any neighboring pylons to create an electrical barrier between them. Each pylon has an electrical charge. Once a charge has been lost, it takes 12 hours to recharge.
+You can place a pylon upright in an unoccupied space within 5 feet of you using an action. If a pylon has an electrical charge, you can speak its command word as a bonus action if you're within 5 feet of it. When you do, that pylon is electrified for 1 minute and loses its electrical charge at the end of that minute. Any other pylon with an electrical charge placed within 20 feet of an electrified pylon also becomes electrified, creating a wall of lightning between them that is 10 feet tall and 1 foot thick. The wall is opaque and casts bright light out to 10 feet and dim light for an additional 10 feet. You can have up to 6 pylons connected in this way at one time. Electrified pylons are magically bound to the ground until they lose their charge.
+When the wall appears, each creature within its area must make a DC 15 Dexterity saving throw. On a failure, a creature takes 5d8 lightning damage and its speed is reduced to 0 until the start of its next turn. On a success, a creature takes half as much lightning damage and its speed is halved instead. Creatures made of metal or wearing metal armor have disadvantage on this saving throw. A creature that enters the wall for the first time on its turn or ends its turn within 5 feet of it must also make the saving throw.
+Each magic pylon has AC 15 and 20 hit points. A creature that touches an electrified pylon or hits it with a metal melee weapon takes 1d8 lightning damage for each pylon connected to it, including itself. When a pylon is reduced to 0 hit points, it falls over and loses its electrical charge, ending any connection it has to other pylons. A pylon reduced to 0 hit points can't be used again until 2 days have passed, at which point it regains all its hit points.
+
+---
+
+#### Locksmith's Bane
+*Wondrous item, Uncommon*
+
+This silver lockpick twists and reorients itself to more easily open locks. You gain a +3 bonus on ability checks you make with this tool in order to pick open a lock. If you roll a 1 on an ability check in this way, the pick casts the *knock* spell on the lock before it turns to dust and is destroyed.
+If you roll a 1 in this way and use an ability to reroll the die or otherwise change the result, the item becomes a nonmagical, mundane lock pick but does not cast the spell or disintegrate.
+
+---
+
+#### Love's Embrace
+*Melee Weapon (greatsword), Legendary, (requires attunement by one or two friendly creatures)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon can be attuned to by two friendly creatures together over the course of a long rest. If the weapon is attuned to by two creatures in this way, the weapon's attack and damage bonus becomes +2 instead.
+This greatsword is made of two long **scimitar** that are held together by a powerful, unidentifiable magic. You can speak the weapon's command word using a bonus action to separate it into a pair of scimitars or recombine them into the greatsword. If you are not already holding it when you speak the weapon's command word and are on the same plane of existence as it, you can choose to summon either one or both scimitars to your hand as individual blades or as the combined greatsword.
+The scimitars have the thrown property with a normal range of 20 feet and a long range of 60 feet when separated. The scimitars deal piercing damage when thrown.
+Each scimitar also has its own elemental effect—either fire or cold—that inflicts an extra 1d6 fire or 1d6 cold damage with each strike, depending on which sword you hit with. When you hit with an attack using the greatsword, the target takes both fire and cold bonus damage from the attack.
+Each attuned creature can cast the *fire shield* spell once at 4th level without expending a spell slot. You do not need material or somatic components when casting it in this way. Once you cast this spell, you cannot cast it again until the following dawn.
+
+---
+
+## M
+
+#### Mageplate Cap
+*Wondrous item, Rare, (requires attunement by a wizard or sorcerer)*
+
+This pointed hat is fitted with chain and metal that have been enchanted with abjuration magic. The cap has 2 charges and regains 1 expended charge daily at dawn. While wearing the cap, you can use an action to expend 1 of its charges to cast the *mage armor* spell from it, targeting only yourself. When the spell is cast in this way, the arcane armor appears platelike and changes your base AC to 15 + your Dexterity modifier instead of the spell's normal change to your AC.
+
+---
+
+#### Magma War Pick
+*Melee Weapon (war pick), Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. The war pick deals an extra 1d4 fire damage to any target it hits.
+This weapon has 3 charges and regains 1d3 expended charges each day at dawn. When you hit a target that is either made of metal or wearing metal armor, you can expend 1 charge to inflict an extra 2d8 fire damage to the target.
+
+---
+
+#### Mammoth Boots
+*Wondrous item, Uncommon*
+
+These magical boots are as sturdy as the feet of a mammoth. Your weight increases by 50 pounds while wearing these boots, although you don't feel any different, and you ignore difficult terrain caused by snow or ice. In addition, whenever you're pushed against your will, the distance you would be moved is reduced by 5 feet.
+
+---
+
+#### Mantle of the Pack Lord
+*Wondrous item, Rare*
+
+While you wear this enchanted pelt cloak, if a creature would gain advantage on an attack against you due to having its ally within 5 feet of you, it makes the attack without advantage.
+
+---
+
+#### Mask of Dendallen
+*Wondrous item, Very Rare, (requires attunement)*
+
+This skull mask covers the top of your face and offers several benefits while worn. The mask has 5 charges and regains all expended charges daily at dusk. While wearing the mask, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 16): *bestow curse*, *fear*, *speak with dead*, or *tongues*. You have advantage on Constitution saving throws you make in order to maintain concentration on a spell you cast in this way. In addition, you can read all writing.
+
+**Curse.** When you place this mask over your face for the first time, make a DC 16 Intelligence saving throw. On a success, you are aware of the curse's effects and can immediately remove the mask before it extends the curse to you. On a failure, you take 5d10 psychic damage as the curse extends to you and magically latches onto your face. As long as you remain cursed, the mask can't be removed unless targeted by the *remove curse* spell, and the skin surrounding the mask is riddled with blackened veins and sickly gray skin. While wearing this mask, you can't smell or taste anything and automatically fail any check relying on smell or taste. Your voice also changes. Use the table below to determine the new voice. In addition, whenever you roll a 1 on an ability check, saving throw, or attack roll, you take 1d10 psychic damage.
+
+**Mask of Dendallen Effects**
+
+| d6 | Change to your voice |
+| --- | --- |
+| 1 | Your voice deepens and does not echo. |
+| 2 | Your voice becomes raspy and you overly enunciate consonant sounds. |
+| 3 | Your voice becomes quiet, almost a whisper, but can still be heard as if spoken at a normal volume. |
+| 4 | Your voice becomes high-pitched, and your laugh maniacal. |
+| 5 | You slur your words, as if your tongue is suddenly too large for your mouth, and your spit releases a faint hiss as it escapes your mouth. |
+| 6 | Your voice becomes that of another ally's and changes each time you complete a long rest. |
+
+---
+
+#### Mask of the Pact Bearer
+*Wondrous item, Uncommon, (requires attunement by a warlock)*
+
+This mask looks like a normal wooden mask before it's attuned to. When you attune to this mask, your otherworldly patron's lingering presence over you magically reshapes it to represent the visage of your patron. While you wear this mask, you can cast one spell from your patron's expanded spell list without expending a spell slot. The spell must be of a level equal to or less than your warlock spell slot level. A spell cast in this way is always cast at its lowest level, regardless of your normal warlock spell slot level. Once the mask has been used in this way, it can't be used again until the next dawn.
+
+---
+
+#### Master Machinist's Marvelous Mallet
+*Melee Weapon (light hammer), Rare, (requires attunement)*
+
+This immaculate silver hammer is polished to a mirror finish. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The weapon has 7 charges and regains 1d6 + 1 expended charges daily at dawn. As an action, you can touch an object with the hammer and expend 1 of its charges to cast the *mending* cantrip from the hammer on the object. Casting *mending* in this way affects an area up to 5 feet on a side, instead of 1 foot. Alternatively, you can expend 3 of its charges as a bonus action while touching a creature's armor with the hammer to temporarily enchant it. The enchantment lasts for 1 minute and grants the armor's wearer a +1 bonus to its AC in addition to the armor's normal bonus to AC, if any. A creature can only be affected by one of these enchantments at any time.
+
+---
+
+#### Mastery Gem
+*Wondrous item, Legendary*
+
+This red gemstone seems to glint with some sort of liquid inside. The gem is impervious to attacks and damaging effects. The gem contains magic absorbed from countless other sources that it uses to overpower the requirements of certain item attunements. While holding this gem against an item with an attunement requirement you don't meet, you can ignore that requirement and attune to the item anyway. The item can't be a legendary item or artifact. The gem fuses to the surface of the item and encases the area around it in a crystalline shell.
+You can unattune to the new item as normal, even if the item is cursed. Unattuning to a cursed item in this way breaks the curse's effects on you. When you unattune to an item in this way, the gem detaches from the item, allowing you to use it on another one. The crystalline shell remains on the unattuned item. When you remove the crystal in this way, it takes the item's magic with it: turning the unattuned item into a mundane and nonmagical item.
+
+---
+
+#### Merry Berry
+*Wondrous item, Common*
+
+This small fruit is highly sought after by cooks and sweet-lovers everywhere, both for its flavor as well as its unique sensory-enhancing properties. Eating a berry raw yields a taste and texture like that of a rich shortbread: the perfect way to end a day of adventure or travel.
+Cooking the berry, whether it be in a cuisine or simply roasted over a campfire, brings out more uncommon effects. When properly cooked, a creature that eats the fruit gains advantage on all Wisdom and Intelligence checks based on smell or taste for the next 24 hours, as well as advantage on ability checks using **cook's utensils**.
+Overcooking the fruit not only cooks out the berry's benefits, but also results in a soggy and overall bland dish.
+
+---
+
+#### Mirrorlight Edge
+*Melee Weapon (scimitar), Rare, (requires attunement)*
+
+This roughly hewn crystal sword bends light in unexpected and dangerous ways. As an action, you can speak the scimitar's command word to cause it to emit up to 2 ghostly projections of itself. The sword can have up to 2 of these projections at any time, which last until you dismiss them (no action required). When swung, the ghostly projections make the sword difficult to see. When you make an attack with the sword and miss while it has at least 1 projection, you can dismiss one of its projections to reroll the attack. You must use the new roll.
+When you hit a target with this weapon while it has at least 1 projection, the ghostly projections become razor sharp. Targets hit by the sword take an extra 1d4 slashing damage for each projection the sword has.
+The sword emits dim light in a 10-foot radius while it has 1 projection and 20 feet while it has 2. Sheathing the scimitar contains the projections and their light without dismissing them.
+
+---
+
+#### Mirrorlight Piercer
+*Melee Weapon (spear), Very Rare, (requires attunement)*
+
+This crystalline spear bends the light it generates in such a way that it becomes tangible. While you hold the spear in one hand and have another hand free, you can speak the spear's command word as an action to cause it to create a ghostly projection of itself in your free hand. Both the spear and its projection have the light property. When you use an action to create a projection in this way, you can make one weapon attack with either the spear or projection as part of that action. The projection lasts for 1 minute or until you dismiss it using a bonus action or until a creature other than you holds it. If you drop or stow the crystalline spear, the projection disappears until you hold the spear again.
+If you make a ranged attack with the projection, it disappears after it hits or misses a target. If you're still holding the crystalline spear when this happens, it magically recreates the projection in your open hand again (no action required).
+You gain a +2 bonus to attack and damage rolls made with this magic weapon and its projection. The spear can only have 1 projection active at a time. While it has a projection, both the spear and projection cast bright light in a 10-foot radius and dim light for an additional 10 feet. If you don't have an open hand when the spear creates a projection, the projection is dismissed.
+
+---
+
+#### Mockingblade
+*Melee Weapon (shortsword), Uncommon, (requires attunement by a bard)*
+
+This magic sword helps you more effectively add insult to injury. The sword has 6 charges and regains 1d4 + 2 expended charges daily at dawn. When you hit a creature with this weapon, you can immediately use a bonus action to expend 1 of its charges to cast the *vicious mockery* spell from it, using your spell save DC, against that creature. When you do, any words you use to insult the creature appear written along the blade for 1 minute or until replaced by a new insult.
+When a creature rolls a 20 on a saving throw against a *vicious mockery* spell cast from the blade in this way, the face adorning the sword's hilt screams insults at you instead until the end of your turn. The insults are audible out to 30 feet and are directed at your deepest insecurities and regrets. Any creature that hears these insults is made aware of your weaknesses, granting it advantage on its next attack roll against you until the start of your next turn. Once the sword screams at you in this way, it can't be used to cast the *vicious mockery* spell again until 1d4 days have passed.
+
+---
+
+#### Monocle of Clarity
+*Wondrous item, Rare*
+
+You can change the monocle's filter by rotating its outer ring. A small arrow along the edge of the frame indicates the monocle's selected filter. The monocle has 4 charges and regains 1d3 + 1 expended charges daily at dawn. While wearing the monocle, you can expend 1 of its charges as an action to activate one of the following filters and gain various benefits. The effects last for 1 hour while you continue to wear the monocle or until you change its filter.
+
+**Filter of Comprehend Languages.** When you peer through this filter, you can read and comprehend any written language as per the written language portion of the *comprehend languages* spell.
+
+**Filter of Darkvision.** While looking through this filter, you have darkvision out to a range of 60 feet.
+
+**Filter of See Invisibility.** When gazing through this filter, you see invisible creatures and objects as if they were visible.
+
+---
+
+#### Monsterbane Lasher
+*Melee Weapon (whip), Very Rare*
+
+This mithral whip was once used by a powerful monster hunter. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, targets hit by the whip take an extra 1d4 slashing damage from its attacks.
+The whip has 7 runes on its handle that correspond to different damage types: acid, cold, fire, lightning, poison, radiant, or thunder. When you hit a creature with a melee attack using this weapon, you can channel 1 or more of the runes to deal an extra 2d4 damage of the type or types that correspond to the channeled runes. For example, you can channel 2 runes to add 2d4 acid and 2d4 fire damage to an attack against a troll, or 1 rune to add 2d4 thunder damage to an attack against a clay golem. Once you add a damage type to an attack in this way, you can't add that type again until the following dawn.
+
+---
+
+## N
+
+#### Necrolace
+*Wondrous item, Rare*
+
+This necklace allows you to absorb the life energy of creatures you slay. When you reduce a Small or larger creature who is hostile toward you to 0 hit points, the necklace emits a faint glow and gains 1 charge. The necklace can hold up to 3 charges and contains 1d3 charges when found. You can expend 1 or more charges as a bonus action to turn death into life. You take 1d8 necrotic damage for each expended charge and heal another creature you can see within 30 feet of you for twice the amount of necrotic damage you took. This damage ignores resistance and immunity.
+If this damage reduces you to 0 hit points, you're stable but unconscious. When this happens, the creature is healed for twice the amount of hit points you had remaining before you fell unconscious.
+
+---
+
+#### Nightstalker's Kanabo
+*Melee Weapon (greatclub), Very Rare, (requires attunement)*
+
+This studded greatclub once belonged to a hungering oni who excelled at subterfuge. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which has the heavy property. When you hit a sleeping creature with this weapon, that creature takes an extra 2d8 psychic damage from the attack. In addition, when you roll a 20 on an attack roll with this weapon, the target of the attack must succeed on a DC 16 Constitution saving throw or magically fall asleep until the end of your next turn, the sleeper takes damage, or a creature uses an action to shake or slap the sleeper awake. While the target is asleep, it is unconscious. Undead and creatures immune to being charmed automatically succeed on the saving throw.
+The weapon has 3 charges and regains 1d3 expended charges daily at dusk. While holding the weapon, you can expend 1 of its charges as a bonus action to cast either the *invisibility* (targeting only yourself ) or *sleep* (3rd-level version) spell from it.
+
+---
+
+#### Null Chalk
+*Wondrous item, Very Rare*
+
+This drab pouch contains 1d4 + 1 sticks of dull gray chalk. The chalk feels slightly tingly to the touch.
+As an action, you can touch 1 of the sticks of chalk to the ground, wall, or ceiling to magically create a line that is up to 50 feet long and 1 foot thick. The line extends from your location in the direction and shape of your choice. You can shape the line in any way you choose so long as it makes one continuous path along the surface or similar adjacent surfaces. Once a stick of chalk has been used in this way, it disintegrates into a pile of fine, nonmagical powder.
+Magical effects can't cross this line. The line's effect extends 20 feet perpendicularly from the surface on which the line is drawn. Targets on the other side of the line are considered to have full cover for the purpose of being targeted by spells or magical effects. Magical items that cross the line become mundane and nonmagical for 1 round.
+The first time a celestial, elemental, fey, fiend, or undead creature attempts to cross the line on a turn, that creature must make a DC 16 Charisma saving throw. On a failed save, the creature's movement speed becomes 0 until the start of its next turn, is forced backward up to 10 feet away from the line, and takes 2d8 force damage. On a successful save, a creature takes half as much damage, and its speed is unaffected as it passes through the line. If the line cuts through a creature's space when it appears, the creature is pushed to one side of the line (your choice).
+This effect lasts for 8 hours or until a break of at least one foot is made in the line, which causes it to instantly lose all magical properties. A creature can spend 1 minute to smudge, smear, erase, or otherwise remove the line enough to disable its effects. When targeted by the *dispel magic* spell, the line is treated as if it were a 6th-level spell. If the line is dispelled in this way, its effects are disabled for 1 minute.
+
+---
+
+## O
+
+#### Omenbringer's Mantle
+*Wondrous item, Very Rare, (requires attunement)*
+
+This raven-feathered mantle is almost iridescent. While wearing this mantle, you have resistance to necrotic damage and descend 60 feet per round when you fall, taking no damage from falling.
+In addition, while wearing the mantle, you can use an action to cast the *find familiar* spell from it. When you do, the familiar takes the form of a raven. If the familiar falls to 0 hit points, it can't be summoned again until the next dusk. Otherwise, the familiar remains so long as you are attuned to the mantle.
+
+---
+
+#### Orator's Quill
+*Wondrous item, Common*
+
+This red feather quill generates its own mundane ink and acts on its own as you speak to it. While holding the quill, you can speak its command word as a bonus action to activate it. While activated, the quill magically floats upright and writes the words you speak to it on whatever stationary, nonliving surface it's been placed on. When it reaches the edge of that surface, it begins a new line below before continuing. If the quill reaches the end of the surface, such as a piece of parchment, it taps against the surface expectantly until a new one is provided. You must be within 15 feet of the quill in order to speak to it. If the quill is behind total cover, it cannot understand you. If you speak the quill's command word again, even if you're not holding it, the quill deactivates and falls down. If the quill doesn't write anything for 1 minute, it deactivates on its own.
+
+---
+
+#### Otyugh Cloak
+*Wondrous item, Uncommon*
+
+This gruesome, magical otyugh pelt still holds some of its natural abilities. A single tendril bearing three eyes hangs from the back of the cloak's hood. While wearing the cloak, you can use an action to telepathically communicate with a creature you can see within 60 feet of you that can understand a language, sending either simple messages or images when you do. The receiving creature can't respond to these messages.
+The tendril hanging from the hood is 3 feet long and offers some limited articulation. While wearing the cloak, you can use an action to mentally control the tendril enough to manipulate a simple object, such as open an unlocked door, stow or retrieve an item from an open container, or pour the contents out of a vial. The tendril can't attack, activate magic items, or carry more than 10 pounds.
+In addition, you can raise or lower the cloak's hood using a bonus action. While the hood is lifted, you can use an action to close your eyes and see through the eyes of the tendril. You can control the tendril while looking through the eyes in this way. When you do, you have darkvision out to a range of 60 feet. You return to your normal senses when you reopen your eyes or lower the hood.
+
+---
+
+#### Ouroboros Rapier
+*Melee Weapon (rapier), Very Rare*
+
+You gain a +1 bonus to attack and damage rolls you make with this magic weapon. Whenever you roll an 8 on the damage die for an attack made with this weapon, the target of the attack takes an extra 1d8 poison damage. In addition, when you roll a 20 on an attack roll with this weapon against a creature, that creature must make a DC 15 Constitution saving throw. On a failed save, the creature takes 3d6 poison damage and is poisoned for 1 minute. On a success, the poison damage is halved and the creature is not poisoned.
+
+---
+
+#### Overshield
+*Shield (shield), Uncommon, (requires attunement)*
+
+While holding this large shield, you gain a +1 bonus to your AC. This bonus is in addition to the shield's normal bonus to AC. The bonus becomes +2 while you have at least 1 temporary hit point. While you have temporary hit points, the shield emits a slight blue glow.
+In addition, you can channel the heroic resolve within the shield as an action to gain 1d6 + 8 temporary hit points. Once this property of the shield has been used, it can't be used again until the next dawn.
+
+---
+
+## P
+
+#### Pack of LeviBubble Sugarbombs
+*Wondrous item, Uncommon*
+
+This delicious gum comes in packs of 5 and can be blown into large, levitating bubbles 1 foot on a side. You need to chew a piece of this gum for 1 minute before its magic can be used. Once it's been chewed for at least 1 minute, you can use an action while the gum is in your mouth to blow a single bubble with it. Once you do, you're considered to be under the effects of the *levitate* spell as if you'd cast it so long as the bubble stays in your mouth. While the effect doesn't require you to concentrate on a spell, it does end early and cause you to fall if the bubble takes any damage. The effect ends on its own after 10 minutes, allowing you and the bubble to float gently down to the ground if you're still afloat. The gum becomes nonmagical, albeit still delicious, once this bubble's effect ends.
+You can blow this bubble and remove it from your mouth as an action and place it on another creature or object within 5 feet of you. When you do, that creature or object rises 20 feet, vertically, as if under the effects of the *levitate* spell. An unwilling creature must succeed on a Dexterity (Acrobatics) or Strength (Athletics) check contested by your Dexterity (Acrobatics) or Strength (Athletics) check to resist having the bubble stuck to them. Creatures and objects floating in this way can't change their altitude without popping the bubble.
+
+---
+
+#### Pair of Tiny Violin Rings
+*Ring, Common*
+
+This pair of golden rings play a sad, sad melody when you rub the two fingers wearing them together. Creatures that know the *vicious mockery* cantrip can use this set of rings as a somatic component instead of the normal verbal component required by the spell.
+
+---
+
+#### Pearl of Wisdom Quiver
+*Wondrous item, Rare, (requires attunement)*
+
+This magical quiver is made from the shell of an enormous oyster. Arrows you pull from it are considered magical and are coated with a pearlescent, hydrophobic coating. Ranged weapon attacks made with these arrows ignore the normal penalties of underwater fighting. These arrows become nonmagical once they hit a target or are held by a creature other than you. In addition, you can speak the quiver's command word to cause it to create a magical pearl. You can hold onto this pearl or give it to another creature. When a creature with the pearl makes a Wisdom ability check or saving throw, that creature can choose to make the roll with advantage. When it does, the pearl turns to dust. The pearl is visibly magical and disintegrates on its own after 24 hours if left unused. Once the quiver produces a pearl in this way, it can't produce another one until the following dawn.
+
+---
+
+#### Pendant of the Tempered Fury
+*Wondrous item, Very Rare, (requires attunement)*
+
+This magic silvered pendant glows with a simmering flame of rage trapped inside of its clenched fist. Small sparks shoot out from between the pendant's metal fingers. The fiery anger from the pendant tightens your focus and allows you to shrug off some of the damage you take. If you are wearing no armor and using no shield while you wear this pendant, all bludgeoning, piercing, and slashing damage you take is reduced by 3.
+In addition, the pendant has 3 charges and regains 1d3 expended charges daily at dawn. You can use a bonus action to expend 1 of its charges to ignite your hands in a magical flame. While lit, your arms and hands cast bright light in a 10-foot radius and dim light for another 10 feet, and your unarmed attacks deal an additional 1d4 fire damage to any target they hit. Your hands remain lit for 1 minute or until you use a bonus action to quench them.
+Any flame created by the pendant, whether it be on your hands or on the pendant itself, is harmless to you. While your hands are wreathed in fire in this way, your unarmed strikes are considered magical.
+
+---
+
+#### Pendant of Thieves' Sight
+*Wondrous item, Uncommon*
+
+While wearing this pendant, you can read and understand thieves' cant. In addition, you can more easily recognize the patterns used in written and spoken codes, granting you a +5 bonus to any Intelligence check you make to understand a written or spoken cipher.
+
+---
+
+#### Peppermince Sugarbomb
+*Wondrous item, Uncommon*
+
+This hard, minty sugarbomb slowly dissolves in your mouth over the course of 1 hour. At any point, you can use a bonus action to crunch down and break the sugarbomb into tiny, painful shards. You take 1d6 piercing damage from the shards, but are temporarily enchanted by the candy. While enchanted, your piercing and slashing weapon attacks deal an extra 2 damage to any target hit by them. After 1 minute, the enchantment fades.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+---
+
+#### Periapt of Reflection
+*Wondrous item, Rare, (requires attunement)*
+
+This perfectly reflective charm magically helps you meditate and focus your mind. While wearing the necklace, you can use your reaction to reroll any Intelligence, Wisdom, or Charisma saving throw that you fail. You must use the new result.
+
+**Curse.** This curse is only revealed and extended to you when you roll a 1 on a saving throw after using the periapt to reroll it. While you're cursed, the mirrored surface of the necklace dulls into an ugly, flat gray while you wear it. The curse persists even if you are not wearing the necklace, and you remain cursed until targeted by the *remove curse* spell or similar magic.
+While you're cursed, your reflection in any mirrored surface within 10 feet of you turns into an ugly, horrifying visage of your deepest insecurities. In addition, when you fail an Intelligence, Wisdom, or Charisma saving throw (including the roll that reveals this curse), you take 1d8 psychic damage.
+
+---
+
+#### Permanent Parchment
+*Wondrous item, Common*
+
+This violet piece of parchment is smooth and pleasant to write on. You can speak either of the parchment's command words "lock" or "unlock" as a bonus action to lock or unlock the parchment, respectively. While locked, the sheet cannot be torn by hand, damaged by fire, or damaged by immersion in water, and any ink already on the page can't be removed, smeared, or otherwise changed without the use of magic. New ink added to a locked sheet of permanent parchment runs off the page like water. While unlocked, the parchment behaves like a nonmagical sheet of paper.
+While unlocked, you can speak the paper's other command word, "clear", to cause any ink on the sheet of parchment to magically evaporate without leaving any marks behind.
+The language the parchment's command words must be spoken in is determined by the creator of the parchment.
+
+---
+
+#### Petal Dancer Ward
+*Wondrous item, Uncommon, (requires attunement)*
+
+This cape is made of colorful and aromatic petals. While wearing the cape, petals drift behind you as you walk and disappear before touching the ground. You can use a bonus action to change the color of these petals. While wearing the cape, you can use an action to cast the *druidcraft* cantrip from it, and creatures with the *keen smell* trait make attacks of opportunity against you with disadvantage.
+
+---
+
+#### Phase Axe
+*Melee Weapon (battleaxe), Rare, (requires attunement)*
+
+This crystalline battleaxe seems to be almost transparent when looking at the bladed head from different angles. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon has the thrown property with a normal range of 20 feet and a long range of 60 feet. The first time on your turn when you hit a target with a ranged attack using the axe, you can force another creature within 10 feet of the target to make a DC 15 Dexterity saving throw. On a failed save, that creature takes 1d8 force damage.
+If you can see the axe and are within 60 feet of it, you can use a bonus action to return the axe back to your outstretched hand. When you do, the weapon phases through any obstacle in its path that is no more than 5 feet thick or made of lead.
+
+---
+
+#### Pike of the Forgotten Legion
+*Melee Weapon (pike), Legendary, (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has 6 charges and regains 1d4 + 2 expended charges daily at dusk. While holding this pike, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 16): *mirror image* (1 charge), *phantom steed* (1 charge), *speak with dead* (1 charge), or *spirit guardians* (2 charges).
+
+**Spectral Warrior.** Once on each of your turns when you hit a creature with this pike, you can choose to summon a spectral warrior from the weapon. Until the start of your next turn, that creature is haunted by the warrior. While haunted, a creature has disadvantage on weapon attacks against you. This property has no effect against undead creatures.
+
+**Haunting Phalanx.** You can use an action while holding this pike to expend 3 of its charges and point it forward commandingly. Five spectral, pike-wielding warriors appear before you and march in a 25-foot by 50-foot line in a direction you choose. Any creature within that line's area must make a DC 16 Intelligence saving throw. On a failed save, a creature takes 3d10 necrotic damage and 3d10 psychic damage and is affected by the weapon's *spectral warrior* property. On a success, the creature takes half as much damage and isn't affected by the spectral warriors. Undead creatures automatically succeed on the saving throw.
+
+---
+
+#### Plaguebane Mask
+*Wondrous item, Rare*
+
+This bird-like mask's blend of magic and science is as unique as it is helpful. It can be easily lifted over your face to eat or speak more clearly. The mask's beak is lined with magical flowers that react to and purify airborne toxins before they pass through it. While wearing the mask, you have advantage against being poisoned or diseased from airborne sources, as well as resistance to the poison damage that they might cause.
+In addition, the flowers have 3 charges and regain 1d3 expended charges each day at dawn as new flowers bloom. As an action, you can hold the beak's nostrils closed with a free hand and expend 1 of its charges to exhale a 15-foot cone of thick pollen in front of you. Creatures caught in the pollen must make a DC 15 Constitution saving throw. On a failed save, a creature's speed is halved until the end of its next turn and takes 2d8 poison damage. On a success, its speed is unaffected and the poison damage is halved.
+
+---
+
+#### Planar Rapier
+*Melee Weapon (rapier), Very Rare, (requires attunement)*
+
+This thin blade seems to toe the line between planes of existence, occasionally allowing it to bend them to extend beyond its normal reach. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+The rapier has 5 charges and regains 1d4 + 1 expended charges each day at dawn. You can expend 1 charge to extend the reach of a melee attack you make with the rapier to 10 feet instead of 5. You can expend this charge either before or after you make the attack. If you expend the charge after making a melee attack with the rapier against a target within 5 feet of you, you can extend the rapier to immediately pierce through the original target and make a bonus melee attack against a different target 5 feet behind the original one, provided that the second target is still within 10 feet of you. This bonus attack is considered to be part of the initial attack. The second target does not benefit from using the original one as cover. Whenever you expend a charge with this weapon, the planes around the blade begin to tear, causing any target hit by an attack with the extended blade to take an extra 2d8 force damage.
+After the attack, the blade returns to its normal size.
+
+---
+
+#### Pomade of Ten Thousand Styles
+*Wondrous item, Common*
+
+This canister of waxy pomade has magical properties, allowing you to change your hair's color, style, thickness, and length (up to 1 foot longer or shorter per use). The canister steadily replenishes its pomade over time. It can hold up to 4 uses at a time and regains 1d4 expended uses each day at dawn. Using 1 use of the pomade takes 1 minute.
+Once you've used this product in your hair, it returns to its normal appearance after you finish a long rest. Hair produced by the pomade that's been cut off turns to dust after 24 hours. If you use the pomade every day for 7 days to make the same changes, the changes become permanent.
+
+---
+
+#### Potion of Dragon's Breath
+*Potion, Varies*
+
+Multiple variations of this item exist, as listed below:
+
+- **Potion of Dragon's Breath (uncommon)**
+- **Potion of Dragon's Breath (rare)**
+- **Potion of Dragon's Breath (very rare)**
+
+---
+
+#### Potion of Dragon's Breath (rare)
+*Potion, Rare*
+
+This potion is crafted using the harvested stomach and gizzard of a fallen dragon. Drinking the potion as an action allows you to use an action on your subsequent turns to spew dragon-like projectiles. These projectiles are the same as a dragonborn's breath weapon, whose element and areas of effect are determined by the dragon it was sourced from. The effect lasts for 1 minute. Materials gathered from adult dragons produce rare potions (dealing 4d6 damage with the breath weapon, save DC 15).
+It takes 7 days and proficiency with **alchemist's supplies** to create the potion, requiring 2 hours of work each day in order to prepare it. Failing to tend to the potion causes it to reset, requiring another 7 days to craft. When the potion resets in this way, roll a d20. On a 1, the potion spoils and is lost.
+
+---
+
+#### Potion of Dragon's Breath (uncommon)
+*Potion, Uncommon*
+
+This potion is crafted using the harvested stomach and gizzard of a fallen dragon. Drinking the potion as an action allows you to use an action on your subsequent turns to spew dragon-like projectiles. These projectiles are the same as a dragonborn's breath weapon, whose element and areas of effect are determined by the dragon it was sourced from. The effect lasts for 1 minute. Materials gathered from young dragons produce uncommon potions (dealing 3d6 damage with the breath weapon, save DC 13).
+It takes 7 days and proficiency with **alchemist's supplies** to create the potion, requiring 2 hours of work each day in order to prepare it. Failing to tend to the potion causes it to reset, requiring another 7 days to craft. When the potion resets in this way, roll a d20. On a 1, the potion spoils and is lost.
+
+---
+
+#### Potion of Dragon's Breath (very rare)
+*Potion, Very Rare*
+
+This potion is crafted using the harvested stomach and gizzard of a fallen dragon. Drinking the potion as an action allows you to use an action on your subsequent turns to spew dragon-like projectiles. These projectiles are the same as a dragonborn's breath weapon, whose element and areas of effect are determined by the dragon it was sourced from. The effect lasts for 1 minute. Materials gathered from ancient dragons produce very rare potions (dealing 5d6 damage with the breath weapon, save DC 16).
+It takes 7 days and proficiency with **alchemist's supplies** to create the potion, requiring 2 hours of work each day in order to prepare it. Failing to tend to the potion causes it to reset, requiring another 7 days to craft. When the potion resets in this way, roll a d20. On a 1, the potion spoils and is lost.
+
+---
+
+#### Potion of Spell Recovery
+*Potion, Rare*
+
+When you drink this potion, you recover expended spells slots with a combined level that is equal to or less than 1d3 + 3, and none of the slots can be 6th level or higher.
+
+---
+
+#### Precipit, the Formless
+*Artifact, (requires attunement)*
+
+This magic coral staff was first found within the Great Reef of the Elemental Plane of Water. Its origins beyond that are entirely unknown, with some suggesting it was made by the plane itself rather than forged or crafted by a mere creature's hands. Attuning to the staff bestows some of its planar powers to you, allowing you to breathe underwater and ignore any of the drawbacks caused by a deep, underwater environment. In addition, while holding the staff, you have resistance to cold damage.
+This staff has 15 charges which are used to power its various properties. The staff regains 1d8 + 7 expended charges daily at dawn.
+
+**State Change.** The staff has a powerful control over the various states of water. As a bonus action while holding the staff, you can mentally command the staff's ever-present bounty of water to change its state into a gas, liquid, or solid. The properties of each state are listed below. Alternatively, you can expend 1 of its charges as a reaction when you are the target of an attack or spell to force the staff to change its state more rapidly. When you do, the staff's change is immediate: potentially affecting the outcome of the incoming attack or spell. You take this reaction when you know you are the target of the attack or spell, but before knowing the result of the roll.
+
+**Gas.** When the staff enters its gaseous state, the water surrounding the staff becomes a fine mist. While holding the staff in this state, you gain the following properties:
+
+- You have resistance to bludgeoning and piercing damage.
+- Your movement speed is increased by 10 feet.
+- You gain a flying speed equal to your walking speed.
+- You can move through the space of any hostile creature, without reducing your movement speed.
+- Opportunity attacks against you are made with disadvantage.
+
+**Gas Spells.** While holding the staff in its gas state, you can expend 1 or more of its charges on your turn to cast the following spells (save DC 18) from it: *cloudkill* (5 charges), *fog cloud* (1 charge), *gaseous form* (3 charges), *misty step* (2 charges), or *wind walk* (6 charges).
+
+**Tailwind.** While holding the staff in its gas state, you can expend 2 of its charges and speak the staff's command word as an action to grant additional powers to you and nearby allies. Until the end of your next turn, you and friendly creatures of your choice that you can see within 30 feet of you can take the Dash action as a bonus action and don't provoke opportunity attacks by moving.
+
+**Liquid.** When the staff enters its liquid state, the water surrounding the staff becomes a swirling torrent. While holding the staff in this state, you gain the following properties:
+
+- You have resistance to bludgeoning and slashing damage.
+- Your movement speed is increased by 10 feet.
+- You gain a swimming speed equal to your walking speed.
+- You can stand on and move across any liquid surface as if it were solid ground.
+- When a hostile creature that you can see misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+
+**Liquid Spells.** While holding the staff in its liquid state, you can expend 1 or more of its charges on your turn to cast the following spells from it: *blur* (2 charges), *control water* (4 charges), *create or destroy water* (1 charge), *mirror image* (2 charges), or *water breathing* (3 charges).
+
+**Tide Turner.** While holding the staff in its liquid state, you can expend 3 of its charges and speak the staff's command word as an action to send out a wave of ethereal magic water to buffet and push your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Strength saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is pushed either 20 feet toward you or away from you (your choice). On a successful save, the creature takes half as much bludgeoning damage and is not pushed.
+
+**Solid.** When the staff enters its solid state, the water surrounding the staff becomes a frozen shell. While holding the staff in this state, you gain the following properties:
+
+- You have resistance to piercing and slashing damage.
+- Your movement speed is reduced to 5 feet.
+- You gain a +3 bonus to AC.
+- If you're pushed against your will, the distance you are pushed is halved.
+- You gain 10 temporary hit points at the start of each of your turns that last until the staff changes state.
+
+**Solid Spells.** While holding the staff in its solid state, you can expend some of its charges on your turn to cast the following spells (save DC 18) from it: *cone of cold* (5 charges), *ice storm* (4 charges), *ray of frost* (no charges, or 1 charge to cast at 5th level; +10 to hit with ranged spell attack), or *wall of ice* (6 charges).
+
+**Deep Freeze.** While holding the staff in its solid state, you can expend 4 of its charges and speak the staff's command word as an action to send out a chilling blast to freeze your enemies. Hostile creatures of your choice that you can see within 30 feet of you are forced to make a DC 18 Constitution saving throw. On a failed save, a creature takes 4d8 cold damage and its speed is reduced to 0 until the end of its next turn. On a successful save, the creature takes half as much cold damage and its speed is halved instead.
+
+**Random Properties.** Precipit, the Formless has the following random properties:
+
+- 2 Artifact Properties; Minor Beneficial Properties
+- 2 Artifact Properties; Minor Detrimental Properties
+
+**Destroying the Staff.** The only way to destroy the staff is to keep it untouched by water for one hundred years while on the Elemental Plane of Water, at which point it crumbles to dust. Any amount, such as a puff of misty air, a drip of water, or the touch of ice during that time reinvigorates the staff's bounty of water.
+
+---
+
+#### Prismatic Javelin
+*Melee Weapon (javelin), Very Rare, (requires attunement)*
+
+This dark crystal javelin has a prismatic head that can refract light into beautiful displays of color. Immediately after you throw this javelin and it hits a target within 120 feet of you, the javelin disappears in a small burst of light before reappearing in your open hand.
+As an action, you can throw the javelin at a point you can see within 120 feet of you and speak its command word. When the javelin lands, it erupts in a dazzling display of color and light, casting painful bright light in a 20-foot radius and dim light for another 20 feet. Creatures of your choice within the bright light must make a DC 13 Dexterity saving throw. For each creature hit by the light, roll a d6 to determine the color of light that hits it and type of damage that it takes using the table below. A creature that fails the saving throw takes 2d10 damage for each beam of light that hits it of the type determined by the table. A creature behind total cover from the javelin is not affected. Once this property has been used, it can't be used again until the next dawn.
+
+**Prismatic Javelin Beams**
+
+| d6 | Color | Damage Type |
+| --- | --- | --- |
+| 1 | Red | Fire |
+| 2 | Orange | Acid |
+| 3 | Yellow | Lightning |
+| 4 | Green | Poison |
+| 5 | Blue | Cold |
+| 6 | Special | The creature is struck by two beams of light. Roll twice more, rerolling any 6. |
+
+---
+
+#### Profane Mask
+*Wondrous item, Common*
+
+This cloth mask converts the words that pass through it into vile obscenities. While wearing the mask over your mouth, your words are heard as angry insults and swears instead of the ones you intend. You do not hear these words. A creature can make a DC 10 Intelligence (Investigation) or Wisdom (Insight) check to determine that the words it hears are not your own. Verbal spell components, command words, and actual obscenities you say are unaffected by the mask's magic and are heard normally by creatures within earshot.
+
+---
+
+#### Purging Dagger
+*Melee Weapon (dagger), Very Rare, (requires attunement)*
+
+This chiseled wooden dagger is a relic crafted from the bough of a holy tree and is always miraculously sharp. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The dagger deals an extra 1d4 radiant damage to any target it hits. The extra damage increases to 2d4 when you use the dagger to attack an undead creature, causing blue tongues of holy flame to flash along the weapon's edge.
+When you roll a 20 on an attack roll made with this weapon against an undead creature, you can choose to plunge the blade into the creature's body and leave it there. When you do, the dagger emits bright light in a 15-foot radius and dim light for another 15 feet. The light is sunlight. While the blade is lodged in a target in this way, that target takes 3d4 radiant damage at the start of each of its turns, and the dagger continues to emit sunlight. A creature can use an action to make a DC 16 Strength check, freeing the dagger from the target on a success. Once freed, the blade vanishes and reappears on the ground at your feet or in your hand if you have one free.
+
+---
+
+#### Purity Spear
+*Melee Weapon (spear), Legendary, (requires attunement by a good-aligned creature)*
+
+This beautiful spear has a long handle carved of ivory and is tipped with the spiraling horn of a unicorn. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+While attuned to the spear, you are immune to the poisoned condition and have immunity to poison damage. In addition, you have advantage on Constitution and Wisdom saving throws to resist spells and other magical effects.
+The spear has 10 charges and regains 1d6 + 4 expended charges daily at dawn. While holding the spear, you can expend 1 or more of its charges to cast the following spells from it (save DC 17): *calm emotions* (2 charges), *detect evil and good* (1 charge), *dispel evil and good* (5 charges), *greater restoration* (5 charges), *misty step* (2 charges), or *purify food and drink* (1 charge). In addition, you can use an action to expend 1 of its charges to touch a creature with the spear. That creature regains 2d8 + 2 hit points and is cured of one poison or disease afflicting it.
+
+**Charge.** If you move at least 20 feet straight toward a target and hit it with the spear on the same turn, the target takes an extra 2d8 piercing damage.
+
+**Curse Breaker.** While attuned to the spear, you are immune to being cursed by spells and other abilities. For the purposes of this property, a curse refers to any spell or ability that has "curse" in its name or description. If you are already afflicted with a curse when you attune to the spear or are attuned to a cursed item, you suppress the effects of the curse for as long as you remain attuned to the spear. If you break your attunement with the spear, the curse is no longer suppressed.
+
+---
+
+#### Purse Piglet
+*Wondrous item, Rare*
+
+This ceramic piglet figurine is glazed with a friendly pink coating that's soft to the touch and has a hole in the top that's stoppered with a cork. When you drop a coin in the piglet and stopper it, the figurine springs to life. When it does, it imprints on you and considers you its owner. The owner can hold and gently shake the piglet, causing it to oink happily, and magically know how much money is inside of it.
+Once alive, the piglet happily eats any coin handed to it: storing it inside. The piglet will spit out exact change when you or an ally asks for it, even converting them into larger or smaller denominations. The figurine can only hold coins and will spit or sneeze out anything else you place inside of it. The piglet squeals with glee and prances about excitedly when you deposit or feed it coins. The pig can eat up to 1000 coins of any denomination every hour it spends eating them. It will eat electrum pieces with less enthusiasm. It remains the same size regardless of how many coins are inside of it. The piglet is exceptionally loyal and will listen to commands given by its owner and other allied creatures of the owner's choosing. It walks beside you or its nearest ally as best it can, but vanishes into a pocket dimension if it is ever more than 30 feet away from one of you. The figurine can be summoned to you or another allied creature's location as a bonus action by saying the command phrase "Come home, little piggy". You can tell the figurine to return to its pocket dimension using another bonus action to say the command phrase "Go to market, little piggy."
+When asking for 10% or more of its total stockpile, the piglet looks disappointed before carrying out the request. The piglet can eject its own stopper and roll over on its back to empty itself of coins when it's asked for a large amount, but will always retain at least one copper coin unless you physically remove it. The figurine returns to its inanimate form when there are no more coins inside of it.
+The piglet has 5 hit points, an AC of 10, and a walking speed of 30 feet. It does not need air to breathe. If the piglet is reduced to 0 hit points, it cries out and shatters into hundreds of ceramic pieces. While your coins are not lost, it takes the piglet 1d4 days to rematerialize again before you.
+If the pig's owner dies, the distraught pig empties itself of all its coins: returning to its inanimate ceramic form atop of whatever coins were inside of it.
+Placing the piglet inside an extradimensional space created by a **bag of holding**, **portable hole**, or similar item instantly destroys both items and opens a gate to the Astral Plane. When this happens, the piglet is permanently destroyed, and its contents are lost. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened again.
+
+---
+
+#### Puzzle Ring of Vitality, Life, and Power
+*Ring, Legendary, (requires attunement by a paladin)*
+
+
+**The Inner Ring.** This golden ring is blessed by a god of life and healing. While wearing the ring, you can use your Lay On Hands feature on an ally within 10 feet of you instead of needing to touch them.
+
+**The Outer Ring.** The inner ring is covered by a silver puzzle ring that grants various benefits. The puzzle ring is made of three distinct bands that, when fit together in an elaborate and ever-changing puzzle, cause you to emanate a 30-foot aura that heals and supports your allies. As an action, you can make an Intelligence check to solve a piece of the puzzle in a fixed order:
+
+- The first band slides into place following a successful DC 5 Intelligence check. Once solved, you begin to emit the ring's aura. The aura lasts for 1 minute and is always centered on you. While you emit this aura, you can use a bonus action on your turn to cause a creature within the aura (including you) to regain 2d6 hit points.
+- The second band is solved following a successful DC 10 Intelligence check. When it slides into place, the aura's strength increases. Each living, nonhostile creature regains 1 hit point when it starts its turn in the aura with 0 hit points. In addition, creatures within the radius have resistance against necrotic damage, and their hit point maximum can't be reduced.
+- The third and final band is solved following a successful DC 15 Intelligence check. When the band fits into place to complete the puzzle, the aura's power is maximized. Friendly creatures within the aura have advantage on saving throws against spells and magical effects, and if succeeding on a saving throw in this way would normally cause the creature to take half damage, it takes no damage instead.
+The aura ends early if you take the ring off or are reduced to 0 hit points. Once the aura fades, you can't activate the outer ring again until 1 day has passed for each band that you solved. If you solve all 3 bands, the number of days is reduced by 1d3. On a 3, the outer ring can be activated again immediately.
+
+---
+
+## Q
+
+#### Quagmire Maul
+*Melee Weapon (maul), Very Rare, (requires attunement)*
+
+This old, withered hammer seemingly belongs in a swamp. Regardless of the conditions the hammer is kept in, it is always damp and smells of bog water. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+This hammer has 10 charges and regains 1d6 + 4 expended charges daily at dawn. As an action, you can expend 1 or more of the hammer's charges to slam it into the ground and transform the area around you into sickly, swamp-like terrain that lasts for 1 minute. When you do, choose a space within 5 feet of you. You create a swamp that fills that space and nearby spaces within 5 feet of it, turning the area into thick muck. This area is considered difficult terrain. For each additional charge expended after the first, the swamp's radius increases by 5 feet. While you're holding the hammer, you can traverse the magical swamp as if it were normal terrain.
+If you expend the last charge from the hammer, roll a d20. On a 1, the hammer turns into viscous muck in your hands and is destroyed.
+
+---
+
+#### Quake Hammer
+*Melee Weapon (light hammer), Rare, (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+As an action, you can smash this hammer into the ground to send out intense tremors. Other creatures within 10 feet of the point of impact must succeed on a Dexterity saving throw or suffer 2d6 bludgeoning damage and fall prone. Creatures who succeed on the throw take half as much damage and do not fall prone. You can cause this effect while you hold the hammer or when you throw it, creating the tremors at the point on the ground that the hammer lands.
+The save DC for this effect is equal to 8 + your proficiency bonus + your Strength modifier. Once this property has been used, it can't be used again until the following dawn.
+
+---
+
+#### Quickdraw
+*Ranged Weapon (hand crossbow), Rare*
+
+This curious contraption is in fact a small, surreptitious hand crossbow that can be worn on a wrist or forearm without requiring a free hand to use it. On the first turn of combat, you can immediately use your reaction to fire the weapon at a creature you can see within range. If you don't fire the crossbow in this way, you can use a bonus action on a subsequent turn to make a single ranged attack with it instead.
+In order to use this crossbow, you must also wear two rings on adjacent fingers. One ring carries a thin but flexible string that connects to the firing mechanism of the crossbow. The second ring is equipped with a very small but functional blade that's used to sever the first's string. When the string is severed, the crossbow fires. It takes 1 minute to reset the crossbow and rings.
+
+---
+
+#### Quicksilver Clay
+*Wondrous item, Common*
+
+This small orb of silver, watery liquid is strangely dry to the touch. While holding the 1-inch-diameter metallic sphere in the palm of your hand, you can mentally control the form that it takes using an action. The form stretches and turns into the imagined shape and remains centered in your hand. Regardless of the form, it can be no larger than the palm of your hand and is always a liquid. The form returns to its natural orb state when you end your focus on the quicksilver clay (no action required) or it leaves your hand.
+Eating or drinking the liquid is harmless, but takes 1d4 days to exit the body.
+
+---
+
+## R
+
+#### Radiant Defender
+*Melee Weapon (maul), Rare, (requires attunement)*
+
+This maul has a narrow shield covering its handle that can be rotated to protect the wielder's grip. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this guarded maul, taking the Dodge action also gives you a +2 bonus to your AC until the start of your next turn. In addition, when you take the Dodge action and a creature within 5 feet of you misses you with an attack, you can use your reaction to make an attack with the maul against that creature. If you hit, the attack deals an extra 1d8 radiant damage. Once you use your reaction to make an attack in this way, you lose the maul's bonus to your AC until you take the Dodge action again.
+
+---
+
+#### Reap and Sew
+*Ranged Weapon (light crossbow), Rare, (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can cast the *mending* cantrip at will. A special, needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it and deals force damage instead of piercing. The bolt returns to the crossbow and loads itself after each attack, ignoring the crossbow's normal loading property.
+The crossbow has 4 charges and regains 1d4 expended charges each day at dawn. When you fire the special bolt from this crossbow and hit a Large or smaller creature, you can expend 1 charge to tether that creature to a point on the ground adjacent to it. If the creature attempts to move more than 10 feet away from that point before the end of its next turn, it must succeed on a DC 15 Strength saving throw or have its movement speed reduced to 0 until the start of its next turn.
+If the special bolt is somehow destroyed or lost, the bolt reappears loaded in the crossbow after 24 hours. The weapon is considered to be a mundane, nonmagical crossbow while separated from the bolt for longer than 1 minute.
+
+**Curse.** Once attuned to this weapon, you must make a DC 12 Wisdom saving throw whenever you attempt to take a short or long rest. On a failure, you are overcome with the urge to craft and are forced to sew, knit, crochet, or crossstitch feverishly for at least 1 hour before being able to rest. The curse remains even if the attunement ends, but can be undone by any effect that removes a curse such as a *greater restoration* or *remove curse* spell.
+
+---
+
+#### Red Claw's Regalia
+*Wondrous item, Legendary, (requires attunement)*
+
+This dragon scale robe is miraculously insulated and comfortable. While wearing the robe, you gain the following benefits:
+
+- You can withstand temperatures as low as −50 degrees Fahrenheit without any additional protection.
+- Your Constitution score increases by 2, to a maximum of 22.
+- You have advantage on Constitution saving throws.
+- You have resistance to fire damage.
+- You can stand on and walk across molten rock, unharmed, as if it were solid ground.
+The hem of this robe glimmers with slowly shifting embers. While wearing the robe, your steps leave behind small motes of harmless fire and scorched earth that disappear after 1 second.
+
+---
+
+#### Relentless Bulwark
+*Shield (shield), Uncommon, (requires attunement by a cleric or paladin)*
+
+This hefty metal shield is virtually impenetrable. The shield has 6 charges and regains 1d4 + 2 expended charges daily at dawn. While holding the shield, you can use an action to expend 1 of its charges to cast the *shield of faith* spell from it. Whenever you would fail a Constitution saving throw to maintain concentration on this spell, you can use your reaction to expend another charge from the shield to succeed on the saving throw instead. You can only use your reaction in this way if you're holding the shield.
+
+---
+
+#### Retaliating Bloom Shield
+*Shield (shield), Rare*
+
+This steel shield hides a slim chamber in its center where magical flora grow and release toxic pollen. The chamber is covered with an intricate, interlocking series of metal plates and flaps that, once released, resembles a flower.
+While holding the shield, you can use your reaction when a Large or smaller creature you can see within 5 feet of you misses you with an attack to release the chamber's mechanism and fire the toxic pollen into the face of the attacker. When you do, that creature must succeed on a DC 15 Constitution saving throw or take 3d10 poison damage and be poisoned for 1 minute. On a success, the creature takes half as much damage and isn't poisoned. Once this property has been used, it can't be used again until the next dusk, when the flowers release another wave of pollen.
+Curious, whirring mechanisms inside the shield automatically retract the chamber's unfurled metallic plates at dusk. Alternatively, you can manually collapse the shield's plates over the course of 1 minute.
+
+---
+
+#### Retaliating Shield of Ink
+*Shield (shield), Uncommon*
+
+This shield has a hidden compartment inside that can spray thick squid ink at attacking creatures. When a Large or smaller creature within 5 feet of you misses you with a melee attack, you can use your reaction to press a button on the shield's handle. When you do, ink sprays from the front of the shield at the face of the attacking creature. That creature must succeed on a DC 13 Dexterity saving throw or be blinded until the beginning of its next turn.
+The shield can hold up to 3 uses of the ink before needing to be refilled. It takes 1 minute to refill the shield using a vial of squid ink worth at least 20 gp. Alternatively, you can use a vial of thinner writing ink worth 5 gp. If you do. the save DC becomes 10 instead.
+This is a mechanical item whose purpose and functionality can be understood following a successful Intelligence check (DC 12). On a success, you can interpret what the shield does, how to use it, and how to take care of it. You also understand that filling the shield with other volatile or sticky liquids such as acid, poison, grog, oil, or any other solid material such as sand, will damage the machinery inside and take 8 hours of work to repair.
+
+---
+
+#### Ring of Anchoring
+*Ring, Rare, (requires attunement)*
+
+While attuned to this ring, you can breathe normally underwater, and whenever you're pushed against your will, the distance you're moved is reduced by 10 feet.
+
+**Curse.** Once you attune to and wear this hammered lead ring, the arm that's wearing it becomes unbearably heavy when it's submerged underwater. When underwater, make a DC 20 Strength (Athletics) check. On a failure, you're dragged downward 30 feet at the start of each of your turns, and your movement speed becomes 0. You can reattempt this saving throw every minute. On a success, you can move your arm, albeit sluggishly, for 1 minute. While you can move your arm, your movement speed is halved, any attack roll you make with the arm is made with disadvantage, and any Strength or Dexterity check you make is made with disadvantage. If you're still underwater at the end of this minute, you're forced to reattempt the saving throw. You can't remove this ring once you're cursed by it, and you remain cursed until you're targeted by the *remove curse* spell or similar magic. You can remove the ring and the curse without magic by physically removing the finger that's wearing it. Once removed from the water, your arm's weight and your movement speed return to normal.
+
+---
+
+#### Ring of Eldritch Ire
+*Ring, Rare, (requires attunement by a warlock)*
+
+This cold, warped ring has three yellow gemstones adorning its surface that swivel and move like strange eyes. This ring has 3 charges and regains all expended charges daily at dusk. While wearing the ring, you can expend 1 of its charges as a bonus action to mark an unmarked creature that you can see within 60 feet of you for 1 hour. The mark is lost if you fall unconscious or end it early using a bonus action. A marked creature appears to be shrouded in a strange, sharpening mist that magically helps you focus. You gain a +1 bonus to attack and damage rolls against marked creatures, and marked creatures have a −1 penalty to saving throws against spells you cast.
+You know a marked creature's general distance and direction from you at all times while it's on the same plane of existence as you. In addition, you perceive a marked creature within 60 feet of you as though you had truesight, and can see through any illusion that stands between you and the marked creature.
+
+---
+
+#### Ring of Fire
+*Ring, Rare*
+
+This ring is made of magical fire. While wearing it, you can use it to cast the *wall of fire* spell (spell save DC 15).
+When cast from the ring, the wall must be in a circle centered on you. The *wall of fire* is 20 feet tall and 1 foot thick.
+
+---
+
+#### Ring of Gestures
+*Ring, Common*
+
+This gaudy ring has a delicately carved pink gem in the shape of a hand at its center. While wearing this ring, you can cast the *minor illusion* cantrip at will to enlarge, reduce, and change the color of the hand wearing the ring or any of its fingers. In addition, whenever you make a gesture with the hand wearing this ring, the pink gemstone moves to mimic the gesture and remains that way until you make a new one.
+
+---
+
+#### Ring of Ice
+*Ring, Very Rare*
+
+This ring is made of magical ice. While wearing it, you can use it to cast the *wall of ice* spell (spell save DC 16).
+When cast from the ring, the wall must be in a circle centered on you. The *wall of ice* is 10 feet tall and 1 foot thick.
+
+---
+
+#### Ring of Roses
+*Ring, Common*
+
+As an action, you can cause a single rose to grow and appear in your hand. The stem is 1 foot long and has small, dull thorns. The flower is odorless and blooms in a color of your choice, but withers and turns to dust after 24 hours.
+
+---
+
+#### Ring of Seething
+*Ring, Uncommon, (requires attunement)*
+
+This dark band is cool to the touch and has several cracks throughout its otherwise smooth body. When you attune to the ring, choose a creature type: aberration, celestial, dragon, elemental, fey, fiend, or undead. While wearing the ring, its normally cool band glows red hot when a creature of the chosen type is within 60 feet of you. In addition, you have advantage on any saving throw you make to resist being charmed or frightened by a creature of that type. While seemingly radiating heat, the ring feels only faintly warm to you. Small pieces of the metal band hover above the surface of the ring when glowing in this way.
+
+**Curse.** Once you attune to the ring and place it on your finger, you can't remove it unless targeted by a *remove curse* spell. While cursed, you have disadvantage on any Charisma check or Wisdom (Insight) check you make that involves a creature of the chosen type. In addition, while you're within 60 feet of one or more creatures of that type, you have disadvantage on attack rolls that target a creature of a different type.
+
+---
+
+#### Ring of Stone
+*Ring, Rare*
+
+This ring is made of magical stone. While wearing it, you can use it to cast the *wall of stone* spell (spell save DC 15).
+When cast from the ring, the wall must be in a circle centered on you. The *wall of stone* is 10 feet tall and 6 inches thick.
+
+---
+
+#### Ring of the Fowl Sentinel
+*Ring, Common*
+
+This plain bronze ring is embossed with a rooster's head at its center. You can use an action to enchant a friendly chicken or rooster by tapping the ring to its beak. While enchanted, its speed becomes 0 and remains quiet for up to 8 hours. The chicken or rooster lets out a cry after 8 hours or if it sees another Small or larger creature it hasn't seen before. The chicken or rooster has a passive perception of 13 and a +3 bonus to Wisdom (Perception) checks it makes while enchanted. It has 1 hit point, an AC of 10, and can be heard out to 150 feet when it lets out a cry. Only 1 creature can be enchanted by the ring at any time. Tapping the ring to the enchanted chicken or rooster's beak again before the effect ends breaks the enchantment early.
+
+---
+
+#### Ring of the Sandskimmer
+*Ring, Uncommon*
+
+This ring is made entirely of sand that ebbs and flows around your finger. The sand is magically held together by a single, perfectly smooth tiger's eye stone that spins in place as the sand brushes past it. While wearing this ring, you leave no footprints behind when you walk in sand, and you treat all nonmagical difficult terrain in sand as if it were normal terrain.
+
+---
+
+#### Ring of Wind
+*Ring, Uncommon*
+
+This ring is made of magical wind. While wearing it, you can use it to cast the *wind wall* spell (spell save DC 13).
+When cast from the ring, the wall must be in a circle centered on you. The *wind wall* is 15 feet tall and 1 foot thick.
+
+---
+
+#### Rocborne Hand Ballista
+*Ranged Weapon (heavy crossbow), Very Rare, (requires attunement)*
+
+This massive, beast-hunting crossbow is carried with its two handles from above instead of by being held from below. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This crossbow uses twice the normal amount of ammunition each time you fire it and deals an extra 1d10 piercing damage to any target it hits. The weapon emits a roc-like screech that's audible out to 100 feet each time it's fired.
+This crossbow is blessed with the spirits of great ancestral hunters. The weapon has 5 charges and regains 1d4 + 1 expended charges daily at dawn. When you attack a Huge or smaller creature with this weapon, you can expend 1 of its charges as part of the attack. If the attack hits, the creature must make a DC 16 Constitution saving throw. On a failed save, its speed is reduced to 0 and it can't take reactions until the start of its next turn.
+
+---
+
+#### Rocborne Robe
+*Wondrous item, Uncommon, (requires attunement)*
+
+This warm canvas robe is lined with roc down. While wearing it, you can withstand temperatures as low as −50 degrees Fahrenheit. In addition, the cloak has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While wearing the cloak, you can use an action to expend 1 of its charges and unfurl the robe. The robe opens into two large, stylized wings before flapping back down, buffeting the area in front of you and refolding into the robe. The wings create a line of wind 15 feet wide and 10 feet long in front of you, forcing any affected Medium or smaller creature within the area to make a DC 13 Strength saving throw. On a failure, a creature is pushed 10 feet away from you. At the same time, you are flung away, flying 10 feet backwards without provoking opportunity attacks.
+
+---
+
+#### Rocborne Rod
+*Rod, Rare, (requires attunement)*
+
+This wooden rod is carved in the representation of five ancient roc. Motes of their spirits flow through it and allow you to channel some of their lingering power.
+This rod has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While holding the rod, you can use a reaction while falling, or an action otherwise, to expend 1 of its charges to cause two handles to extend from its top and bottom. While holding the handles, a pair of magical wings appear above the rod that reduce your falling speed to 10 feet per round, or 20 feet if you weigh more than 200 pounds. While falling in this way, you gain a flying speed of 40 feet but cannot fly upwards without a significant updraft. If you land on the ground while falling in this way, you take no damage from falling.
+In addition, you can use the rod to summon a buffeting gust of wind around you. While holding the rod aloft, you can use an action to expend 1 of its charges. When you do, powerful winds whip around you and blow everything within 20 feet of you skyward in a column of wind 60 feet high. Large and smaller creatures within range must succeed on a DC 15 Strength saving throw or be launched 30 feet upward before crashing back to the ground. Affected objects weighing less than 200 pounds are also launched by the wind. You automatically succeed on the saving throw unless you decide to fail. If you choose to fail the saving throw and use your reaction to summon the magical wings (if they weren't already summoned), you're carried upward 60 feet instead.
+
+---
+
+## S
+
+#### Sandstorm Dancer
+*Wondrous item, Rare, (requires attunement)*
+
+This golden cloak billows illusory sand around you when you walk or cast a spell. The cloak has 8 charges and regains 1d6 + 2 expended charges daily at dawn. While wearing the cloak, you can expend 1 or more of its charges to cast the following spells from it (save DC 15): *blur* (2 charges), *call lightning* (3 charges), *create or destroy water* (1 charge), or *hallucinatory terrain* (4 charges).
+
+---
+
+#### Scholar's Cap
+*Wondrous item, Varies, (requires attunement)*
+
+Multiple variations of this item exist, as listed below:
+
+- **Scholar's Cap +1**
+- **Scholar's Cap +2**
+- **Scholar's Cap +3**
+
+---
+
+#### Scholar's Cap +1
+*Wondrous item, Uncommon, (requires attunement)*
+
+This hat carries with it the cleverness and knowledge of many previous scholars. While wearing the hat, you gain a +1 bonus to Intelligence checks and saving throws.
+In addition, when it would normally take you at least 1 week in order to research a subject, you instead finish that research 1 day faster for each week you would have spent.
+
+---
+
+#### Scholar's Cap +2
+*Wondrous item, Rare, (requires attunement)*
+
+This hat carries with it the cleverness and knowledge of many previous scholars. While wearing the hat, you gain a +2 bonus to Intelligence checks and saving throws.
+In addition, when it would normally take you at least 1 week in order to research a subject, you instead finish that research 2 days faster for each week you would have spent.
+
+---
+
+#### Scholar's Cap +3
+*Wondrous item, Very Rare, (requires attunement)*
+
+This hat carries with it the cleverness and knowledge of many previous scholars. While wearing the hat, you gain a +3 bonus to Intelligence checks and saving throws.
+In addition, when it would normally take you at least 1 week in order to research a subject, you instead finish that research 3 days faster for each week you would have spent.
+
+---
+
+#### Scorching Cleaver
+*Melee Weapon (battleaxe), Very Rare, (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This battleaxe has 8 charges and regains 1d6 + 2 expended charges each day at dawn. As long as the weapon has at least 1 charge, attacks you make with it deal an extra 1d6 fire damage to any target it hits. When you roll a 20 on an attack roll made with this weapon, it regains 3 expended charges.
+
+**Erupting Slash.** As an action, you can expend 3 or more of the battleaxe's charges to slash the air in front you. When you do, a line of fire 30 feet long and 5 feet wide erupts from the blade. Creatures within the line must succeed on a Dexterity saving throw or take 1d6 fire damage for each expended charge. If you expend 4 or more charges in this way and leave the battleaxe with 0 remaining charges, the weapon overheats. When it overheats, targets within the line take an extra 3d6 fire damage, and creatures that succeed on the Dexterity saving throw take half damage instead of avoiding the effect. The DC for this property's saving throw is equal to 8 + your proficiency bonus + the number of charges you expend.
+
+---
+
+#### Screaming Longbow
+*Ranged Weapon (longbow), Rare, (requires attunement)*
+
+Arrows fired from this sickly longbow let out a screeching howl audible up to 100 feet away as they fly by. Creatures struck by these arrows take an extra 2d4 thunder damage. When you roll a 20 on an attack roll made with this weapon, all creatures within 5 feet of the target must succeed on a DC 15 Constitution saving throw or be deafened for 1 minute.
+
+---
+
+#### Sea Serpent Hairpin
+*Wondrous item, Uncommon*
+
+This golden, twisting hair pin wraps around a tiny silver sword and gives your fingers and skin a slight grip while underwater. While wearing this pin, you have advantage on Strength (Athletics) checks you make in order to grapple another creature while you are either submerged or swimming in water.
+
+---
+
+#### Seafarer's Jacket
+*Wondrous item, Uncommon, (requires attunement)*
+
+This long captain's jacket carries with it an air of authority. Water slides off of it with ease and magically enhances your comfort in the ocean. You gain a swimming speed equal to your walking speed while wearing the jacket as well as proficiency with water vehicles and navigator's tools. If you already have proficiency with water vehicles and navigator's tools, your proficiency bonus is doubled when using them. In addition, you can use the jacket to cast the *fog cloud* spell at 2nd level. Once the jacket has been used to cast this spell, it can't be used to cast the spell again until the following dawn.
+
+---
+
+#### Seat Belt
+*Wondrous item, Common*
+
+While standing on a solid surface, you can begin to sit down in an open space as if there were a chair beneath you. When you would normally crouch or fall to the ground when doing this, you can mentally command the belt to summon an invisible, incorporeal chair as a bonus action instead. The chair can be of any style you choose, such as a stool, recliner, throne, or rocking chair, and can support up to 500 pounds. While it is comfortable, it is nevertheless invisible, and cannot be interacted with beyond simply sitting on. The chair disappears if it is no longer on a solid surface, you stand up, or if you're pushed or moved while sitting on it.
+
+---
+
+#### Seed of Rebirth
+*Wondrous item, Legendary, (requires attunement)*
+
+This fist-sized, magic seed can be attuned to by up to 4 creatures over the course of a long rest. Each creature attuned to the seed must participate in gently planting it in fertile soil. The seed immediately begins to flourish, growing into a majestic, flowering tree over the course of 7 days. The tree is 60 feet tall and 5 feet in diameter at its base, and its canopy extends out in a 30-foot radius from the center of the tree. The tree has a number of large limbs equal to the number of creatures attuned to the seed. Once planted in this way, no other creatures can attune to the seed. Your attunement to the seed is broken early if you commit a malicious affront to nature.
+When a creature attuned to the seed dies and remains dead for 1 minute, its soul returns to the tree and its body crumbles into a rich soil that recreates the *plant growth* spell, centered on the body. The soul returns to the tree regardless of the circumstance, distance, or plane of existence of the creature's death. The returned soul is stored in a shelled nut that the tree grows at the time of the creature's death. After 1d6 + 1 days, the nut falls from the tree and breaks apart, revealing the reborn creature inside. The creature is reborn as if by the *reincarnate* spell. Once a creature is reborn in this way, its attunement to the seed is broken.
+When a creature's attunement to the seed is broken, the branch associated with that creature withers and dies. The tree is magical and can't be destroyed by nonmagical means. If the tree is destroyed, all creatures attuned to the seed are no longer attuned to it. Any creature attuned to the seed is magically alerted if the tree is being attacked or destroyed, or if one of the branches begins to wither. Once all of the tree's branches wither in this way or are destroyed, the tree splits apart and disintegrates, releasing another seed of rebirth to the astral winds that carry it to a new location on a different plane of existence.
+
+---
+
+#### Septum Ring of the Great Minotaur
+*Wondrous item, Very Rare, (requires attunement)*
+
+This septum barbell is made from tempered gold and studded with rubies. While wearing this ring as a nose piercing, your Strength score increases by 2, to a maximum of 22, and you have advantage on Strength checks. In addition, your carrying capacity doubles, and you can perfectly recall any path you've traveled within the last 24 hours.
+
+---
+
+#### Serpent Dart
+*Ranged Weapon (dart), Uncommon*
+
+You can use an action to cause thick, emerald green poison to coat this magic dart. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 13 Constitution saving throw or take an extra 2d8 poison damage from the attack and become poisoned for 1 minute. Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Servitude Choker
+*Wondrous item, Uncommon, (requires attunement)*
+
+This necklace can animate small nonliving objects and have them fulfill simple tasks for you. As an action, you can drape or wrap the necklace around a Small or smaller nonmagical object that weighs less than 50 pounds and isn't attached to or carried by anything else. The adorned object springs to life, sprouting little arms and legs, and becomes a mindless creature under your control until you remove the necklace or it takes damage. The servant has an AC of 10 and a movement speed of 20 feet.
+As a bonus action, you can mentally command the servant if it's within 60 feet of you. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. The servant can't attack, activate magic items, or carry more than 10 pounds. Once you give it a command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command. If you command the servant to perform a task that would put it in danger or move it more than 60 feet away from you, the servant does nothing.
+The necklace can animate an object for up to 8 hours or until it takes damage. When the effect ends, the necklace can't be used again for another 1d8 hours.
+
+---
+
+#### Set of Numat's Trick Tubes
+*Wondrous item, Uncommon*
+
+This drab pair of empty ceramic cylinders are magically linked. Each vessel is 3 inches in diameter and 1 foot tall. Placing an item inside one of the vessels and closing the lid will magically teleport it to the second tube, making a quiet whoosh sound when it does. A similarly quiet thud can be heard when receiving an item. A tube can't send more than 2 pounds of material at a time and can't be used to send a creature. Both vessels must be on the same plane of existence and have their lids closed in order for an item to be teleported between them.
+
+---
+
+#### Set of Secret Scribe Candles
+*Wondrous item, Rare*
+
+This pair of candles are magically linked and never seems to run out of wick.
+You can light one of the candles to cause it to burn with a blue flame. By holding parchment over the flame, any ink on the page is burnt off, leaving the paper unmarked. When you finish using the candle in this way, you can extinguish the flame as you normally would. Once you do, the linked candle suddenly comes alight with a normal, orange fire, that cannot be extinguished by nonmagical means. The newly lit candle gives off a faint lavender scent. By holding a plain piece of parchment over the orange flame, the ink from the first piece of parchment is magically burnt onto the new one as the candle heats it. Once all the ink has been transcribed onto new parchment in this way, the orange flame winks out.
+
+---
+
+#### Shadenstaff
+*Very Rare, (requires attunement by a sorcerer, warlock, or wizard)*
+
+This staff is made from the reclaimed horn of a huge undead creature. While you're attuned to the staff, you have advantage on saving throws to retain your sanity against the influence of environment effects. The staff can also be used as a magic quarterstaff.
+The staff has 15 charges for the following properties and regains 2d6 + 3 expended charges daily at dusk. If you expend the last charge, roll a d20. On a 1, the staff disintegrates in a plume of pitch black smoke and emits a terrifying scream audible out to 300 feet.
+
+**Annihilating Strike.** When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d10 necrotic damage to the target.
+
+**Spells.** While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *calm emotions* (1 charge), *darkness* (2 charges), *dispel evil and good* (5 charges), *inflict wounds* (3rd-level version, 3 charges), or *circle of death* (6 charges).
+
+---
+
+#### Shadow Drinker
+*Melee Weapon (dagger), Very Rare, (requires attunement)*
+
+This wicked dagger can absorb the shadows cast by your enemies. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+When you hit a Small or larger hostile creature with a melee attack using this dagger, you can choose to absorb that creature's shadow as part of the attack. When you do, that creature no longer casts a shadow, and the dagger becomes shrouded in a dark haze that extends to you while you hold the dagger. While this haze is also surrounding you, you are invisible in areas of dim light and darkness.
+The dark haze surrounds the dagger for 10 minutes or until you end it as a bonus action. The haze ends early after you attack or cast a spell. If a creature is hit by the dagger while it's shrouded in this haze, the creature takes an extra 1d6 psychic damage from the attack. This bonus damage increases to 2d6 if the creature hit by the dagger is missing its shadow. Once the haze ends, the shadow immediately returns to the creature from whom it was taken.
+You can only have 1 shadow absorbed in this way at a time. Once you steal a creature's shadow, you can't steal that same creature's shadow again until the following dusk.
+
+**Curse.** You have vulnerability to radiant damage while you're attuned to this weapon.
+
+---
+
+#### Shadow Ink
+*Wondrous item, Rare*
+
+Once penned, this special ink can only be seen and read in total darkness. When in darkness, any written or tattooed words, illustrations, or other marks made with this ink glow with a soft, colored light. One bottle of shadow ink has enough ink to fill 10 pages with writing, illustrations, or other such markings.
+A *detect magic* spell reveals only that there is something faintly magical about the area where this ink has been used, but does not reveal the kind of magic or how to interact with it.
+
+---
+
+#### Shadow Ward
+*Wondrous item, Very Rare, (requires attunement)*
+
+This eerily still cloak seems to absorb some of the light that touches it. While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In addition, the cloak has 3 charges and regains 1d3 expended charges daily at dusk. When you're hit by an attack, you can use a reaction to expend 1 of the cloak's charges to halve the damage you take from the attack and teleport in a plume of black smoke to an unoccupied space you can see within 30 feet of you.
+
+---
+
+#### Shadowshawl
+*Wondrous item, Rare*
+
+This light gray shawl is made of thick fabric that looks like woven spider webs. While wearing this shawl with its hood up, your face is hidden within a small pocket of magical darkness. You can see through this darkness from beneath the hood as if it were nonmagical. If you have the Sunlight Sensitivity trait, you are unaffected by the trait while the hood is up. Pulling the hood up or down requires an action.
+
+---
+
+#### Shadowsmoke Dragon Pipe
+*Wondrous item, Rare*
+
+This magic pipe leaves behind odorless smoke that dissipates quickly. Its head easily detaches, allowing you to refill it. The pipe has 4 charges and regains 1d3 + 1 expended charges daily at dawn. As an action, you can expend 1 charge to blow a small, condensed smoke ring at a friendly creature (including yourself) that you can see within 30 feet of you.
+A creature can immediately turn invisible when it's affected by the smoke (no action required) or choose to wear the smoke as if it were a physical ring. This ring lasts for 1 minute or until the creature uses a bonus action on one of its turns to turn invisible. A creature turned invisible by the smoke ring reappears at the start of its next turn or when it attacks or cast a spell. A creature can only have 1 smoke ring at any time.
+
+---
+
+#### Shapeshifter's Circlet
+*Wondrous item, Common*
+
+This ivory circlet allows you to recreate some of the natural features of other creatures. While wearing the circlet, you can spend 1 minute to gently massage your ears, forehead, or temples. When you do, you can choose to create one of the following features or effects:
+
+- You can cover or replace your own ears with the form of another creature's.
+- You can summon one or more horns or antlers atop your head.
+- You can change the appearance of your eyes, including their color and pupil shape.
+You can only have 1 of these effects active at a time. The effect lasts until you dismiss it as a bonus action, remove the circlet, or fall unconscious. You don't gain any of the senses or abilities of another creature by recreating its physical features in this way.
+
+---
+
+#### Shared Burden
+*Wondrous item, Rare, (requires attunement by a warlock)*
+
+This set of chained rings and bracers is a sign of the pact you forged with your patron. When you attune to the item, the small spikes that line the inside of the bands become harmless and feel like a warm, gentle caress against your skin. Once attuned, you can also use it as a spellcasting focus.
+Whenever you would deal damage to a creature with a warlock spell or cantrip, you can choose to add your Charisma modifier (minimum 1) to the spell's damage. When you do, you take psychic damage equal to half your Charisma modifier (minimum 1), rounded up. This psychic damage ignores resistances and immunities.
+
+---
+
+#### Sharkrazor Mantle
+*Wondrous item, Rare, (requires attunement)*
+
+While wearing this magic shark-skinned cloak, you have a swimming speed of 60 feet and can breathe underwater. When a creature successfully grapples or restrains you by touching you, that creature takes 1d6 piercing damage. A creature takes this damage again at the start of each of its turns while it maintains this grapple or restraint.
+In addition, while wearing the cloak, you have advantage on Wisdom (Perception) and Wisdom (Survival) checks made to find or track a creature that's missing any of its hit points, and when you attack a creature you can't see that's below its hit point maximum, you make the attack as if you can see it.
+
+---
+
+#### Sheer Cold
+*Melee Weapon (battleaxe), Rare*
+
+The blade of this battleaxe is made from a shard of the Everglacier and never melts. Attacks with the axe deal cold damage instead of slashing, and you gain a +1 bonus to attack and damage rolls made with this magic weapon.
+When you roll a 20 on an attack roll with this weapon, the ground in the direction of the target in either a 15-foot cone or 30-foot-long, 5-foot-wide line (your choice) is covered in a layer of slick ice for 1 minute, making it difficult terrain. When a creature enters this area for the first time on a turn or starts its turn there, it must succeed on a DC 10 Dexterity saving throw or fall prone. In addition, the original target of the attack must succeed on a DC 15 Dexterity saving throw or be restrained by ice until the start of your next turn. The restrained target can use an action to make a DC 15 Strength check. On a success, the target is freed.
+
+---
+
+#### Shield of Yggdrasil
+*Shield (shield), Very Rare, (requires attunement by a creature with a Strength score of 17 or higher)*
+
+You must have a Strength of 17 or higher in order to wield this massive, magical tower shield. The shield is of dwarven make and functions as a small battlement, granting you an additional +1 bonus to your AC while you wield it. This bonus is in addition to the shield's normal bonus to AC.
+
+**Shield Plant.** As a bonus action, you can plant this shield on the ground to barricade yourself behind it, granting you half cover against ranged attacks from the direction you're facing. While you wield the planted shield, bludgeoning, piercing, and slashing damage you take from nonmagical weapons is reduced by 3, but your movement speed becomes 5 feet. You can uproot the shield to end this effect as an action.
+You can doff the shield when planting it by using an action to do so instead of a bonus action. The shield magically remains upright and in place and can be used as half cover to any creature standing immediately behind it in the space it was left in. The shield falls down when you fall unconscious or when knocked over following a successful DC 20 Strength (Athletics) check. You can move the shield while it's planted by donning the shield again.
+This shield has 3 charges and regains all expended charges each day at dawn. You can expend 1 charge when you plant this shield or later on a subsequent turn as a bonus action to send out metal roots along the ground in a 10-foot radius, centered on the shield. Enemy creatures treat this area as difficult terrain. Moving the shield also moves the roots. The roots remain until you uproot the shield or it falls over.
+
+---
+
+#### Shielding Turtle Sugarbombs
+*Wondrous item, Uncommon*
+
+These sticky chocolate candies are filled with an enchanted molasses and caramel center and come in packs of 2. You can eat one of these sugarbombs as an action. When you do, your movement speed is reduced by 10 feet for 1 minute. If you are proficient with shields and are wearing one on your back, you gain a +1 bonus to your AC while your speed is reduced in this way. If you're wielding a shield, you don't gain this bonus to your AC.
+
+**Upset Stomach.** You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become poisoned for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
+
+---
+
+#### Signet Rings of Blindness, Deafness, and Silence
+*Ring, Rare*
+
+Each of these three signets is decorated with the carving of a skull and a pair of skeletal hands that cover either its eyes (blindness), ears (deafness), or mouth (in an area of silence). Each ring has 1 charge, which it regains each day at dawn. If you are wearing the corresponding signet when you are blinded, deafened, or in an area of magical silence, you can expend the ring's charge (no action required) to be cured of the condition or speak a word or phrase (such as a verbal arcane components) that can be heard through magical silence. Wearing the rings together as a set combines their collective charges: potentially allowing you to use one ring's properties multiple times.
+
+---
+
+#### Signet Rings of the Fey Court
+*Ring, Very Rare, (requires attunement by an elf, half-elf, or other fey creature)*
+
+This set of wooden rings once belonged to a powerful fey creature who ruled over a domain on their native plane of existence. You must be wearing all four rings in order to attune to and use their magic. While wearing the rings, you know the *druidcraft* cantrip. In addition, you gain the elf's Trance racial trait if you don't already have it.
+
+**Season's Resistance.** Each of the four rings has a corresponding season: autumn, spring, summer, or winter. Each ring contains 2 charges and regains all expended charges when you finish a long rest. You can expend 1 of a particular ring's charges as a reaction when you take damage of a type corresponding to that ring in order to gain resistance to that damage type until the start of your next turn, including against the triggering effect: autumn (necrotic damage resistance), spring (radiant damage resistance), summer (fire damage resistance), or winter (cold damage resistance).
+
+**Magic Resistance.** Alternatively, you can expend any 2 charges from the rings as a reaction when you're affected by a hostile spell or other magical effect in order to gain advantage on saving throws against spells and magical effects until the start of your next turn. The 2 charges do not need to be from the same ring.
+Once a ring has no remaining charges, the small landscape adorning the top of it withers until it regains its charges.
+
+---
+
+#### Silken Socks of Slickening
+*Wondrous item, Uncommon*
+
+This pair of magic, smooth socks are iridescent and oily to the touch. While wearing both socks on your feet, you can use them to cast the *grease* spell as an action (save DC 13). When you do, the spell targets a 10-foot square area adjacent to you. The magical oil runs off the socks to the ground at your feet, causing the ground to become slick. Once used, this property of the socks can't be used again until the next dawn.
+
+---
+
+#### Silver Lycan Chime
+*Wondrous item, Uncommon*
+
+This small silver bell exudes divination magic, especially while under a full moon. When hung, the bell rings a unique, magical melody if a shapechanger passes no more than 15 feet underneath it. Different kinds of shapechangers cause the bell to emit a different sound. The melody is quiet but is nevertheless audible out to 100 feet.
+Under a full moon, the range of the bell's magic changes. During a full moon, any shapechanger within 60 feet of the bell causes it to play its melody.
+
+---
+
+#### Singing Stein
+*Wondrous item, Common*
+
+While this pewter stein holds at least a sip's worth of potable alcohol, the face adorning it comes alive to sing songs based on the kind of drink. The stein is not sentient, but does have a pleasant singing voice. If there are multiple steins in the same room, they can sing together in harmony if they have the same drinks within them.
+The stein sings songs slightly out of key if the drink inside is poisoned, which can be heard following a successful Wisdom (Perception) check as determined by the GM. If there are multiple kinds of alcohol within it, the stein either alternates between song types or does its best to combine their various lyrics.
+
+**Singing Stein Songs**
+
+| Example Drink | Type of Song |
+| --- | --- |
+| Wine | Ballad |
+| Rum | Sea Shanty |
+| Ale | Drinking Song |
+
+---
+
+#### Sirensong Silencer
+*Wondrous item, Uncommon*
+
+While wearing the cuff, you have advantage on saving throws against being charmed. In addition, tapping the ear cuff twice deafens you, although you can still faintly hear the sound of the ocean (no action required). Tapping the cuff twice again allows you to hear normally once more.
+
+---
+
+#### Sling of the Tiny Giant
+*Ranged Weapon (sling), Rare, (requires attunement)*
+
+This wicked sling is devastating against foes larger than yourself. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and when you hit a creature with a ranged attack using this sling, the creature takes an extra 1d4 force damage for each size larger than you it is (up to an extra 3d4 damage).
+In addition, when you roll a 20 on an attack roll made with the sling, the target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from you and knocked prone. If the affected creature is Large or larger, it has disadvantage on the saving throw.
+
+---
+
+#### Smash Potatoes
+*Wondrous item, Common*
+
+This hearty root vegetable is grown by the clerics and champions of a god of war and combat, whose strength is said to make its way onto the Material Plane through their gardens. Eating one of these vaguely fist-shaped potatoes will cause your hands to itch for the thrill of combat. Eating a potato increases your unarmed damage to 1d4 for 1 hour. Each additional eaten potato increases the duration by 1 hour. You can eat up to 3 potatoes before needing to finish a long rest to benefit from them again. If you already have an unarmed combat die that is 1d4 or higher, this vegetable has no effect but is nevertheless delicious.
+
+---
+
+#### Snuff
+*Melee Weapon (sickle), Very Rare, (requires attunement)*
+
+This dark metal sickle was forged with an unusually harsh angle and has a unique power over light and shadow. You gain a +1 bonus to attack and damage rolls made with this magic weapon. You can speak the sickle's command word as an action to dispel magical lights and extinguish nonmagical flames within 60 feet of you. Magical lights dispelled in this way are affected as if they were targeted by the *dispel magic* spell. Once this property of the sickle has been used, it can't be used again until the next dusk.
+As an action, you can draw your hand over the sickle's handle to magically extend it downward: turning the sickle into the form of a scythe wreathed in shadow. While in this form, the sickle has the two-handed and reach properties. While holding the weapon, you can return the sickle to its one-handed form using a bonus action.
+This weapon is particularly lethal to creatures. Creatures hit by this weapon take an extra 1d6 psychic damage. This bonus increases to 2d6 if the weapon is transformed into the scythe.
+
+---
+
+#### Snugglebeast (Dragon)
+*Wondrous item, Rare*
+
+When a creature regains hit points at the end of a short rest by spending one or more of its Hit Dice, that creature can regain extra hit points if it spends that short rest snuggling with one of these enchanted toys. The rare dragon variant of the snugglebeast restores 3d6 hit points. Once this property of the snugglebeast has been used by a creature, that creature can't benefit from the same snugglebeast again in this way until it finishes a long rest.
+
+---
+
+#### Snugglebeast (Owlbear)
+*Wondrous item, Common*
+
+When a creature regains hit points at the end of a short rest by spending one or more of its Hit Dice, that creature can regain extra hit points if it spends that short rest snuggling with one of these enchanted toys. The common owlbear variant of the snugglebeast restores 1d6 hit points. Once this property of the snugglebeast has been used by a creature, that creature can't benefit from the same snugglebeast again in this way until it finishes a long rest.
+
+---
+
+#### Snugglebeast (Tarrasque)
+*Wondrous item, Very Rare*
+
+When a creature regains hit points at the end of a short rest by spending one or more of its Hit Dice, that creature can regain extra hit points if it spends that short rest snuggling with one of these enchanted toys. The very rare tarrasque variant of the snugglebeast restores 4d6 hit points. Once this property of the snugglebeast has been used by a creature, that creature can't benefit from the same snugglebeast again in this way until it finishes a long rest.
+
+---
+
+#### Snugglebeast (Unicorn)
+*Wondrous item, Uncommon*
+
+When a creature regains hit points at the end of a short rest by spending one or more of its Hit Dice, that creature can regain extra hit points if it spends that short rest snuggling with one of these enchanted toys. The uncommon unicorn variant of the snugglebeast restores 2d6 hit points. Once this property of the snugglebeast has been used by a creature, that creature can't benefit from the same snugglebeast again in this way until it finishes a long rest.
+
+---
+
+#### Snugglebeasts
+*Wondrous item, Varies*
+
+Multiple variations of this item exist, as listed below:
+
+- **Snugglebeast (Owlbear)**
+- **Snugglebeast (Unicorn)**
+- **Snugglebeast (Dragon)**
+- **Snugglebeast (Tarrasque)**
+
+---
+
+#### Socks of the Well-Rested
+*Wondrous item, Uncommon*
+
+Wearing these comfortable enchanted socks allows you to recover an additional Hit Die (up to your maximum) upon finishing a long rest. You must be wearing both socks on your feet in order to gain this benefit. You can only benefit from wearing one pair of these socks at a time.
+
+---
+
+#### Spellwoven Robes
+*Wondrous item, Uncommon*
+
+These robes are spun from special, magic-sensitive threads, causing arcane glyphs to appear on the robe while you wear it whenever you cast a spell. While wearing these robes and no other armor, your AC is equal to 10 + your spellcasting ability modifier. In addition, whenever you cast a spell of 1st level or higher, you can change the apparent style, color, and apparent material of the robe. Regardless of its appearance, it is always a robe and its weight remains the same.
+
+---
+
+#### Spiderbite Daggers
+*Melee Weapon (dagger), Rare, (requires attunement)*
+
+This pair of daggers is made using the harvested fangs of a large, venomous spider. When you hit the same creature on your turn with both daggers, that creature must succeed on a DC 13 Constitution saving throw or take an extra 2d4 poison damage and become poisoned until the end of its next turn.
+
+---
+
+#### Spire Seed
+*Wondrous item, Legendary, (requires attunement)*
+
+This large tree seed is 1 foot long and surrounded by a protective cone. If you're attuned to the seed and plant it and its cone in soil, it immediately takes root and begins to grow rapidly. It takes 1 month for the seed to fully grow. If you are dead for longer than 1 minute or are on a different plane of existence than the seed for more than 1 day while it grows, the tree dies and the seed is destroyed.
+The stem of the seed's cone is vaguely key-shaped. When planted, the stem breaks off in your hand. While you're attuned to the seed, the stem magically remains on your person at all times.
+Once fully grown, the spire tree is 300 feet tall with a 20-foot radius. It tapers gently inward towards the top of the tree. At the base of this magic tree is a door large enough for Medium creatures to enter. The door is guarded by a dryad who is loyal to you and any creature you choose. The dryad accepts the seed's stem as proof of ownership and uses it as a key to open the door. Once opened, your attunement to the seed ends, the tree belongs to you, and both you and other allies you designate to the dryad can enter and leave the tree at will. Your attunement to the seed does not end if you are more than 100 feet away from it, and can only be ended early by a *wish* spell. If it does, the key disintegrates and the door cannot be opened.
+Inside the tree are 10 floors. You choose how to distribute the floors throughout the tree. A wooden spiral staircase climbs upward through the center of the tree and floors. Each floor has 10 small windows that can't be seen from outside the tree. In addition, the interior of the tree can't be the target of divination magic or entered by teleportation or by extradimensional or interplanar means.
+The canopy of the tree extends 30 feet beyond the base of the tree. Soil beneath the tree's canopy is exceptionally rich and fertile.
+The tree has 500 hit points, immunity to damage from nonmagical weapons that aren't siege weapons, and resistance to siege weapons and all other damage. The door has 100 hit points. The tree regains 1d6 lost hit points every day after taking damage. If a part of the tree, such as the door, is destroyed, a new one regrows after 7 days.
+If the tree is attacked, it immediately creates a treant at its base to defend it. Roll initiative for the treant, which has its own turns and does its best to defend the tree. Once a treant is created in this way, a new one can't be created until the next dawn. A treant disappears after 24 hours, and there can only be one summoned treant at a time. Neither the treant nor the dryad can move farther than 1 mile from the tree. If the dryad is slain, it reappears the following dawn at the base of the tree. If you kill the dryad, the tree becomes a nonmagical tree that is still hollow inside with the floors you'd chosen, but its windows are lost.
+The tree creates another spire seed once every 100 years.
+
+---
+
+#### Spirit Pike
+*Melee Weapon (pike), Rare, (requires attunement by a cleric)*
+
+If you're not proficient with pikes, you are nevertheless proficient with the spirit pike while you're attuned to it. When you cast the *spiritual weapon* spell, you can dissolve this weapon into the air and command the spell's spectral weapon to take the form of the spirit pike. Your spell attacks with this spectral weapon deal force damage equal to 1d10 + your spellcasting modifier instead of its normal damage. The spell's damage still increases by 1d8 for every two slot levels you use to cast the spell above 2nd.
+Your hands are left free while the pike is dissolved in this way. When the spell ends, the pike reappears in your hands or appears on the ground at your feet if your hands are full.
+In addition, the weapon has 4 charges and regains all of them each day at dawn. When you hit a target with a weapon or spell attack using the pike as either a physical or spectral weapon, you can expend 1 charge to deal 1d8 radiant damage to the target in addition to the attack's damage.
+
+---
+
+#### Splintershot
+*Ranged Weapon (shortbow), Rare*
+
+This shortbow can cause an arrow to shatter and unleash a devastating spray of magical shrapnel. You can say the weapon's command word as an action to destroy 1 nonmagical arrow and send splintering shards of arcane energy out in front of you. When you do, creatures within a 15-foot cone must make a DC 15 Dexterity saving throw. On a failed save, an affected creature takes 2d6 magical piercing damage, or 3d6 if the creature was within 5 feet of you.
+
+---
+
+#### Splitter
+*Melee Weapon (halberd), Very Rare, (requires attunement)*
+
+This halberd's haft is made of rough, dark wood and is miraculously easy to heft. The bladed end of the halberd looks like a hatchet that's been absorbed by the hewn wood. While holding the halberd with two hands, you can speak its command word as a bonus action to split the weapon into its more basic components. When you do, the halberd deconstructs in your hands, leaving you with a **handaxe** in one hand and a **quarterstaff** in the other. Both the handaxe and quarterstaff have the light property. You can combine the two weapons to reform the halberd by speaking its command word again as a bonus action while you're holding both the handaxe and quarterstaff.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. If the weapon is split into the handaxe and quarterstaff, the bonus is +1 with each weapon instead.
+
+**Halberd.** If you're wielding the halberd and roll a 10 on the damage die for an attack against a creature, that creature's energy is sapped. The creature's speed is reduced by 10 feet until the end of its next turn, and your speed is increased by 10 feet until the end of your turn.
+
+**Handaxe and Quarterstaff.** If you're wielding the handaxe and quarterstaff in either hand, you gain a +1 bonus to AC and can add your ability modifier to the damage of the second attack when you engage in two-weapon fighting. The quarterstaff deals necrotic damage, and its damage die is maximized if it hits a nonmagical plant or plant creature. If you make a ranged attack with the handaxe, it flies back to your hand immediately after the attack.
+
+---
+
+#### Squasher
+*Melee Weapon (greatclub), Uncommon*
+
+This enormous squash is strangely durable and makes for a functional magic weapon. druid wielding squasher are proficient with the weapon and can use their Wisdom modifier for the weapon's attack and damage rolls instead of Strength.
+
+---
+
+#### Staff of Favorable Winds
+*Very Rare, (requires attunement by a druid, sorcerer, warlock, or wizard)*
+
+While you hold this staff, areas affected by strong winds do not count as difficult terrain for you.
+The staff has 10 charges. While holding it, you can expend 1 or more of its charges to cast one of the following spells from it using the required casting time as well as your spell save DC: *cone of cold* (5 charges), *feather fall* (1 charge), *gust of wind* (2 charges), or *wind wall* (3 charges).
+In addition, while holding the staff, you can create a harmless sensory effect using the air. You can cause leaves to rustle, slam shutters closed in a sudden gust, or cause your clothing to billow dramatically.
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to dust and is blown away by a sudden flurry of wind.
+
+---
+
+#### Staff of the Four Seasons
+*Very Rare, (requires attunement by a druid, sorcerer, warlock, or wizard)*
+
+This magical staff changes with the seasons. You can spend 10 minutes concentrating on the staff to change it to a different season. It remains in this new form for the next 8 hours before reverting to the current season again.
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. In addition, your melee attacks with the staff deal an extra 1d8 cold (Winter), radiant (Spring), fire (Summer), or necrotic (Autumn) damage based on its season as long as there is at least 1 charge remaining on the staff.
+This staff has 10 charges. While holding the staff, you can expend 1 or more of its charges to cast one of the following spells from it (depending on its season) using your spell attack modifier and spell save DC:
+
+**Winter.** *Color spray* (1 charge), *darkvision* (2 charges), *sleet storm* (3 charges)
+
+**Spring.** *Guiding bolt* (1 charge), *moonbeam* (2 charges), *plant growth* (3 charges)
+
+**Summer.** *Burning hands* (1 charge), *spike growth* (2 charges), *fireball* (3 charges)
+
+**Autumn.** *Inflict wounds* (1 charge), *pass without trace* (2 charges), *vampiric touch* (3 charges)
+The staff regains 1d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses all foliage and vitality, becoming a gnarled, nonmagical quarterstaff.
+
+---
+
+#### Staff of the Magpie
+*Rare, (requires attunement by a spellcaster)*
+
+This magic stone staff weighs 10 pounds and has the bust of a magpie at its top. While holding the staff, you gain a +1 bonus to Intelligence (Investigation) checks made to search for treasure or a specific item you're looking for.
+The staff has 10 charges. While holding the staff, you can use your action to cast one of the following spells from it: *fly* (3 charges) or *locate object* (2 charges). The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the staff's last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff as the magpie springs to life and flies away.
+
+---
+
+#### Staff of the Mirage
+*Rare, (requires attunement by a wizard)*
+
+This magical staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes and is lost.
+
+**Spells.** You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC. You gain a +2 bonus to your spell save DC when casting one of these spells from the staff: *disguise self* (1 charge), *hallucinatory terrain* (4 charges), *invisibility* (2 charges), *mirror image* (2 charges), *mislead* (5 charges), or *silent image* (1 charge).
+
+---
+
+#### Staff of the Mustang
+*Rare, (requires attunement)*
+
+This dark wooden staff is carved in the shape of a majestic stallion. The staff has 10 charges. While holding the staff, you can use an action to expend 1 of its charges to cast the *phantom steed* spell from it. Alternatively, while holding the staff, you can expend 1 of its charges and speak the staff's command word as a bonus action to take the Dash action.
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff breaks in two as if bitten and is destroyed. When this happens, the sound of hooves can be heard galloping away in an indiscernible direction.
+
+---
+
+#### Staff of the Reverent Warrior
+*Rare, (requires attunement by a spellcaster)*
+
+This staff was made as a means of worship rather than war by a retired warrior using the weapons he'd once wielded. The staff is adorned with blades and channels the inner focus of a warrior. This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. In addition, attacks made with this weapon can deal either bludgeoning, piercing, or slashing damage (your choice).
+This staff has 10 charges. While attuned to the staff, you know the *true strike* cantrip and can cast it at will. When you cast this spell while holding the staff, you can expend 1 or more of its charges to enhance the spell in one or more of the following ways:
+
+- You can expend 1 charge to reveal the target's weaknesses to your allies instead of merely yourself, causing the next attack roll made against the target to have advantage instead.
+- You can expend 1 charge to cast the spell as a bonus action, instead of as an action.
+- You can expend 1 charge to cast the spell without it requiring concentration.
+- You can expend 1 charge to cause the target to take an extra 2d6 damage from the next attack that hits it.
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff, but can still be used to deal either bludgeoning, piercing, or slashing damage with its attacks.
+
+---
+
+#### Stalaga Spear
+*Melee Weapon (spear), Very Rare, (requires attunement)*
+
+This magic spear is made of dark, polished granite and has a large ruby set in its head. While made of stone, it weighs no more than a normal spear and is enchanted to prevent it from shattering. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+The spear has 4 charges and regains 1d4 expended charges daily at dawn. While holding this spear in a space on or next to a surface made of unworked stone or earth, you can use an action and expend 1 of its charges to plunge the spear into that stone or earth surface. The spear vanishes into the surface and emerges as a sharp stone spike that is 1 foot wide and 10 feet long from another stone or earthen surface that you can see within 60 feet of you, such as the ground or a cave wall. The spike erupts from the surface and forces any creature within a line that is 5 feet wide and 10 feet long to make a DC 16 Dexterity saving throw. On a failed save, a creature takes 4d6 piercing damage and is pushed up to 5 feet away from the spike. On a success, a creature takes half as much damage and isn't pushed.
+While you're within 60 feet of the stone spike and in a space on or next to a surface of unworked stone or earth, you can use a bonus action to speak the spear's command word to recall it. The stone spike crumbles and the spear inside vanishes back into the surface it came from before reemerging from the surface next to you into your open hand. If you don't have an open hand, it falls to the ground at your feet.
+
+---
+
+#### Starbreaker
+*Melee Weapon (morningstar), Rare, (requires attunement)*
+
+This glowing morningstar casts bright light in a 20-foot radius and dim light for an additional 20 feet while you hold it. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Targets hit by the weapon take an extra 1d4 radiant damage. In addition, you can use an action to cast the *daylight* spell using the weapon. Once the weapon has been used to cast this spell, it can't do so again until the following dawn.
+
+---
+
+#### Starmetal Ring
+*Ring, Rare*
+
+This roughly crafted metal ring seems to have an otherworldly pull on other metallic items.
+While wearing the ring, you can spend 1 hour holding onto an object weighing no more than 25 pounds that is at least 50% metal. If the ring and metallic item are in contact for the full hour, they form a powerful and magically controllable magnetic bond. You can only have one item bound to the ring in this way at a time.
+While the bound item is within 40 feet from you and unobstructed, you can use a bonus action on your turn to magically pull it up to 20 feet toward you. The returning item bounces harmlessly against creatures and objects as it passes by.
+
+---
+
+#### Starmetal Shield
+*Shield (shield), Legendary, (requires attunement)*
+
+This open metal shield and gauntlet offer a +1 bonus to your armor class instead of a shield's normal bonus. Whenever you're the target of an attack made with a metal weapon or projectile, the bonus becomes +3 instead. The shield hovers above the gauntlet to protect you as if you were wielding it, leaving your hands free.
+
+**Shooting Star.** As an action, you can throw the shield at up to 3 clustered targets you can see before returning to your arm. Choose up to 3 targets or points. The first target or point must be within 30 feet of you, and any additional targets or points must be within 10 feet of the one before it. You can't select the same target more than once.
+Make a ranged attack with the shield against each target. You are proficient with these attacks and add either your Dexterity or Strength modifier to its attack and damage rolls. Targets hit by the attack take 2d8 magical slashing damage. Once the shield reaches a target or point, it bounces towards the next target or point. The shield flies back to the gauntlet after reaching its final destination, bouncing harmlessly off of anything obstructing its path.
+
+---
+
+#### Starmetal Solar Axe
+*Melee Weapon (greataxe), Very Rare, (requires attunement)*
+
+This magic weapon is forged using iron from the stars. While you're attuned to this weapon, you can call upon its latent stellar energy to catalyze change within the metal and create endothermic and exothermic reactions. The weapon can be fused into a greataxe or fissioned into two separated **battleaxe**. The weapon has the following properties based on its current state:
+
+**Fused State.** While wielding the fused greataxe, you gain a +1 bonus to attack and damage rolls made with this magic weapon. While you hold this axe, flames erupt from its edges and a small star burns in its center. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. The light is sunlight. The greataxe deals an extra 2d6 fire damage to any target it hits.
+
+**Fissioned State.** While wielding the two fissioned battleaxes, you gain a +1 bonus to attack and damage rolls made with them. The weapons are bitter cold to the touch and deal an extra 1d6 cold damage to any target they hit. The axes orbit you slowly while they aren't being held or stowed. You can retrieve a floating battleaxe as if it were sheathed. In addition, when you take the Attack action, you can use a bonus action to make one melee weapon attack with an orbiting battleaxe against a creature you can see within 20 feet of you.
+
+**State Change.** This weapon can change between its two states using the following properties:
+
+**Fission.** While holding the fused greataxe, you can use a bonus action to speak the weapon's command word to split it apart into its fissioned state. When you do, electrical energy is released, forcing creatures within 30 feet of you to make a DC 17 Dexterity saving throw. A creature takes 3d6 lightning damage on a failed save, or half as much lightning damage on a successful one. This property can't be used again for 12 hours.
+
+**Fusion.** While holding both battleaxes, you can use a bonus action to speak the weapon's other command word to recombine the two battleaxes into its fused state. When you do, the sudden generation of heat creates a wave of fire around you, forcing creatures within 30 feet of you to make a DC 17 Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one. This property can't be used again for 12 hours.
+
+---
+
+#### Starmetal Striker
+*Melee Weapon (light hammer), Rare, (requires attunement)*
+
+This light hammer was forged using the remains of a comet and is cold to the touch. You gain a +2 bonus to attack and damage rolls made with this magic weapon, and when you hit with an attack using it, the target takes an extra 1d4 cold damage. The hammer leaves behind a crackling mist when thrown and immediately flies back to your hand after making a ranged attack with it.
+
+---
+
+#### Steps of the Trickster
+*Wondrous item, Common*
+
+These shoes allow you to freely change the sound of your steps when you wear them. Changing the sound of your steps doesn't change their volume, but can make them sound as though the shoes are made from a different material. For example, your steps can sound like a beggar's bare feet, a dancer's sharp heels, or an approaching guard's metal boots.
+
+---
+
+#### Storm Sickle
+*Melee Weapon (sickle), Rare*
+
+This sickle sparks with electricity as beads of water form and drip from its blade. The weapon can make ranged attacks by slashing through the air to send out blades of storming wind. Ranged attacks with the sickle deal 1d4 slashing damage, use Strength as your modifier for its attack and damage rolls, and have a normal range of 20 feet and a long range of 60 feet. When you hit with an attack using this magic sickle, the target takes an extra 1d4 lightning damage.
+
+---
+
+#### Storm Thrower Harpoon
+*Melee Weapon (trident), Legendary, (requires attunement)*
+
+This weapon has a +3 bonus to attack and damage rolls made with this magical weapon.
+The trident has a chain attached to its handle that can be used to retrieve the weapon once it's been thrown using a bonus action. When you hit with a ranged attack using this weapon, it deals an additional 1d8 lightning damage.
+In addition, this trident acts as a conduit for the sky's ferocious power. Immediately after hitting a creature with the trident, you can call down a bolt of lightning upon it, forcing it and all creatures within 5 feet to make a DC 16 Dexterity saving throw. On a failed save, creatures take 6d10 lightning damage, or half as much on a success. Creatures have disadvantage on the saving throw if they're submerged in water or wearing metal armor. You are immune to the lightning damage caused by this effect. This ability fails if the creatures are obstructed from the sky. Once you use this ability, you cannot do so again until the next dawn.
+
+**Impale.** You can use your action to try to impale and pull a creature toward you. If your target is a creature that is no more than one size larger than you, you can make a ranged weapon attack against it using the trident. If you hit, you can attempt to pull the impaled creature toward you by making a Strength (Athletics) check contested by the target's Strength (Athletics) check. If you succeed, you can pull the creature up to 20 feet toward you.
+
+---
+
+#### Stormstruck Staff
+*Rare*
+
+This wooden staff has been scarred by lightning and embedded with an amplifying crystal at its head. You gain a +1 bonus to attack and damage rolls made with this magic weapon. Small sparks of electricity arc from the crystal, dealing an extra 1 lightning damage to any target hit by the weapon. The gem glows brilliantly and pulses with electrical energy for 1 minute after either the quarterstaff takes lightning damage or you take lightning damage while holding it from any source (other than itself), or while the weapon is under the effects of the *shillelagh* spell. While the gem is glowing in this way, the extra lightning damage increases to 1d6, and the gem emits bright light out to 10 feet and dim light for an additional 10 feet.
+
+---
+
+#### Sundersludge Net
+*Ranged Weapon (net), Uncommon, (requires attunement)*
+
+This gelatinous net is made with the enchanted remains of a gray ooze. A creature takes 1d6 acid damage when it's restrained by the net and again at the end of each of its turns while it remains restrained by it. If the creature is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers whenever it takes acid damage at the end of one of its turns. The armor is destroyed if the penalty reduces its AC to 10. A creature other than you who touches the net takes 1d6 acid damage.
+The torn net is harmless. If more than half of the net can be salvaged and stored within a container large enough to hold 1 gallon of liquid for 12 hours, the net is repaired and can be used once more. Your attunement to the net ends if the net remains destroyed for longer than 2 days.
+You're immune to damage from the net while you're attuned to it. Picking up the net after throwing it renders it harmless until the next time you throw it. The net deals no acid damage if no creature is attuned to it.
+
+**Special.** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. The net's sticky composition makes it more difficult to escape than a mundane one. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. The net has resistance to all damage types. Dealing 10 slashing damage to the net (AC 12) also frees the creature without harming it, ending the effect and tearing the net apart. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+
+---
+
+#### Switch
+*Rod, Very Rare, (requires attunement by a druid)*
+
+This simple, springy rod is made of twisting vines and twigs. While attuned to the rod, you can expend 1 use of your wild shape feature as a bonus action to activate it. The rod stays active for a number of hours equal to half your druid level (rounded down).
+When you activate the rod and again on subsequent turns as a bonus action while the rod is active, you can transform the rod into a bludgeoning or piercing weapon of your choice that has neither the loading nor reach property. You're proficient with this weapon and can use Wisdom as your modifier for its attack and damage rolls instead of Dexterity or Strength. A weapon that uses ammunition magically creates its own. Alternatively, you can transform switch back into its rod form if you so choose. Regardless of the weapon you make, targets hit by it take an extra 1d8 damage of the weapon's type. If the weapon you create has the light property, you can make a weapon attack with it using a bonus action.
+While the rod is activated, you can use an action to expend a second use of your wild shape feature and extend the rod's barked exterior to your body. This tree-like armor can take on any form that you choose. You gain temporary hit points equal to 4 times your Druid level, and your armor class can't be lower than 16 while the rod is active. Using this property of the activated rod does not extend its remaining duration.
+Switch becomes inactive at the end of its duration, you fall to 0 hit points, or end it early as a bonus action. When it's inactive, it reverts to its normal rod form.
+
+---
+
+#### Sword of Resonance
+*Melee Weapon (longsword), Rare, (requires attunement by a bard)*
+
+This peculiar brass longsword is hollow and has lute strings that run along its blade, allowing you to use this sword as both a lute and spellcasting focus. You're proficient with this lute while you're attuned to the sword. This sword also has the finesse property due to the hollow blade's reduced weight.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the sword's hollow metal blade magically amplifies the music made when using it to inspire allies. Whenever you expend a use of your bardic inspiration, the sword begins to reverberate with thunderous energy. The next time you hit a target before the end of your next turn with an attack using the sword, that target takes an extra 1d6 thunder damage from the attack.
+
+---
+
+#### Sword of the Spelldrinker
+*Melee Weapon (longsword), Legendary, (requires attunement)*
+
+This sword seems to absorb any light that touches it, making it appear darker than the deepest midnight. You gain a +3 bonus to attack and damage rolls made with this magic weapon. While you hold this sword, you treat any magical light, darkness, or atmospheric effect within 30 feet of you as if it were nonmagical and breathable.
+In addition, this sword has 2 charges and regains 1d2 expended charges daily at dusk. While holding the sword, you can expend 1 of its charges to cast the *counterspell* spell (5th-level version) from it. If you successfully interrupt a spell in this way, you can choose to absorb it into the sword instead of countering it. If the triggering spell was cast at 6th level or higher, your *counterspell* automatically fails. The absorbed spell must have a casting time of one action or bonus action. The sword can have only one absorbed spell at a time.
+You can use an action while holding the sword to release an absorbed spell. When you do, the spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell.
+The interrupted spell remains absorbed by the sword for up to 8 hours or until released. Absorbing a new spell replaces the one stored within the sword.
+
+---
+
+## T
+
+#### Talyard the Great's Wand of Power
+*Wondrous Item, Rare*
+
+This normal-looking spruce stick is actually the wand of a famous drunkard. A drunken creature that sees the stick perceives it as a magnificent, colorful wand that radiates with an awesome power.
+This wand has 3 charges and regains 1d3 expended charges daily at dusk. While you're drunk and are holding the wand, you can use an action to cast one of the following spells from the wand, even if you are incapable of casting spells: *heroism* (1 charge), *lesser restoration* (2 charges), or *thaumaturgy* (no charges). If you don't have a spellcasting ability modifier, Charisma is your spellcasting ability when casting these spells (minimum +1 modifier).
+
+---
+
+#### Tear of Gaia
+*Wondrous item, Common*
+
+As an action, you can crush this small, green gem underfoot to activate its magic. Plants within a 10-foot radius of you immediately become healthy and full. Fruit and vegetable-bearing plants begin to grow their produce, which grow ripe over the course of 1 hour. If there are no plants within range or you crush the gem against an inorganic material, fertile topsoil 1 inch deep spreads across the area. Healthy green grass immediately grows from the new soil.
+
+---
+
+#### Tectonic Gauntlets
+*Wondrous item, Artifact, (requires attunement)*
+
+This magical set of stone gauntlets imbue your fists with the power of the Elemental Plane of Earth. While wearing and attuned to the gauntlets, your unarmed attacks become magical and deal 1d8 bludgeoning damage in place of the normal damage of your unarmed strike (unless it's already higher). In addition, these gloves have 15 charges and regain 1d10 + 5 expended charges each day at dawn. When you make an unarmed attack with your fists, you can expend up to 5 charges to extend your fist's reach by 5 feet for each expended charge. Your unarmed strikes deal double damage to objects and structures.
+
+**Powerglove.** When you hit a target with an unarmed strike, you can expend up to 3 charges to deal an extra 1d8 bludgeoning damage for each charge spent. If you spend any charges in this way, the target must also succeed on a DC 16 Strength saving throw or be pushed back 5 feet.
+
+**Geomancy.** Alternatively, you can expend 1 or more charges on your turn to cast the following spells using the gloves (save DC 16): *earthquake* (8 charges), *move earth* (6 charges), *shatter* (2 charges), *spike growth* (2 charges, with stone projections), or *wall of stone* (5 charges).
+
+**Tectonic Plate Armor.** As an action, you can allow rocks to envelop and protect your body. For 1 hour, you gain resistance to bludgeoning, piercing, and slashing damage, your movement speed is halved, and you make Dexterity checks and saving throws with disadvantage. You can end this feature early as a bonus action. While enveloped in this way, you can burrow through nonmagical, unworked earth and stone at a speed of 30 feet. While doing so, you don't disturb the material you move through. If you end this ability while still underground, you're forced out of the earth to the nearest space available and take 1d10 force damage. Once this feature of the gloves has been used, it can't be used again until you take a short or long rest.
+
+**Curse.** Your mind and body become sluggish once you attune to the gloves. The gauntlets become one with your flesh and prevent you from removing them. Your movement speed is reduced by 5 feet, and your Intelligence score is reduced by 4 (to a minimum of 7) while cursed. The curse remains even if the attunement ends but can be undone by any effect that removes a curse such as a *greater restoration* or *remove curse* spell, allowing you to remove the gloves and end the curse on you.
+
+**Random Properties.** The gauntlets have the following random properties:
+
+- 1 Artifact Properties; Minor Beneficial Properties
+- 1 Artifact Properties; Minor Detrimental Properties
+
+**Destroying the Gauntlets.** The gloves can only be destroyed in the depths of the crystalline mines of Durhun on the Elemental Plane of Earth where they were first created.
+
+---
+
+#### Telescoping Bladelance
+*Melee Weapon (lance), Uncommon*
+
+This mechanical lance has bladed edges and has the heavy property. You can use a bonus action on your turn to extend or retract the weapon by twisting its handle. The weapon is a normal lance while it's extended. If the lance is retracted, the end of the weapon rests inside the wider, bladed base and is considered to be a **greatsword** instead. This greatsword deals 1d12 slashing damage instead of 2d6.
+While the weapon is retracted, you can choose to extend it as a bonus action immediately after hitting a target with an attack. If the target is a Large or smaller creature, it's pushed 5 feet away from you.
+
+**Special.** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+
+---
+
+#### Tempest Griffon Feather Cape
+*Wondrous item, Very Rare, (requires attunement)*
+
+You have resistance to lightning damage and make Dexterity saving throws to resist or avoid lightning spells and effects with advantage while wearing this cape.
+While wearing the cape, you can use an action to speak its command word to transform into a bolt of lightning. When you do, choose an unoccupied space that you can see within 120 feet of you. You disappear from your current location and travel in a line that is 5 feet wide and up to 120 feet long to the chosen space. Any creature in the line or within 5 feet of either your old or new location must make a DC 16 Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. Once this property of the cape has been used, it can't be used again until the next dawn.
+
+---
+
+#### Tethervine Quiver
+*Wondrous item, Uncommon, (requires attunement)*
+
+This seemingly overgrown quiver keeps a large plant magically concealed inside it. The quiver can store up to 20 arrows or bolts. When you draw a piece of ammunition from the quiver, you can speak the quiver's command word as a bonus action to magically connect the end of the ammunition to the plant inside the quiver. The plant is a rope-like vine that flies effortlessly behind a fired piece of ammunition. While wearing the quiver, you can use a bonus action to magically retract the vine up to 60 feet back into the quiver. Any object weighing less than 25 pounds hit by a connected piece of ammunition is pulled back toward the quiver when its retracted in this way. Despite the quiver's limitations, the rope-like vine can hold up to 250 pounds on its own.
+If you hit a creature with an arrow or bolt that was connected to the vine, the vine magically disconnects itself and falls from the ammunition. You can disconnect the vine from the ammunition by speaking its command word again or by severing the vine from the quiver as a bonus action. Once severed, the vine is considered to be a mundane length of **hempen rope (50 feet)**.
+You can only fire a connected piece of ammunition as far as you have the vine to. The plant grows up to 120 feet long and regrows up to 30 feet of vine daily at dawn.
+
+---
+
+#### The Griffon's Saddlebag
+*Wondrous item, Artifact*
+
+These leather bags have the stylized face of a griffon on their front and appear across the multiverse in strange locations. One may be found in the belly of a dragon, while another in the limbs of a great tree. Regardless of where it's found, a *Griffon's Saddlebag* is typically discovered by an adventurer with a destiny.
+The saddlebags are made by a great, six-armed griffon on the Astral Plane. Believed by some to be a demigod of pocket dimensions and craftsmen everywhere, the griffon is a patron of artificers and creators across the multiverse. The griffon creates magical items in its great forge using materials collected from various planes of existence to add to its collection. While no one knows exactly how to contact the griffon, it has a knack for knowing what items are needed by whom.
+
+**Superior Holding.** This 1-foot-wide bag always weighs 3 pounds, regardless of what's inside it. It functions as a bag of holding that can only be pierced by another artifact. Placing a **bag of holding**, **Heward's handy haversack**, **portable hole**, or similar item inside the extradimensional space created by the saddlebag, or vice versa, destroys the extradimensional item but leaves the saddlebag unharmed. Any item stored within the other extradimensional space is magically moved to the space within the saddlebag instead. If doing so overloads the bag, random contents from either space are scattered in the Astral Plane.
+
+**Magic Courier.** At the GM's discretion, the saddlebag's beak opens up to reveal a letter. The magical script can be read by all creatures with an Intelligence score of 4 or higher. The note is a delivery request or similar that includes the name of an item as well as either specific or vague descriptions of a person or place. At the bottom of the letter is a price listed in coins or other form of payment, as well as a date or time depending on its urgency.
+If the saddlebag is brought to the described person or place within the allotted time, it dispenses the magical item into the hand of the appropriate recipient. If the payment isn't received by the bag within 1 hour of dispensing the magic item, the item vanishes and is lost. After receiving the payment for an item in this way, the bag's beak reopens to dispense a reward for the courier.
+
+**Sell Magic Items.** The saddlebag has a connection to the griffon's forge on the Astral Plane. Depending on the magic item, you can sell a magic item to the saddlebag for half the cost of its base price.
+
+**Spells.** The saddlebag has 8 charges and regains 1d6 + 2 expended charges daily at dawn. While wearing the saddlebag, you can expend 1 or more of its charges to cast the following spells from it: *detect magic* (1 charge), *identify* (1 charge), or *legend lore* (5 charges).
+
+**Additional Spells.** At the GM's discretion, such as after reaching certain milestones or completing *Magic Courier* quests, the saddlebag may offer the following additional spells that can be cast from it: *blink* (3 charges), *dimension door* (4 charges), *divination* (4 charges), *etherealness* (7 charges), *fly* (3 charges), *Mordenkainen's magnificent mansion* (7 charges), *plane shift* (7 charges), or *Leomund's secret chest* (4 charges).
+
+**Sentience.** The saddlebag is a sentient chaotic neutral bag with an Intelligence of 13, a Wisdom of 15, and a Charisma of 16. It has hearing and normal vision out to a range of 60 feet.
+The bag can speak, read, and understand Common. When in the presence of only creatures it trusts, the bag's beak moves when it speaks. Otherwise, the bag communicates telepathically with its wearer. The bag can speak and communicate with griffons.
+
+**Personality.** The bag's purpose is to carry, collect, and deliver magic items. Different bags have different personalities, but they are for the most part largely pleasant to talk to. Their voices are bird-like and are filled with occasional coos and squawks, and their stitched eyes widen, squint, and move expressively.
+If the bag's wearer or allies fail to fulfill *Magic Courier* quests, it may stop offering its magic to them. If it does, their items may be lost or inaccessible within the bag, or potentially spat out. While the bag provides the names of item recipients and delivery locations, it doesn't know any more information than what was provided to it by the astral griffon. Regardless, it does its best to help its wearer and allies find the specified person or location on the letter.
+
+**Destroying the Griffon's Saddlebag.** While there is no way to permanently destroy the saddlebag, piercing it with an artifact returns it to its place of origin for repair before it's returned to the multiverse in a new location. Placing a *Griffon's Saddlebag* inside the extradimensional space created by another *Griffon's Saddlebag* returns both items to their place of origin and sends all the items stored within them to the griffon's forge on the Astral Plane.
+
+---
+
+#### The Rose Basket
+*Melee Weapon (rapier), Very Rare, (requires attunement)*
+
+This silver rapier has a rose adorning its crossguard and pommel and has thorns lining its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon deals an extra 1d8 radiant damage to any shapechanger or fey creature it hits.
+
+**Field of Roses.** As an action, you can speak the rapier's command word and touch its point to the ground at your feet. When you do, silver rosebushes sprout from the ground in a 25-foot square, centered on your location. The area becomes difficult terrain, and when a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels. While holding this rapier, you can pass through this area as if it were normal terrain, and you don't take damage from moving within it. The rosebushes remain for 1 minute or until you dismiss them as a bonus action. Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Thunderous Flail
+*Melee Weapon (flail), Rare, (requires attunement)*
+
+This flail has 3 charges and regains 1d3 expended charges each day at dawn. You can expend 1 charge to cast the *thunderwave* spell (save DC 15). The ball of the flail is the origin of the spell. As long as the flail has at least 1 charge, you deal an extra 1d6 lightning damage to the first target you hit with it on each of your turns.
+If you make a melee attack using the flail, you can immediately expend 1 charge to cast *thunderwave* as a bonus action in the direction of your last attacked target.
+The ball of the flail is attached to the chain with a powerful magnetic connection that can be released at will. You can make a ranged attack using the flail by releasing the ball mid-swing. This attack has a normal range of 20 feet and long range of 60. Strength is your ability modifier for this attack. While the ball is within 60 feet of you, you can magnetically pull it back up to 20 feet towards you as a bonus action. It magically reattaches itself to the chain when it enters the same space as you.
+While the ball is detached, you can still use the flail to cast *thunderwave*. When you do, the spell's area of effect becomes a 10-foot radius sphere centered on the ball.
+
+---
+
+#### Thwackstaff
+*Uncommon, (requires attunement)*
+
+This festive quarterstaff is decorated with ribbons and other glittering elements. It is perfectly balanced and seems to be made to perform with. This magic quarterstaff has the finesse property and grants you a +1 bonus to Charisma (Performance) checks you make in order to put on an entertaining performance using the quarterstaff.
+
+**Punishing Parry.** This quarterstaff has 3 charges and regains all expended charges daily at dawn. While holding this quarterstaff, you can expend 1 of its charges as a reaction when a creature that you can see hits you with a melee attack. When you do, roll a d6. You gain a bonus to AC equal to the number rolled against that attack, potentially causing it to miss you. If the attack misses you as a result of this bonus to AC, you can immediately make one attack with the quarterstaff against the attacking creature as part of your reaction. If you hit, the attack does extra damage equal to the number rolled on the d6.
+
+---
+
+#### Timber
+*Melee Weapon (handaxe), Very Rare, (requires attunement)*
+
+This magical axe is imbued with a destructive force that builds with each consecutive strike. You have a bonus to attack and damage rolls made with this magic weapon equal to the number of charges it currently has. The handaxe gains 1 charge each time you make a successful attack with it: up to a maximum of 3 charges. When timber gains its third charge, the built-up force explodes; it loses all charges, and the target takes an extra 3d6 force damage, or 6d6 if it's made of wood. When this happens, if the target is no more than one size larger than you, you can choose to push it up to 10 feet away from you.
+Timber's charges last for up to 1 minute. It loses all charges if you make an attack against a new target, make an attack with a different weapon, or miss with an attack using timber.
+
+---
+
+#### Timepiercer
+*Melee Weapon (rapier), Very Rare, (requires attunement)*
+
+This item appears to be a sword hilt that has a small hole on either end of it. The hilt is made of clear quartz and contains an hourglass with sand inside it. Despite the holes on the hilt, the sand never seems to flow out of the hourglass. You can speak the hilt's command word as a bonus action to cause it to form a thin blade of sand. The hourglass spills sand from the bottom of the hilt that circulates up and around to form the blade and guard of the rapier before returning to the hourglass again through the hole at the top. You can speak the hilt's command word again as a bonus action to cause all the sand to return to the hourglass. While the blade is formed, you gain a +2 bonus to attack and damage rolls made with this magic weapon.
+While holding the hilt, you can use an action to cast either the *haste* or *slow* spell (save DC 16) from it. You have advantage on Constitution saving throws you make in order to maintain concentration on a spell cast in this way. Once a spell has been cast using the hilt, it can't be used to cast that spell again until the next dawn. The sands in the hourglass move quickly while you concentrate on a *haste* spell cast in this way, or more slowly when you concentrate on a *slow* spell.
+
+---
+
+#### Timeshifter's Mantle
+*Wondrous item, Rare*
+
+If a Large or smaller creature hits you with a melee attack while you're wearing this cloak, you can use your reaction to cause time to briefly warp around you. After taking the damage from the attack, you can immediately move up to half your speed without provoking opportunity attacks, and the attacker's speed is reduced to 0 until the start of its next turn. Once this property of the cloak has been used, it can't be used again until the next dawn.
+
+---
+
+#### Toadstone
+*Wondrous item, Uncommon, (requires attunement)*
+
+This small jade carving of a frog dangles from a simple cord of leather to be worn as a necklace. While you wear it, you gain a swimming speed equal to your walking speed and can hold your breath for up to 1 hour. In addition, you can cast the *jump* spell using the necklace, targeting only yourself. Once the necklace has been used to cast this spell, it can't do so again until the next dusk.
+
+**Curse.** This necklace is cursed. Attuning to it curses you until you're targeted by the *remove curse* spell or similar magic. Removing the necklace fails to end the curse on you. While you're cursed, your skin is perpetually slightly wet and clammy, and you have only an appetite for insects and other grubs instead of the foods you would normally enjoy eating.
+
+---
+
+#### Tome of Dreams
+*Wondrous item, Uncommon*
+
+This beautifully embossed book is full of gripping short stories. You can read a story from the book in 10 minutes. The underlying nature of each story is unclear, leaving your subconscious mind to slowly process and unpack its deeper meanings over the course of your next long rest. The next time you finish a long rest after reading a story from the book, roll a d20. On a roll of 10 or lower, you take 2d4 psychic damage as your mind is plagued with intense terrors from the story you read. On a roll of 11 or higher, you gain 2d4 temporary hit points as your mind is filled with joy and courage instead. If you start a story but don't finish reading it, nothing happens the next time you finish a long rest.
+
+---
+
+#### Torchbearer's Reach
+*Melee Weapon (whip), Uncommon*
+
+This weapon has the light property and deals fire damage instead of slashing. When held, a magical flame forms at the top of the whip's handle. The flame gives off bright light in a 20-foot radius and dim light for another 20 feet. You can stretch the flame to form a 10-foot long coil of fire by snapping the handle and flame down as if to crack the whip (no action required). The flame doesn't hurt you while you hold the whip. You can snuff the fire out with your hand or blow it out to extinguish it using a bonus action.
+The whip's flame is intangible and can't be used to bind a creature or retrieve objects from afar, but can be used to light other fires.
+
+---
+
+#### Torrent Taiaha
+*Rare, (requires attunement)*
+
+A mote of swirling, magic water circles the top of this wooden staff. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it. When you make a melee attack with the staff, you can choose to extend and lash out with the water, instead of the staff. When you do, the water has a range of 10 feet and deals 1d4 bludgeoning damage if it hits. You're proficient with this attack and use your Wisdom modifier for its attack and damage rolls. After the attack, the water shrinks back to the staff.
+While holding the staff, you can stand on and move across any liquid surface as if it were solid ground. If you end your turn on a liquid in this way, you sink into it as normal until you stand on solid ground again. In addition, while holding the staff, you can use an action to cast the *control water* spell (*Flood* or *Part Water* only) from it. The spell ends early if you are no longer holding the staff. Once the staff's been used to cast this spell, it can't do so again until the next dawn.
+
+---
+
+#### Tote of Tricky Treat Sugarbombs
+*Wondrous item, Common*
+
+This canvas bag holds 5d8 + 10 clove and pumpkin candies inside. A small illusory face appears over the sewn-on pumpkin at night. Each candy has a minor magical effect that lasts for 1 minute unless otherwise specified. Some effects are pleasant, whereas some are mischievous. You can eat a piece of candy using an action. When you do, roll on the table below to determine the candy's effect:
+
+**Tricky Treat Sugarbomb Effects**
+
+| d20 | Effect |
+| --- | --- |
+| 1 | The candy seems to have spoiled, forcing you to succeed on a DC 13 Constitution saving throw or spend your action on your next turn retching and reeling. |
+| 2 | Your face appears to melt: revealing the skull beneath it. The effect is harmless and illusory. |
+| 3 | Any food you eat or water you drink taste like ash and blood, respectively. |
+| 4 | Other creatures' eyes appear to be hollowed out and blackened to you. |
+| 5 | Your ears turn a different, vibrant color at the start of each of your turns. |
+| 6 | Your hair falls out and regrows over the next minute. |
+| 7 | Your laughter becomes maniacal, and you have trouble stopping once you've started. |
+| 8 | Your pupils resemble a snake's. |
+| 9 | You hear a fly near your ear, but you can neither see it nor swat it away. |
+| 10 | Your skin turns orange, and light spills forth from your eyes and mouth, casting bright light in a 10-foot radius and dim light for another 10 feet. |
+| 11 | Confetti bursts from the top of your head, and small children can be heard laughing. |
+| 12 | You sprout tiny, flightless bat wings. |
+| 13 | You know the location of the nearest pumpkin within 1 mile. |
+| 14 | Nearby crows and ravens land on your shoulders or outstretched arm. |
+| 15 | A friendly, floppy wizard hat appears on your head. After 1 minute, it disappears in a cloud of stars. |
+| 16 | Any alcohol in your stomach or that you drink becomes nonalcoholic. |
+| 17 | Your voice becomes smooth and golden, allowing you to add your proficiency bonus to Charisma (Performance) checks to sing. If you are already proficient with this skill, you add double your proficiency bonus instead. |
+| 18 | Any food you eat or water you drink tastes delicious and reminds you of your favorite pastimes. |
+| 19 | You gain darkvision out to a range of 30 feet. If you already have darkvision, its range is increased by 30 feet. |
+| 20 | You can magically sense if someone is possessed, and you can see creatures that are invisible. |
+
+---
+
+#### Trident of the Dryad
+*Melee Weapon (trident), Uncommon, (requires attunement)*
+
+This magical wooden trident has 4 charges and regains 1d3 + 1 expended charges daily at dawn. Once on each of your turns while holding the trident, you can expend 1 of its charges (no action required) and use 10 feet of your movement to step magically into one living tree within your reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+
+**Tree Form.** You can use an action to plant the bottom of this trident in fertile ground and speak its command word to transform it into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. Once on your turn, you can expend 1 of the trident's charges (no action required) and use 10 feet of your movement to step into this tree and emerge from another point on its trunk or within its branches.
+The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by detect magic. While touching the tree, you can use an action to speak its command word again to return the trident to its normal form. Any creature in the tree falls when it reverts to a trident. Once this property of the trident has been used, it can't be used again until the next dawn.
+
+---
+
+#### Trident of the Hydra
+*Melee Weapon (trident), Rare*
+
+This oddly shaped trident is made of hammered mithral and has a strangely short handle. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon can't be wielded with two hands. When you throw this trident, the forked end of the weapon magically splits apart to form three separate spears: allowing you to make 3 attacks with it instead of 1. After the attack, the trident regrows its missing prongs from one of the separated spears, and the other two spears dissolve.
+
+---
+
+#### Tub of Churning and Fermentation
+*Wondrous item, Uncommon*
+
+This squat wooden and ceramic tub has a screw-on lid that fits snuggly around its base. The tub can hold up to 2 gallons of liquid or 1 cubic foot of material within it. You can leave a liquid or other perishable in the tub and secure the lid before saying the name of the end result you'd like the contents to turn into. If you say the name of a possible result, the tub clicks lightly before locking its lid shut for 10 minutes.
+After 10 minutes, the tub gives a second, louder click as the lid unlocks. The contents of the tub will have been stirred, processed, or otherwise fermented in such a way to generate the commanded end product. Adding extra ingredients into the tub can impact the end result's flavor.
+Once the tub has been used in this way, it can't be used again until the following dawn.
+
+**Tub of Churning and Fermentation Results**
+
+| Example Ingredients | Potential Outcomes |
+| --- | --- |
+| Milk | Butter, cheese, yogurt |
+| Vinegar, cucumbers | Pickles |
+| Apples | Applesauce, hard cider |
+| Assorted fruits | Wine |
+| Cabbage | Sauerkraut |
+
+---
+
+## U
+
+#### Uorik the Conqueror's Juice Cup
+*Wondrous item, Common*
+
+This brass cup changes the flavor of any water it's holding. As a bonus action, you can whisper the name of a fruit into the cup. If the cup is filled with water, the water's color and flavors change to resemble that kind of fruit juice. Saying the name of another fruit changes the water's color and flavors again. Regardless of its color and flavors, the water is still only water. Shouting into the cup causes the juice to effervesce and bubble. If the water is poisoned, the drink tastes foul and badly fermented.
+
+---
+
+## V
+
+#### Vancian Helm
+*Wondrous item, Rare, (requires attunement)*
+
+This helmet is made from the reclaimed and partially disenchanted remains of a shield guardian. The helm is no longer bound to an amulet. You gain a +1 bonus to AC while you wear this helmet.
+
+**Spell Storing.** Any creature can cast a spell of 1st through 4th level into it by touching the helm as the spell is cast. The spell has no effect, other than to be stored in the helm. The helm can only hold one spell at a time.
+While wearing this helmet, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+If you are wearing the helmet when a spell of 5th level or higher is cast into the helm, the spell is expended without effect and you take 2d6 psychic damage. While a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it.
+
+---
+
+#### Vigilus
+*Ranged Weapon (hand crossbow), Rare, (requires attunement)*
+
+This hand crossbow has a small spring-loaded case of 6 bolts attached to its side that automatically reload the crossbow whenever it's fired. While the case has bolts in it, the crossbow ignores its loading property. Once the case is empty, a creature can use an action to reload it with another 6 bolts.
+As an action, you can unfurl the crossbow's three collapsible legs and plant it firmly on the ground to become a Small defensive construct. Once deployed, the crossbow magically draws itself and loads the next bolt in its case, if any. While you're within 30 feet of the crossbow, you can use a bonus action on each of your turns to command it to attack a target you can see within 30 feet of it. The crossbow uses your attack roll and ability score modifier for its damage rolls. The first time an invisible creature enters a space within 30 feet of the crossbow on its turn, the crossbow emits a small chirping sound audible out to 100 feet.
+The deployed crossbow has 30 hit points, AC 12, and automatically fails Dexterity and Strength saving throws but passes all others. If it's reduced to 0 hit points, it falls over and can't be deployed again in this way for 1 minute. You can quickly retrieve the deployed crossbow using a bonus action when you enter the same space as it.
+
+---
+
+#### Visage of Delight and Disaster
+*Wondrous item, Legendary, (requires attunement by a creature with a Charisma score of 17 or higher)*
+
+While wearing this mask, you gain 2 bardic inspiration dice, which are d10s. These dice are separate from any Bardic Inspiration dice you have from another source. You can use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die. These dice are the same as normal Bardic Inspiration dice, but carry with them additional benefits based on the mood of your performance:
+
+**Delight.** If you inspire a creature with a joyful or uplifting performance, that creature has advantage on saving throws to resist becoming frightened for 1 minute following your performance. In addition, when that creature uses the Bardic Inspiration die, it gains temporary hit points equal to twice the amount it rolled on the die.
+
+**Disaster.** If you inspire a creature with a grim or haunting performance, that creature has advantage on saving throws to resist becoming charmed for 1 minute following your performance. In addition, when that creature hits a target with a weapon attack, it can expend the Bardic Inspiration die to deal psychic damage to the target, in addition to the weapon's damage. This psychic damage is equal to twice the number rolled on the Bardic Inspiration die.
+The expression of the mask subtly changes to reflect your expression or mouth's movement behind the mask. You regain all expended Bardic Inspiration dice when you finish a short or long rest.
+
+---
+
+#### Volcanic Boots
+*Wondrous item, Rare, (requires attunement)*
+
+These heavy volcanic stones rearrange themselves to better fit your feet once you've attuned to them. Despite their appearance, the boots are comfortably light and warm. While wearing the boots, you have resistance to fire damage.
+The boots have 10 charges and regain 1d6 + 4 expended charges daily at dawn. When you walk at least 5 feet on solid ground while wearing the boots, you can expend 1 or more of their charges as part of that movement. Choose an unoccupied space you just walked through for each expended charge: the ground and air in a 5-foot cube within that space becomes volcanic and impossibly hot. Any creature other than you that enters or starts its turn in that space must succeed on a DC 15 Dexterity saving throw or take 2d6 fire damage.
+The volcanic effect lasts for 1 minute or until you end it early as a bonus action or fall unconscious.
+
+---
+
+#### Volt Gauntlets
+*Wondrous item, Rare*
+
+These metallic gauntlets have several sharp points extending from its knuckles and are lined with an insulating material. Unarmed strikes made with your fists while wearing these gauntlets deal piercing damage instead of bludgeoning. In addition, the gauntlets have 6 charges and regain 1d6 expended charges each day at dawn. When you hit a creature with an unarmed strike with the gauntlets, you can expend 1 of their charges to deal an extra 1d8 lightning damage. When you do, the target must succeed on a DC 15 Constitution saving throw or be unable to take reactions until the start of its next turn. While the gauntlets hold at least 1 charge, they give off occasional snaps and sparks of electricity.
+
+---
+
+#### Vox Helm
+*Wondrous item, Common*
+
+This metal helm has a second guard that rests in front of your mouth and alters your voice. You can raise and lower this guard using an action. While wearing the helmet with the guard lowered, your voice sounds obviously enchanted and can be adjusted to modify its pitch, masculinity or femininity, and reverberation at will (no action required).
+
+---
+
+## W
+
+#### Wand of Whispers
+*Wondrous Item, Rare, (requires attunement by a spellcaster)*
+
+These wands are sometimes found in the hands of clandestine mages posing as simple townsfolk. Its magic wax and iron design resembles a candle and candlestick. The wand produces a harmless, magical flame that is indistinguishable from normal candlelight, although the wax never melts or changes shape. The flame is harmless and casts bright light in a 5-foot radius and dim light for another 5 feet. While holding the wand, you can extinguish or relight the flame as a bonus action.
+This wand has 7 charges. While holding the wand, you can use an action to expend some of its charges to cast either the *message* (no charges) or *sending* spell (3 charges) from it. Alternatively, when you cast a spell of 5th level or lower while holding the wand, you can expend 1 of the wand's charges per spell slot level to ignore the spell's verbal components. Any spell that requires a target to hear its verbal component gains no benefit from this property.
+The wand regains 1d6 + 1 expended charges daily at dusk. If you expend the wand's last charge, roll a d20. On a 1, the magical flame burns out and the wand becomes a mundane candle and candlestick.
+
+---
+
+#### War Standard of Battlecries
+*Wondrous item, Very Rare, (requires attunement)*
+
+This magic battle standard reinforces the fervor of nearby allies. The standard stands up to 10 feet tall but can be collapsed down to 2 feet tall for transport. You can extend the standard to its full height as an action and either hold it aloft with one hand or plant it upright in an unoccupied space on solid ground. You can retrieve the planted standard when you enter its space (no action required). While the standard is extended, allies within 15 feet of it at the start of combat gain a +3 bonus to their initiative.
+This standard has 4 charges and regains 1d4 expended charges daily at dawn. If you're within 15 feet of the extended standard, you can use a bonus action to expend 1 of its charges to shout the command word, "Charge!" and immediately take the Dash action (no action required). When you do, other allies within 15 feet of the standard can take the Dash action as a bonus action on their next turn.
+You can concentrate on the banner over the course of a short rest to change the emblem depicted on it.
+
+---
+
+#### Warmind Wand
+*Wondrous Item, Rare, (requires attunement by a half-orc or orc)*
+
+This wand is made from the shattered hilt and jawbone of a defeated warband leader. It has 7 charges for the following properties and regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand releases a small gasp of breath as its magic escapes it, leaving the wand a nonmagical and mundane sword hilt.
+While holding the wand, you can use it to command and bolster your allies by extending 1 or more of its charges to use the following properties:
+
+**Warband Strike.** When you take the Attack action, you can forgo one of your attacks and expend 1 charge as a bonus action to direct one of your allies to attack. When you do, choose a friendly creature who can see or hear you. That creature can immediately use its reaction to make one weapon attack.
+
+**Form Ranks.** You can expend 1 charge as an action to command one of your allies to move to a more advantageous position and bolster their resolve. When you do, choose a friendly creature who can see or hear you. That creature gains 2d4 + 2 temporary hit points that last for 1 minute and can use its reaction to move up to half its speed, without provoking opportunity attacks.
+
+**Forced Endurance.** When a friendly creature other than you within 30 feet that can see or hear you is reduced to 0 hit points, you can use your reaction and expend 2 charges to prevent that creature from falling unconscious and drop to 1 hit point instead. Once this property has been used on a creature, that creature can't benefit from it again until it finishes a long rest.
+
+**Unyielding Critical.** When a friendly creature other than you within 30 feet that can see or hear you scores a critical hit, you can use your reaction and expend 1 charge to amplify the brutality of the attack and add an extra 2d4 damage to the total of the attack's damage roll.
+
+---
+
+#### Wavebender's Leiomano
+*Melee Weapon (glaive), Rare*
+
+This long wooden oar is ornamented with burnt designs and has a line of shark teeth along its edge. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding the leiomano, you can use an action to cast the *control water* spell (*Redirect Flow* only) from it. The spell ends early if you are no longer holding the weapon. Once the weapon's been used to cast this spell, it can't do so again until the next dawn.
+In addition, if you use this weapon as an oar when rowing a ship, that ship's rowing speed is increased by 5 feet for each wavebender's leiomano being used to row it.
+
+---
+
+#### Webgrip Rucksack
+*Wondrous item, Common*
+
+This spiderskin bag is lined with a thin layer of adhesive web. Items stored inside the bag are held in place by the web, preventing stored items from clattering around or being removed without your knowledge. While you're wearing the bag, creatures other than you have disadvantage on Dexterity (Sleight of Hand) checks to steal from the bag.
+The bag and its eight straps adhere to the surface they're pressed against, such as your torso or the wall of a tavern. If you're wearing the bag, you can gently remove the straps from your body as an action. Other creatures that attempt to wrench the bag from you make any Strength checks to do so with disadvantage. The bag can hold up to 8 cubic feet or 80 pounds. Spiderskin is pliable and stretches easily, allowing the bag to shrink and grow to accommodate the objects placed inside to some degree.
+Even though the eyes adorning the bag are lifeless and unmoving, they still blink on rare occasion.
+
+---
+
+#### Wildman's Spinning Cleaver
+*Melee Weapon (handaxe), Very Rare, (requires attunement by a barbarian)*
+
+This elaborate weapon channels your bloodlust. You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit with a ranged attack with this weapon while you're raging, you can add your Rage Damage bonus to the attack's damage. Immediately after making a ranged attack, the weapon flies back to your hand.
+In addition, once on each of your turns when you make a ranged attack with this weapon while you're raging, you can choose to make another ranged attack with it against a different target within 10 feet of the first. This second target can be beyond the handaxe's normal or long ranges. When you make this special attack, the axe flies back to your hand after it hits or misses the second target.
+
+---
+
+#### Windrazor
+*Melee Weapon (longsword), Legendary, (requires attunement)*
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has the finesse property. The sword has 10 charges and regains 1d6 + 4 expended charges daily at dawn. While holding the blade, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 17): *heroism* (1 charge) or *wind wall* (3 charges). Your spellcasting modifier is +5 when casting *heroism* in this way.
+
+**Air Rend.** This weapon can manipulate the air around it to generate blades of wind, delivering devastating slashing attacks from range. When you take the Attack action, you can expend 1 charge to make a special ranged attack with the sword against a target you can see up to 30 feet away. If you have the Extra Attack feature, you can expend 1 or more charges to use this special attack for any of the attacks you make as part of the Attack action.
+
+**Sudden Storm.** When you hold the sword and take damage from a creature within 5 feet of you, you can use your reaction to expend 1 charge and make a melee attack with the sword against that creature. Additionally, if a creature hits you with a ranged weapon attack, you can use your reaction to expend 1 charge and slash at the projectile, reducing the damage you take by 1d10 + 5. If you reduce the damage to 0, you destroy the projectile.
+
+---
+
+#### Windswept Wyvernplate
+*half plate armor, Rare, (requires attunement)*
+
+This half plate armor seems to grow lighter when you inhale. You can hold your breath at any point to both lighten the armor and quiet its clattering, negating the normal disadvantage on Dexterity (Stealth) checks imposed by half plate armor.
+In addition, if you fall while wearing this armor, you can hold your breath as a reaction to cast the *feather fall* spell, targeting only yourself, at will.
+
+---
+
+#### Winter's Embrace
+*breastplate, Very Rare, (requires attunement)*
+
+This frosty armor is enchanted to keep its wearer at a constant, comfortable temperature. While wearing this armor, you have resistance to cold and fire damage and ignore difficult terrain created by ice or snow. In addition, while wearing the armor, you can use an action to cast the *ice storm* spell (6th-level version, save DC 16) from it. When cast in this way, the spell is centered on your location, and you are immune to its effects. Once this property has been used, it can't be used again until the next dawn.
+
+---
+
+#### Wisplight Lantern
+*Wondrous item, Rare*
+
+This dark hooded lantern glows with a will-o'-wisp's flame that can reveal the final moments of a creature's life. The lantern sheds bright blue light in a 20-foot radius and dim light for an additional 20 feet. You can use an action to reduce the light's reach or cover it completely.
+The lantern has 4 charges and regains 1d3 + 1 expended charges each day at dusk. As an action while holding the lantern, you can expend 1 of its charges and touch it to a Large or smaller corpse. When you do, a ghostly blue illusion of the fallen creature appears above its corpse and silently reenacts the last 6 seconds of its conscious life. The illusion only shows the creature's actions, such as reacting to an unseen monster or trying to extinguish the flames of a fiery trap, but does not show the responsible monster or effect. This ability has no effect on undead creatures. Once a corpse's death has been shown, it cannot be shown again.
+Alternatively, while holding the lantern, you can use an action to expend 1 of its charges to speak its command word. If there are any undead creatures within 60 feet of you that aren't behind total cover, the lantern's light flashes red before returning to its normal blue glow.
+
+---
+
+#### Wooden Chain of the Unbroken Circle
+*chain shirt, Rare, (requires attunement by a druid or ranger)*
+
+This magic chain shirt is crafted using strange wooden links enchanted by a militant circle of druids. The wooden chain is reinforced with old, natural magic that responds to the wearer's reverent connection to nature. While wearing this armor, you gain a bonus to your AC equal to your Wisdom modifier (max 2) in addition to the armor's normal AC.
+
+---
+
+#### Wyvernwing
+*Melee Weapon (greatsword), Rare, (requires attunement)*
+
+This enchanted greatsword contains a wyvern's wing that's stretched between three thin, collapsed blades. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+The sword has 4 charges and regains 1d4 expended charges each day at dawn. As an action, you can expend 1 charge to flick open the sword like a fan and swing it down to create a buffeting wind. When you do, you can choose for the wind to affect creatures in either a 15-foot cone in front of you or all creatures within 5 feet of you. Creatures affected by this wind in the area you designate are forced to make a DC 15 Dexterity saving throw. On a failure, a creature takes 2d6 bludgeoning damage and is pushed up to 10 feet away from you. On a success, the creature takes half damage and isn't pushed. The weapon magically collapses again as the wind settles.
+
+---
+
+## Z
+
+#### Zafu of the Wandering Mind
+*Wondrous item, Rare, (requires attunement by a monk)*
+
+This soft, elaborately stitched pillow set focuses the intensity of your meditation. It takes 1 minute to settle into a meditation while sitting on the pillows. You can hold a light conversation when meditating, but are otherwise unable to move or take actions while you do. While meditating in this way, you can levitate yourself, including the pillows, up to 5 feet in the air (no action required). You meditate in this way until you decide to end it (no action required), or until you take damage or are no longer on the pillows. While you're within 100 feet of at least one of the pillows, you can speak their command word as a bonus action to cause them to be shunted into a special pocket dimension. Speaking their command word again as a bonus action returns them softly to an empty space within 5 feet of you.
+In addition, this pillow has 3 charges and regains 1d3 expended charges daily at dawn. While meditating on the pillows, you can expend 1 of their charges to cast the *arcane eye* spell, without breaking your meditation. You lose concentration on this spell when cast in this way if you end your meditation.
+
+---
+
