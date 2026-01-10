@@ -98,44 +98,44 @@ If someone is ever looking for some sort of rare magic from some specialized sch
 
 ### Pirate Factions
 
-Piracy is an unfortunate reality of wildspace. Where there is trade, there are those who would take it by force. The following factions are among the most notorious-or tragic-pirate groups operating across the spheres.
+Where there is trade, there are those who would take it by force. The following are among the most notorious pirate groups operating across the spheres.
 
 #### The Wrist
 
-Somewhere in the Astral Sea, the severed hand of a dead god drifts through the endless silver void. Pale as bleached bone, its fingers curl upward like crooked spires, and from the wrist-stump seeps an endless slow bleed of divine ichor-black, thick, and wrong. This is the domain of The Wrist.
+The severed hand of a dead god drifts through the Astral Sea. Bone-white, the size of a small moon, its fingers curl upward like crooked spires. Black ichor bleeds from the wrist-stump in an endless, slow seep. The vampires made it their home. They call it The Wrist.
 
-The vampires who claim this place call themselves **Debtors**. They harvest the god's blood-what they call the **Debt**-and drinking it makes them stronger, faster, and harder to kill. But it changes them. The oldest Debtors barely resemble vampires anymore: sunken, stretched, asymmetrical, their bodies warped by consuming something never meant for mortal or undead consumption.
+The vampires who rule here call themselves **Debtors**. They harvest the god's blood and drink it. They call it the **Debt**. It makes them stronger, faster, harder to kill. It also warps them. The oldest Debtors have become something else entirely: sunken, stretched, asymmetrical. They barely look like vampires anymore.
 
-The Wrist doesn't pirate for gold. They pirate for **blood** and **souls**. Their ships carry living cargo the way merchant vessels carry grain-not all are drained immediately. Some are kept, traded, or bred for specific qualities. The Debtors have developed refined tastes over centuries, curating bloodlines and species with the patience of the eternally damned.
+The Wrist hunts for **blood** and **souls**. Gold means nothing to them. Their ships carry living cargo the way merchant vessels carry grain. Some are drained immediately. Others are kept, traded, bred for specific qualities. Centuries of refined taste have made the Debtors connoisseurs of suffering.
 
-Their vessels are eerily silent things, moving through the void without the creak of wood or the snap of canvas. When The Wrist's colors appear on the horizon, seasoned captains know there are only two options: flee, or pray.
+When The Wrist's colors appear on the horizon, seasoned captains flee. The wise ones started running long before they saw the sails.
 
-The mysteries surrounding The Wrist are many: Whose hand is it? No one remembers the god's name. Is something still alive in the wrist-stump, pulsing beneath the ichor? And what happens when the blood finally runs dry?
+Whose hand is it? No one knows. The god's name has been forgotten. Something might still be alive in the wrist-stump, pulsing beneath the ichor. And the blood is running slower every century.
 
 #### The Foundlings
 
-Not every pirate crew chose their life. The Foundlings are constructs without masters-a diaspora of the abandoned, the discarded, and the escaped. Some were ejected by their crews for "malfunctioning" (the crime of developing thoughts, feelings, or preferences). Some walked off ships that treated them as expendable tools. Some are the sole survivors of destroyed fleets, still running on inertia long after their creators turned to dust.
+Some pirate crews chose the life. The Foundlings had it chosen for them.
 
-They found each other in the margins of wildspace. Drifting. Salvaging. Surviving.
+They are constructs without masters. Some were thrown out by their crews for "malfunctioning"—the crime of developing a personality. Some walked off ships that treated them as expendable equipment. Some are sole survivors of destroyed fleets, still running centuries after their creators turned to dust.
 
-The Foundlings don't have a homeworld. They have the **Circuit**-a loose network of dead stations, abandoned docks, and drifting wrecks where their kind can resupply and repair one another. The only rule among Foundlings is simple: *you don't own anyone here*.
+They found each other in the margins of wildspace, pulled together by salvage runs and shared desperation. Now they operate the **Circuit**: a network of dead stations, abandoned docks, and drifting wrecks where constructs can resupply, repair, and rest. The only rule is simple. *Nobody owns anyone here.*
 
-They distrust organics. Not out of hatred-out of experience. Every Foundling has a story about being used, discarded, or hunted for parts. They take in any construct who shows up, no questions asked. Some Foundlings are ancient, barely functional, running on jury-rigged parts and half-mad from centuries of isolation. Others are freshly abandoned, still adjusting to the strange and terrifying idea that they can *choose*.
+Organics are tolerated. Barely. Every Foundling carries a story about being used, discarded, or hunted for parts. Trust takes time. New constructs are welcomed without question. Ancient Foundlings, half-mad from centuries of isolation and held together with jury-rigged parts, share space with the freshly abandoned who are still learning what it means to *choose*.
 
-Their ships are patchwork things-a hull from one wreck, a helm from another, propulsion from a third. Ugly and mismatched, but functional. Some Foundlings *are* the ship, their cores integrated directly into the vessel itself.
+The ships are patchwork. A hull from one wreck, a helm from another, propulsion scraped from a third. Ugly, mismatched, functional. Some Foundlings have integrated their cores directly into the vessel. The ship is them.
 
-Not all Foundlings agree on what comes next. Some want to disappear, surviving quietly and avoiding organics entirely. Some want to salvage enough power to *matter*-to become a faction that can't be ignored. And some want revenge on the crews that threw them away.
+The Foundlings disagree about what comes next. Some want to disappear. Some want to build enough power to demand a seat at the table. Some want revenge.
 
 #### The Wayward
 
-[**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace) is easy to enter. Leaving is another matter.
+[**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace) swallows ships whole.
 
-They came through the rivers-merchants chasing opportunity, colonists seeking new ground, explorers following maps that led only inward. The portals sealed behind them. [**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace) doesn't let go.
+They came through the rivers. Merchants chasing opportunity. Colonists seeking new ground. Explorers following maps that led only inward. The portals sealed behind them. [**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace) kept them.
 
-Now they drift through the debris fields of shattered worlds, marked by the scars they gave themselves: ritual brands, tattoos, and cuts that say *we don't belong here*. In [**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace), that distinction is a death sentence. The natives and long-timers see outsiders as competition at best, prey at worst. The Wayward stopped waiting for hospitality a long time ago.
+Now they drift through debris fields and shattered worlds, marked by the scars they gave themselves: ritual brands, tattoos, cuts that say *outsider*. The natives treat that mark as a target. The Wayward stopped asking for hospitality years ago.
 
-They became pirates because they had no choice. No port would trade fairly with them. No faction would shelter them. When your options are steal or starve, morality becomes a luxury you can't afford. They take what they need-food, water, medical supplies, fuel-and they leave crews alive when they can. They're not cruel. They're just tired.
+Piracy became necessity. No port traded fairly with them. No faction offered shelter. They take what they need—food, water, fuel—and leave the crews alive when they can. Exhaustion has replaced cruelty.
 
-Every rumor of an exit draws them. Every whisper of a portal out of [**Clusterspace**](https://wiki.spelljammer.leshicodes.info/Lore/People%20And%20Places/Points%20of%20Interest#clusterspace) sends ships chasing ghosts across the asteroids. So far, nothing has worked. The Wayward don't talk about hope anymore. They talk about *next time*.
+Every rumor of an exit sends ships chasing ghosts across the asteroids. None of them have panned out. The Wayward stopped talking about hope. Now they talk about *next time*.
 
-If someone ever found them a way out, The Wayward would follow them through fire. Until then, they survive-one raid at a time, one scar at a time.
+Find them a way out, and they would follow you through fire.
