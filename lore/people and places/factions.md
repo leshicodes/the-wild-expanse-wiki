@@ -1,6 +1,6 @@
 ## Factions
 
-Since Wildjammer incorporates other settings into it, Wildjammer is not just host to a variety of faiths, but also factions. These factions are each seeking to achieve something out in the stars. The list in this section is not exhaustive, but just some options. More will come as we continue to play!
+Since Wildjammer incorporates other settings into it, Wildjammer is not just host to a variety of faiths, but also factions. These factions are each seeking to achieve something out in the stars. **The list in this section is not exhaustive**, but just some options. More will come as we continue to play!
 
 ---
 
@@ -93,3 +93,35 @@ The Xenos are a group of human supremacists with a deep hatred for non-human lif
 This group is a coalition of various spellcasters found across the spheres who come together to share knowledge of magic between one another. They have a strong interest in maintaining stability and order around them so that way they can focus on their spellcraft. This has made the Shapers an ally of anyone that promises to leave them alone to their Art while keeping the distractions to a minimum.
 
 If someone is ever looking for some sort of rare magic from some specialized school of magic, the Shapers will generally know someone who can help.
+
+---
+
+### Pirate Factions
+
+Piracy is an unfortunate reality of wildspace. Where there is trade, there are those who would take it by force. The following factions are among the most notorious-or tragic-pirate groups operating across the spheres.
+
+#### The Wrist
+
+Somewhere in the Astral Sea, the severed hand of a dead god drifts through the endless silver void. Pale as bleached bone, its fingers curl upward like crooked spires, and from the wrist-stump seeps an endless slow bleed of divine ichor-black, thick, and wrong. This is the domain of The Wrist.
+
+The vampires who claim this place call themselves **Debtors**. They harvest the god's blood-what they call the **Debt**-and drinking it makes them stronger, faster, and harder to kill. But it changes them. The oldest Debtors barely resemble vampires anymore: sunken, stretched, asymmetrical, their bodies warped by consuming something never meant for mortal or undead consumption.
+
+The Wrist doesn't pirate for gold. They pirate for **blood** and **souls**. Their ships carry living cargo the way merchant vessels carry grain-not all are drained immediately. Some are kept, traded, or bred for specific qualities. The Debtors have developed refined tastes over centuries, curating bloodlines and species with the patience of the eternally damned.
+
+Their vessels are eerily silent things, moving through the void without the creak of wood or the snap of canvas. When The Wrist's colors appear on the horizon, seasoned captains know there are only two options: flee, or pray.
+
+The mysteries surrounding The Wrist are many: Whose hand is it? No one remembers the god's name. Is something still alive in the wrist-stump, pulsing beneath the ichor? And what happens when the blood finally runs dry?
+
+#### The Foundlings
+
+Not every pirate crew chose their life. The Foundlings are constructs without masters-a diaspora of the abandoned, the discarded, and the escaped. Some were ejected by their crews for "malfunctioning" (the crime of developing thoughts, feelings, or preferences). Some walked off ships that treated them as expendable tools. Some are the sole survivors of destroyed fleets, still running on inertia long after their creators turned to dust.
+
+They found each other in the margins of wildspace. Drifting. Salvaging. Surviving.
+
+The Foundlings don't have a homeworld. They have the **Circuit**-a loose network of dead stations, abandoned docks, and drifting wrecks where their kind can resupply and repair one another. The only rule among Foundlings is simple: *you don't own anyone here*.
+
+They distrust organics. Not out of hatred-out of experience. Every Foundling has a story about being used, discarded, or hunted for parts. They take in any construct who shows up, no questions asked. Some Foundlings are ancient, barely functional, running on jury-rigged parts and half-mad from centuries of isolation. Others are freshly abandoned, still adjusting to the strange and terrifying idea that they can *choose*.
+
+Their ships are patchwork things-a hull from one wreck, a helm from another, propulsion from a third. Ugly and mismatched, but functional. Some Foundlings *are* the ship, their cores integrated directly into the vessel itself.
+
+Not all Foundlings agree on what comes next. Some want to disappear, surviving quietly and avoiding organics entirely. Some want to salvage enough power to *matter*-to become a faction that can't be ignored. And some want revenge on the crews that threw them away.
