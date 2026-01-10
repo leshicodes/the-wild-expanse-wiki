@@ -125,3 +125,17 @@ They distrust organics. Not out of hatred-out of experience. Every Foundling has
 Their ships are patchwork things-a hull from one wreck, a helm from another, propulsion from a third. Ugly and mismatched, but functional. Some Foundlings *are* the ship, their cores integrated directly into the vessel itself.
 
 Not all Foundlings agree on what comes next. Some want to disappear, surviving quietly and avoiding organics entirely. Some want to salvage enough power to *matter*-to become a faction that can't be ignored. And some want revenge on the crews that threw them away.
+
+#### The Wayward
+
+Clusterspace is easy to enter. Leaving is another matter.
+
+They came through the rivers-merchants chasing opportunity, colonists seeking new ground, explorers following maps that led only inward. The portals sealed behind them. Clusterspace doesn't let go.
+
+Now they drift through the debris fields of shattered worlds, marked by the scars they gave themselves: ritual brands, tattoos, and cuts that say *we don't belong here*. In Clusterspace, that distinction is a death sentence. The natives and long-timers see outsiders as competition at best, prey at worst. The Wayward stopped waiting for hospitality a long time ago.
+
+They became pirates because they had no choice. No port would trade fairly with them. No faction would shelter them. When your options are steal or starve, morality becomes a luxury you can't afford. They take what they need-food, water, medical supplies, fuel-and they leave crews alive when they can. They're not cruel. They're just tired.
+
+Every rumor of an exit draws them. Every whisper of a portal out of Clusterspace sends ships chasing ghosts across the asteroids. So far, nothing has worked. The Wayward don't talk about hope anymore. They talk about *next time*.
+
+If someone ever found them a way out, The Wayward would follow them through fire. Until then, they survive-one raid at a time, one scar at a time.
