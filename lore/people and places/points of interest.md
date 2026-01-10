@@ -118,7 +118,7 @@ There is no natural animal life on The Spectre, even though the disk could easil
 
 ### Krynnspace
 
-![Krynnspace](krynnspace.webp)
+![krynnspace](./krynnspace.webp)
 
 [Krynnspace](http://www.spelljammer.org/worlds/Krynnspace/) is home to the *Dragonlance* campaign setting.  Relative to Greyspace and Realmspace, the gods of Krynnspace are few in number but significantly more active and meddlesome in the affairs of mortals. This makes travelers a bit wary of this sphere.
 
