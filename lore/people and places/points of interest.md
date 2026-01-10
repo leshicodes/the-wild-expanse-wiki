@@ -152,7 +152,7 @@ The final planet in Krynnspace is Zivilyn, an air body world.  There are contine
 
 ### Clusterspace
 
-[*The Astromundi Cluster*](http://www.spelljammer.org/worlds/Clusterspace/) is a campaign setting created for Wildjammer to occupy the sphere called Clusterspace. This sphere is larger than any of the others discussed so far, so rather than go over an entire campaign setting, I'm going to review the broad ideas presented in the original material.
+[*The Astromundi Cluster*](http://www.spelljammer.org/worlds/Clusterspace/) is a campaign setting created for Wildjammer to occupy the sphere called Clusterspace..
 
 Clusterspace is an easy sphere to get into, but difficult to escape. It has rivers leading to it from **Krynnspace**, **Greyspace**, and **Realmspace**, yet it is often avoided Wildjammers find it easy to find portals to get in, but portals leading out are nearly non-existent and inaccessible to normal wildjammers even when found. Only the living ships of the Elven Imperial Navy seem to be able to escape.
 
@@ -160,7 +160,7 @@ As you might imagine from the name, most celestial bodies in Clusterspace are cl
 
 Clusterspace has just about every species you've ever imagined trapped there. The neogi and illithids make for common enemies, but other people trying to escape are just as dangerous.
 
-Although this makes it sound like Clusterspace is a blank slate, many of the destroyed planets that now make up the clusters of floating space debris hold ancient ruins that suggest Clusterspace is the origin sphere of the mind flayers.
+<!-- Although this makes it sound like Clusterspace is a blank slate, many of the destroyed planets that now make up the clusters of floating space debris hold ancient ruins that suggest Clusterspace is the origin sphere of the mind flayers. -->
 
 ---
 
