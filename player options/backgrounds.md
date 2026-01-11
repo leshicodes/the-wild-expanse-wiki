@@ -6,6 +6,38 @@ Who was your character before they were in wildspace? A bounty hunter, a merchan
 
 ---
 
+### Delinquent  
+Adapted from the [**Criminal**](https://5e.tools/backgrounds.html#criminal_phb) background, the Delinquent has a similar scope of trouble-making with no professional veneer.  The Delinquent might aspire to be a Criminal, but lacks the skills, connections, or drive to make any true career of it.  One might classify them as an Urchin, but they’d have to be an orphan for that.  No, the Delinquent isn’t trying to escape desperate poverty or circumstances; instead, they engage in petty crime for the simple pleasure of being petty. See also: trouble-maker, rabble-rouser, punk.
+
+**Feat:**
+*“If you’re going to be stupid, you better be tough.”*   
+Pick one of the following feats: [**Tough**](https://5e.tools/feats.html#tough_phb), [**Alert**](https://5e.tools/feats.html#alert_xphb), [**Durable**](https://5e.tools/feats.html#durable_phb).
+
+**Flaw:**
+The Delinquent’s worst enemy is themselves. Whether it’s poor judgement, a need for attention, or an adrenaline addiction, they have an unfailing ability to make a bad situation worse. 
+
+Pick a situation from the chart, or roll a d4.  Anytime your character is in said situation, roll a d10. On a Nat 1, you must do something that will cause trouble. (Optional: With significant character growth, and DM’s discretion, you may agree to change the dice to a d12, or even a d20.)
+
+| 1 | Issues with authority--An authority figure lays down the law. |
+| :---- | :---- |
+| 2 | Unsupervised--no one is around to see you do it, so you might as well try. |
+| 3 | Bored to death--A formal event, bureaucratic office, or dragging conversation. |
+| 4 | Attention-seeking--You are being ignored; OR, you really want to be noticed by someone.  |
+
+**Skill Proficiencies:**
+Slight of Hand, Stealth
+
+**Tool Proficiencies:**
+Thieves tool’s, a gaming set
+
+**Equipment:**
+Choose A or B: 
+- (A) 2 Daggers, Thieves' Tools, Crowbar, a gaming set (dice or cards), a small, disguised “stash” box, Traveler's Clothes, 16 GP
+- (B) 50 GP
+
+
+---
+
 ### Ghost of Saltmarsh Compatibility Addendum
 While looking at backgrounds, a player might notice that there are a variety of nautical themed backgrounds presented in the book [Ghosts of Saltmarsh (pg. 29-35)](https://5e.tools/adventure.html#gos,0,saltmarsh%20backgrounds,0). While these backgrounds are full of flavor, they include a background feature that is incompatible with the vehicle combat system presented in Wildjammer. In place of the background feature shown in those rules, We'll be using the following features instead.
 
