@@ -6,7 +6,7 @@ Who was your character before they were in wildspace? A bounty hunter, a merchan
 
 ---
 
-### Delinquent  
+### Delinquent
 Adapted from the [**Criminal**](https://5e.tools/backgrounds.html#criminal_phb) background, the Delinquent has a similar scope of trouble-making with no professional veneer.  The Delinquent might aspire to be a Criminal, but lacks the skills, connections, or drive to make any true career of it.  One might classify them as an Urchin, but they’d have to be an orphan for that.  No, the Delinquent isn’t trying to escape desperate poverty or circumstances; instead, they engage in petty crime for the simple pleasure of being petty. See also: trouble-maker, rabble-rouser, punk.
 
 **Feat:**
