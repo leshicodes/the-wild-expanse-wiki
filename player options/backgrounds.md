@@ -37,7 +37,7 @@ Choose A or B:
 - (A) 2 Daggers, Thieves' Tools, Crowbar, a gaming set (dice or cards), a small, disguised “stash” box, Traveler's Clothes, 16 GP
 - (B) 50 GP
 
-### Scrapforged (WIP)
+### Scrapforged
 
 *Prerequisite, Warforged*
 
