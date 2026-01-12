@@ -10,10 +10,12 @@ Who was your character before they were in wildspace? A bounty hunter, a merchan
 Adapted from the [**Criminal**](https://5e.tools/backgrounds.html#criminal_phb) background, the Delinquent has a similar scope of trouble-making with no professional veneer.  The Delinquent might aspire to be a Criminal, but lacks the skills, connections, or drive to make any true career of it.  One might classify them as an Urchin, but they’d have to be an orphan for that.  No, the Delinquent isn’t trying to escape desperate poverty or circumstances; instead, they engage in petty crime for the simple pleasure of being petty. See also: trouble-maker, rabble-rouser, punk.
 
 **Feat:**
+
 *“If you’re going to be stupid, you better be tough.”*   
 Pick one of the following feats: [**Tough**](https://5e.tools/feats.html#tough_phb), [**Alert**](https://5e.tools/feats.html#alert_xphb), [**Durable**](https://5e.tools/feats.html#durable_phb).
 
 **Flaw:**
+
 The Delinquent’s worst enemy is themselves. Whether it’s poor judgement, a need for attention, or an adrenaline addiction, they have an unfailing ability to make a bad situation worse. 
 
 Pick a situation from the chart, or roll a d4.  Anytime your character is in said situation, roll a d10. On a Nat 1, you must do something that will cause trouble. (Optional: With significant character growth, and DM’s discretion, you may agree to change the dice to a d12, or even a d20.)
@@ -25,10 +27,10 @@ Pick a situation from the chart, or roll a d4.  Anytime your character is in sai
 | 4 | Attention-seeking--You are being ignored; OR, you really want to be noticed by someone.  |
 
 **Skill Proficiencies:**
-Slight of Hand, Stealth
+- Slight of Hand, Stealth
 
 **Tool Proficiencies:**
-Thieves tool’s, a gaming set
+- Thieves tool’s, a gaming set
 
 **Equipment:**
 Choose A or B: 
@@ -46,9 +48,10 @@ Your body holds because you keep it holding. When fights get bad, things tear lo
 You are never the same shape twice for very long.
 
 **Feat: Tough**
-You gain the Tough feat from the Player's Handbook.
+- You gain the Tough feat from the Player's Handbook.
 
 **Feat: Held Together Enough:**
+
 Your body works because it has to.
 
 When you take **serious damage** (*DM trigger examples: a critical hit, losing half your HP in one hit, or dropping to 0 HP)*, something gives. The DM can roll or choose from the Scrap Complications table below.
@@ -81,6 +84,7 @@ Smith’s Tools, Tinker’s Tools, or Carpenter’s Tools
 - A pouch with 10 gp
 
 **Repairs and Replacements:**
+
 Fixing yourself is normal. Expected, even.
 
 You remove one **Scrap Complication** by any of the following:
