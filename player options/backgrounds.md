@@ -35,6 +35,60 @@ Choose A or B:
 - (A) 2 Daggers, Thieves' Tools, Crowbar, a gaming set (dice or cards), a small, disguised “stash” box, Traveler's Clothes, 16 GP
 - (B) 50 GP
 
+### Scrapforged (WIP)
+*Prerequisite, Warforged*
+You weren’t built in a clean workshop with blueprints and polish. You were thrown together. Bent iron. Broken tools. Armor plates that used to belong to someone else. Whoever made you needed something that could stand up and move, not something that would last forever.
+
+And it worked. Mostly.
+
+Your body holds because you keep it holding. When fights get bad, things tear loose. An arm pops free at the shoulder. A leg locks up. Plates crack and hang by wire. You don’t bleed, but you do come apart. Then later, by a fire or a workbench, you put yourself back together with whatever you can find.
+
+You are never the same shape twice for very long.
+
+**Feat: Held Together Enough:**
+Your body works because it has to.
+
+When you take **serious damage** (*DM trigger examples: a critical hit, losing half your HP in one hit, or dropping to 0 HP)*, something gives. The DM can roll or choose from the Scrap Complications table below.
+
+This never steals your turn or shuts you down completely. It makes the fight messier, not unplayable.
+
+**Scrap Complications:**
+
+| d6 | Outcome |
+| :---- | :---- |
+| 1 | **Arm Comes Loose.** Anything in that arm drops. Two-handed weapons can’t be used until fixed. |
+| 2 | **Leg Joint Warped.** Disadvantage on Dexterity checks. |
+| 3 | **Chest Plate Cracked** Your AC is reduced by 1 until repaired.|
+| 4 | **Sensors Knocked Out of Alignment.** Disadvantage on the next Perception check that relies on sight or hearing. |
+| 5 | **Gears Jammed.** You can’t take reactions until repaired. |
+| 6 | **Everything’s Loose.** No combat penalty, but you clank and rattle. Disadvantage on the next Stealth check. |
+
+
+**Skill Proficiencies:**
+Athletics or Survival
+
+**Tool Proficiencies:**
+Smith’s Tools, Tinker’s Tools, or Carpenter’s Tools
+
+**Equipment:**
+- A battered set of tools tied together with wire
+- A sack of scrap parts: bolts, plates, hinges, springs
+- Worn travel clothes reinforced with mismatched metal
+- One recognizable piece from your original construction
+- A pouch with 10 gp
+
+**Repairs and Replacements:**
+Fixing yourself is normal. Expected, even.
+
+You remove one **Scrap Complication** by any of the following:
+
+- Someone casts **Mending** on you
+- An artificer helps you during a short rest
+- You work on yourself during a long rest, as long as you have basic tools and scrap
+
+If a limb is fully torn off, you can rebuild it during a long rest. The replacement works fine. It never looks quite right.
+
+No gold cost unless the DM wants it to matter in the story.
 
 ---
 
