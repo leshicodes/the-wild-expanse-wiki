@@ -39,6 +39,7 @@ Choose A or B:
 
 ### Scrapforged (WIP)
 *Prerequisite, Warforged*
+
 You weren’t built in a clean workshop with blueprints and polish. You were thrown together. Bent iron. Broken tools. Armor plates that used to belong to someone else. Whoever made you needed something that could stand up and move, not something that would last forever.
 
 And it worked. Mostly.
