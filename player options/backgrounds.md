@@ -45,8 +45,8 @@ Your body holds because you keep it holding. When fights get bad, things tear lo
 
 You are never the same shape twice for very long.
 
-**Feat: Tough:**
-Gain the **Tough** feat.
+**Feat: Tough**
+You gain the Tough feat from the Player's Handbook.
 
 **Feat: Held Together Enough:**
 Your body works because it has to.
