@@ -34,7 +34,7 @@ Pick a situation from the chart, or roll a d4.  Anytime your character is in sai
 
 **Equipment:**
 Choose A or B: 
-- (A) 2 Daggers, Thieves' Tools, Crowbar, a gaming set (dice or cards), a small, disguised “stash” box, Traveler's Clothes, 16 GP
+- (A) 2 Daggers, Thieves' Tools, Crowbar, a gaming set (dice or cards), a small disguised stash box, Traveler's Clothes, 16 GP
 - (B) 50 GP
 
 ### Scrapforged
@@ -98,6 +98,28 @@ You remove one **Scrap Complication** by any of the following:
 If a limb is fully torn off, you can rebuild it during a long rest. The replacement works fine. It never looks quite right.
 
 No gold cost unless the DM wants it to matter in the story.
+
+### Desert Nomad
+
+Adapted from the [**Hermit**](https://5e.tools/backgrounds.html#hermit_xphb) background
+
+**Ability Scores:**
+- Constitution, Wisdom, Charisma
+
+**Feat:**
+- [Healer](https://5e.tools/feats.html#healer_xphb)
+
+**Skill Proficiencies:**
+- Investigation, Medicine
+
+**Tool Proficiency:** 
+- Carpenters Tools, Alchemist Supplies
+
+**Equipment:** 
+Choose A or B: 
+- **(A)** Quarterstaff, Herbalism Kit, Bedroll, Book (philosophy), Lamp, Oil (3 flasks), Traveler's Clothes, 16 GP
+- **(B)** 50 GP
+
 
 ---
 
