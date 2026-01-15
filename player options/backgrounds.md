@@ -103,9 +103,6 @@ No gold cost unless the DM wants it to matter in the story.
 
 Adapted from the [**Hermit**](https://5e.tools/backgrounds.html#hermit_xphb) background
 
-**Ability Scores:**
-- Constitution, Wisdom, Charisma
-
 **Feat:**
 - [Healer](https://5e.tools/feats.html#healer_xphb)
 
